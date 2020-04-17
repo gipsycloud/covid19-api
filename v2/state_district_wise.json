@@ -1,1 +1,161 @@
-[]
+[
+  {
+    "state": "Chin",
+    "districtData": [
+      {
+        "district": "Falam",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Yangon",
+    "districtData": [
+      {
+        "district": "Yangon (West)",
+        "confirmed": 64,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Yangon (North)",
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Yangon (East)",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Mandalay",
+    "districtData": [
+      {
+        "district": "Mandalay",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Nay Pyi Taw",
+    "districtData": [
+      {
+        "district": "Oke Ta Ra",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Shan (North)",
+    "districtData": [
+      {
+        "district": "Kyaukme",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Bago",
+    "districtData": [
+      {
+        "district": "Bago",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Mon",
+    "districtData": [
+      {
+        "district": "Mawlamyine",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Shan (South)",
+    "districtData": [
+      {
+        "district": "Taunggyi",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Magway",
+    "districtData": [
+      {
+        "district": "Magway",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Shan (East)",
+    "districtData": [
+      {
+        "district": "Tachileik",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Sagaing",
+    "districtData": [
+      {
+        "district": "Kale",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  }
+]
