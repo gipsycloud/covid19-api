@@ -21,244 +21,244 @@
 			"totalrecovered": "0"
 		},
 		{
-			"active": "2",
+			"active": "3",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "24/03/2020",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
-			"totalrecovered": "1"
+			"totalrecovered": "0"
 		},
 		{
-			"active": "2",
+			"active": "3",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "25/03/2020",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
-			"totalrecovered": "1"
+			"totalrecovered": "0"
 		},
 		{
-			"active": "2",
+			"active": "3",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "26/03/2020",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
-			"totalrecovered": "1"
-		},
-		{
-			"active": "2",
-			"dailyconfirmed": "2",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
-			"date": "27/03/2020",
-			"totalconfirmed": "5",
-			"totaldeceased": "1",
-			"totalrecovered": "2"
-		},
-		{
-			"active": "4",
-			"dailyconfirmed": "3",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
-			"date": "28/03/2020",
-			"totalconfirmed": "8",
-			"totaldeceased": "1",
-			"totalrecovered": "3"
+			"totalrecovered": "0"
 		},
 		{
 			"active": "5",
 			"dailyconfirmed": "2",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
-			"date": "29/03/2020",
-			"totalconfirmed": "10",
-			"totaldeceased": "1",
-			"totalrecovered": "4"
+			"date": "27/03/2020",
+			"totalconfirmed": "5",
+			"totaldeceased": "0",
+			"totalrecovered": "0"
 		},
 		{
 			"active": "8",
+			"dailyconfirmed": "3",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "28/03/2020",
+			"totalconfirmed": "8",
+			"totaldeceased": "0",
+			"totalrecovered": "0"
+		},
+		{
+			"active": "10",
+			"dailyconfirmed": "2",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "29/03/2020",
+			"totalconfirmed": "10",
+			"totaldeceased": "0",
+			"totalrecovered": "0"
+		},
+		{
+			"active": "14",
 			"dailyconfirmed": "4",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "30/03/2020",
 			"totalconfirmed": "14",
-			"totaldeceased": "1",
-			"totalrecovered": "5"
+			"totaldeceased": "0",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "9",
+			"active": "14",
 			"dailyconfirmed": "1",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "31/03/2020",
 			"totalconfirmed": "15",
 			"totaldeceased": "1",
-			"totalrecovered": "5"
+			"totalrecovered": "0"
 		},
 		{
-			"active": "9",
+			"active": "15",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "01/04/2020",
 			"totalconfirmed": "16",
-			"totaldeceased": "2",
-			"totalrecovered": "5"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "12",
+			"active": "19",
 			"dailyconfirmed": "4",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "02/04/2020",
 			"totalconfirmed": "20",
-			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "12",
+			"active": "19",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "03/04/2020",
 			"totalconfirmed": "20",
-			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "13",
+			"active": "20",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "04/04/2020",
 			"totalconfirmed": "21",
-			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "13",
+			"active": "20",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "05/04/2020",
 			"totalconfirmed": "21",
-			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "14",
+			"active": "21",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "06/04/2020",
 			"totalconfirmed": "22",
-			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "14",
+			"active": "21",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "07/04/2020",
 			"totalconfirmed": "22",
-			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "14",
+			"active": "19",
 			"dailyconfirmed": "0",
 			"dailydeceased": "2",
 			"dailyrecovered": "0",
 			"date": "08/04/2020",
 			"totalconfirmed": "22",
 			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totalrecovered": "0"
 		},
 		{
-			"active": "15",
+			"active": "18",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "2",
 			"date": "09/04/2020",
 			"totalconfirmed": "23",
 			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "20",
+			"active": "23",
 			"dailyconfirmed": "5",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "10/04/2020",
 			"totalconfirmed": "28",
 			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "23",
+			"active": "26",
 			"dailyconfirmed": "3",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "11/04/2020",
 			"totalconfirmed": "31",
 			"totaldeceased": "3",
-			"totalrecovered": "5"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "32",
+			"active": "35",
 			"dailyconfirmed": "10",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "12/04/2020",
 			"totalconfirmed": "41",
 			"totaldeceased": "4",
-			"totalrecovered": "5"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "32",
+			"active": "35",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "13/04/2020",
 			"totalconfirmed": "41",
 			"totaldeceased": "4",
-			"totalrecovered": "5"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "54",
+			"active": "57",
 			"dailyconfirmed": "22",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "14/04/2020",
 			"totalconfirmed": "63",
 			"totaldeceased": "4",
-			"totalrecovered": "5"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "65",
+			"active": "68",
 			"dailyconfirmed": "11",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "15/04/2020",
 			"totalconfirmed": "74",
 			"totaldeceased": "4",
-			"totalrecovered": "5"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "76",
+			"active": "79",
 			"dailyconfirmed": "11",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "16/04/2020",
 			"totalconfirmed": "85",
 			"totaldeceased": "4",
-			"totalrecovered": "5"
+			"totalrecovered": "2"
 		},
 		{
 			"active": "79",
@@ -279,7 +279,7 @@
 			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "3",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "5",
 			"state": "Total",
 			"statecode": "TT"
@@ -291,7 +291,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Ayeyarwady",
 			"statecode": "MM-07"
@@ -303,7 +303,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Bago",
 			"statecode": "MM-02"
@@ -315,7 +315,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Chin",
 			"statecode": "MM-14"
@@ -327,7 +327,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Kachin",
 			"statecode": "MM-11"
@@ -339,7 +339,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Kayah",
 			"statecode": "MM-12"
@@ -351,7 +351,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Kayin",
 			"statecode": "MM-13"
@@ -363,7 +363,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Magway",
 			"statecode": "MM-03"
@@ -375,7 +375,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "1",
 			"state": "Mandalay",
 			"statecode": "MM-04"
@@ -387,7 +387,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Mon",
 			"statecode": "MM-15"
@@ -399,7 +399,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Rakhine",
 			"statecode": "MM-16"
@@ -411,7 +411,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Shan",
 			"statecode": "MM-17"
@@ -423,7 +423,7 @@
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Sagaing",
 			"statecode": "MM-01"
@@ -435,7 +435,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "0",
 			"state": "Tanintharyi",
 			"statecode": "MM-05"
@@ -447,7 +447,7 @@
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "3",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "3",
 			"state": "Yangon",
 			"statecode": "MM-06"
@@ -459,7 +459,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 03:08:01",
+			"lastupdatedtime": "17/04/2020 00:00:00",
 			"recovered": "1",
 			"state": "Naypyidaw",
 			"statecode": "MM-18"
