@@ -1,161 +1,137 @@
-[
-  {
-    "state": "Chin",
-    "districtData": [
-      {
-        "district": "Falam",
+{
+  "Chin": {
+    "districtData": {
+      "Falam": {
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Yangon",
-    "districtData": [
-      {
-        "district": "Yangon (West)",
+  "Yangon": {
+    "districtData": {
+      "Yangon (West)": {
         "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      {
-        "district": "Yangon (North)",
+      "Yangon (North)": {
         "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      {
-        "district": "Yangon (East)",
+      "Yangon (East)": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Mandalay",
-    "districtData": [
-      {
-        "district": "Mandalay",
+  "Mandalay": {
+    "districtData": {
+      "Mandalay": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Nay Pyi Taw",
-    "districtData": [
-      {
-        "district": "Oke Ta Ra",
+  "Nay Pyi Taw": {
+    "districtData": {
+      "Oke Ta Ra": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Shan (North)",
-    "districtData": [
-      {
-        "district": "Kyaukme",
+  "Shan (North)": {
+    "districtData": {
+      "Kyaukme": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Bago",
-    "districtData": [
-      {
-        "district": "Bago",
+  "Bago": {
+    "districtData": {
+      "Bago": {
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Mon",
-    "districtData": [
-      {
-        "district": "Mawlamyine",
+  "Mon": {
+    "districtData": {
+      "Mawlamyine": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Shan (South)",
-    "districtData": [
-      {
-        "district": "Taunggyi",
+  "Shan (South)": {
+    "districtData": {
+      "Taunggyi": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Magway",
-    "districtData": [
-      {
-        "district": "Magway",
+  "Magway": {
+    "districtData": {
+      "Magway": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Shan (East)",
-    "districtData": [
-      {
-        "district": "Tachileik",
+  "Shan (East)": {
+    "districtData": {
+      "Tachileik": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   },
-  {
-    "state": "Sagaing",
-    "districtData": [
-      {
-        "district": "Kale",
+  "Sagaing": {
+    "districtData": {
+      "Kale": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       }
-    ]
+    }
   }
-]
+}
