@@ -261,21 +261,21 @@
 			"totalrecovered": "2"
 		},
 		{
-			"active": "79",
-			"dailyconfirmed": "3",
+			"active": "85",
+			"dailyconfirmed": "9",
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
 			"date": "17/04/2020",
-			"totalconfirmed": "88",
+			"totalconfirmed": "94",
 			"totaldeceased": "4",
 			"totalrecovered": "5"
 		}
 	],
 	"statewise": [
 		{
-			"active": "79",
+			"active": "78",
 			"confirmed": "88",
-			"deaths": "4",
+			"deaths": "5",
 			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "3",
@@ -441,9 +441,9 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": "64",
+			"active": "63",
 			"confirmed": "70",
-			"deaths": "3",
+			"deaths": "4",
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "3",
