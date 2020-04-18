@@ -145,7 +145,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Confirmed",
-			"tt": "0"
+			"tt": "1"
 		},
 		{
 			"currentstatus": "recovered",
@@ -166,7 +166,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Recovered",
-			"tt": "1"
+			"tt": "0"
 		},
 		{
 			"currentstatus": "deceased",
@@ -334,7 +334,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Confirmed",
-			"tt": "0"
+			"tt": "2"
 		},
 		{
 			"currentstatus": "recovered",
@@ -355,7 +355,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Recovered",
-			"tt": "1"
+			"tt": "0"
 		},
 		{
 			"currentstatus": "deceased",
@@ -376,7 +376,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Deceased",
-			"tt": "1"
+			"tt": "0"
 		},
 		{
 			"currentstatus": "inpatient",
@@ -397,7 +397,7 @@
 			"mm-17": "0",
 			"mm-18": "1",
 			"status": "Confirmed",
-			"tt": "2"
+			"tt": "3"
 		},
 		{
 			"currentstatus": "recovered",
@@ -418,7 +418,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Recovered",
-			"tt": "1"
+			"tt": "0"
 		},
 		{
 			"currentstatus": "deceased",
@@ -460,7 +460,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Confirmed",
-			"tt": "1"
+			"tt": "2"
 		},
 		{
 			"currentstatus": "recovered",
@@ -481,7 +481,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Recovered",
-			"tt": "1"
+			"tt": "0"
 		},
 		{
 			"currentstatus": "deceased",
@@ -523,7 +523,7 @@
 			"mm-17": "1",
 			"mm-18": "0",
 			"status": "Confirmed",
-			"tt": "3"
+			"tt": "4"
 		},
 		{
 			"currentstatus": "recovered",
@@ -544,7 +544,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Recovered",
-			"tt": "1"
+			"tt": "0"
 		},
 		{
 			"currentstatus": "deceased",
@@ -628,7 +628,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Deceased",
-			"tt": "0"
+			"tt": "1"
 		},
 		{
 			"currentstatus": "inpatient",
@@ -649,7 +649,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Confirmed",
-			"tt": "0"
+			"tt": "1"
 		},
 		{
 			"currentstatus": "recovered",
@@ -691,7 +691,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Deceased",
-			"tt": "1"
+			"tt": "0"
 		},
 		{
 			"currentstatus": "inpatient",
@@ -712,7 +712,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Confirmed",
-			"tt": "3"
+			"tt": "4"
 		},
 		{
 			"currentstatus": "recovered",
@@ -754,7 +754,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Deceased",
-			"tt": "1"
+			"tt": "0"
 		},
 		{
 			"currentstatus": "inpatient",
@@ -1048,7 +1048,7 @@
 			"mm-17": "0",
 			"mm-18": "1",
 			"status": "Recovered",
-			"tt": "0"
+			"tt": "1"
 		},
 		{
 			"currentstatus": "deceased",
@@ -1111,7 +1111,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Recovered",
-			"tt": "0"
+			"tt": "1"
 		},
 		{
 			"currentstatus": "deceased",
@@ -1132,7 +1132,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Deceased",
-			"tt": "0"
+			"tt": "2"
 		},
 		{
 			"currentstatus": "inpatient",
@@ -1174,7 +1174,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Recovered",
-			"tt": "0"
+			"tt": "1"
 		},
 		{
 			"currentstatus": "deceased",
@@ -1342,7 +1342,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Confirmed",
-			"tt": "9"
+			"tt": "10"
 		},
 		{
 			"currentstatus": "recovered",
@@ -1363,7 +1363,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Recovered",
-			"tt": "0"
+			"tt": "1"
 		},
 		{
 			"currentstatus": "deceased",
@@ -1615,7 +1615,7 @@
 			"mm-17": "0",
 			"mm-18": "0",
 			"status": "Recovered",
-			"tt": "0"
+			"tt": "1"
 		},
 		{
 			"currentstatus": "deceased",
@@ -1720,7 +1720,7 @@
 			"mm-17": "1",
 			"mm-18": "0",
 			"status": "Confirmed",
-			"tt": "12"
+			"tt": "13"
 		},
 		{
 			"currentstatus": "recovered",
