@@ -1,7 +1,6 @@
 {
 	"cases_time_series": [
 		{
-			"_cyevm": "#ERROR!",
 			"active": "1",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
@@ -269,6 +268,16 @@
 			"date": "17/04/2020",
 			"totalconfirmed": "85",
 			"totaldeceased": "4",
+			"totalrecovered": "5"
+		},
+		{
+			"active": "86",
+			"dailyconfirmed": "11",
+			"dailydeceased": "1",
+			"dailyrecovered": "0",
+			"date": "18/04/2020",
+			"totalconfirmed": "96",
+			"totaldeceased": "5",
 			"totalrecovered": "5"
 		}
 	],
