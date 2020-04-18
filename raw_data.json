@@ -18,6 +18,7 @@
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-23-3-2020-11-45-pm",
 			"statecode": "MM-14",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -38,6 +39,7 @@
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-23-3-2020-11-45-pm",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -58,6 +60,7 @@
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-25-3-2020-01-00-am",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"statusupdatedate": "17/4",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -78,6 +81,7 @@
 			"source2": "",
 			"statecode": "MM-04",
 			"status": "recovered",
+			"statusupdatedate": "9/4",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -98,6 +102,7 @@
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%93-%E1%80%90-%E1%80%81-%E1%80%A1%E1%80%90%E1%80%8A-%E1%80%95-%E1%80%9C-%E1%80%94-%E1%81%81-%E1%80%A6-%E1%80%9E-%E1%80%86-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-31-3-2020",
 			"statecode": "MM-06",
 			"status": "deceased",
+			"statusupdatedate": "31/3",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -118,6 +123,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -138,6 +144,7 @@
 			"source2": "",
 			"statecode": "MM-18",
 			"status": "recovered",
+			"statusupdatedate": "9/4",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -158,6 +165,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -178,6 +186,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3334890946540187",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"statusupdatedate": "17/4",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -198,6 +207,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -218,6 +228,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -238,6 +249,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3334890946540187",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"statusupdatedate": "17/4",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -258,6 +270,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -278,6 +291,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -298,6 +312,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -318,6 +333,7 @@
 			"source2": "https://www.facebook.com/199295433433103/posts/3310281902334425/",
 			"statecode": "MM-06",
 			"status": "deceased",
+			"statusupdatedate": "08/04/2020",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -338,6 +354,7 @@
 			"source2": "https://www.facebook.com/199295433433103/posts/3310281902334425/",
 			"statecode": "MM-02",
 			"status": "deceased",
+			"statusupdatedate": "8/4/2020",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -358,6 +375,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -378,6 +396,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -398,6 +417,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -418,6 +438,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -438,6 +459,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -458,6 +480,7 @@
 			"source2": "",
 			"statecode": "MM-14",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -478,6 +501,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -498,6 +522,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -518,6 +543,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -538,6 +564,7 @@
 			"source2": "",
 			"statecode": "MM-15",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -558,6 +585,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -578,6 +606,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -598,6 +627,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -618,6 +648,7 @@
 			"source2": "",
 			"statecode": "MM-14",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -638,6 +669,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -658,6 +690,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -678,6 +711,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -698,6 +732,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -718,6 +753,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -738,6 +774,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -758,6 +795,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -778,6 +816,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "deceased",
+			"statusupdatedate": "12/4",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -798,6 +837,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -818,6 +858,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -838,6 +879,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -858,6 +900,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -878,6 +921,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -898,6 +942,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -918,6 +963,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -938,6 +984,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -958,6 +1005,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -978,6 +1026,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -998,6 +1047,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1018,6 +1068,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1038,6 +1089,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1058,6 +1110,7 @@
 			"source2": "",
 			"statecode": "MM-03",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -1078,6 +1131,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1098,6 +1152,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1118,6 +1173,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1138,6 +1194,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1158,6 +1215,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1178,6 +1236,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1198,6 +1257,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1218,6 +1278,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1238,6 +1299,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1258,6 +1320,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1278,6 +1341,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1298,6 +1362,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1318,6 +1383,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1338,6 +1404,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1358,6 +1425,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1378,6 +1446,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1398,6 +1467,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1418,6 +1488,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1438,6 +1509,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1458,6 +1530,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1478,6 +1551,7 @@
 			"source2": "",
 			"statecode": "MM-01",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1498,6 +1572,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1518,6 +1593,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1538,6 +1614,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1558,6 +1635,7 @@
 			"source2": "",
 			"statecode": "MM-14",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1578,6 +1656,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1598,6 +1677,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1618,6 +1698,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1638,6 +1719,7 @@
 			"source2": "",
 			"statecode": "MM-04",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -1658,6 +1740,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -1678,6 +1761,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1698,6 +1782,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1718,6 +1803,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "deceased",
+			"statusupdatedate": "18/4",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1738,6 +1824,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1758,6 +1845,7 @@
 			"source2": "",
 			"statecode": "MM-01",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1778,6 +1866,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1798,6 +1887,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1818,6 +1908,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1838,6 +1929,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1858,6 +1950,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1878,6 +1971,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"statusupdatedate": "",
 			"typeoftransmission": "Local"
 		}
 	]
