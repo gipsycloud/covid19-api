@@ -1762,7 +1762,7 @@
 		},
 		{
 			"agebracket": "50",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "39",
 			"currentstatus": "inpatient",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
@@ -1932,7 +1932,7 @@
 			"gender": "F",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "သင်္ယန်းကျွန်းမြို့နယ်တွင်နေထိုင် အသွားအလာကန့်သတ်",
+			"notes": "မင်္ဂလာဒုံမြို့နယ်တွင်နေထိုင် အသွားအလာကန့်သတ်",
 			"patientnumber": "97",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3337820122913936?",
