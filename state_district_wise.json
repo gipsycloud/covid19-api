@@ -13,7 +13,7 @@
   "Yangon": {
     "districtData": {
       "Yangon (West)": {
-        "confirmed": 70,
+        "confirmed": 71,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -115,6 +115,13 @@
   "Shan (East)": {
     "districtData": {
       "Tachileik": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Kengtung": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
