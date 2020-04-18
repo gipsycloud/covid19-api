@@ -1,7 +1,7 @@
 {
 	"cases_time_series": [
 		{
-			"_cyevm": "22/03/2020",
+			"_cyevm": "#ERROR!",
 			"active": "1",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
@@ -12,7 +12,6 @@
 			"totalrecovered": "0"
 		},
 		{
-			"_cyevm": "23/03/2020",
 			"active": "2",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
@@ -23,1050 +22,266 @@
 			"totalrecovered": "0"
 		},
 		{
-			"_cyevm": "24/03/2020",
-			"active": "3",
+			"active": "2",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailyrecovered": "1",
 			"date": "24/03/2020",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
-			"totalrecovered": "0"
+			"totalrecovered": "1"
 		},
 		{
-			"_cyevm": "27/03/2020",
-			"active": "3",
+			"active": "2",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "25/03/2020",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
-			"totalrecovered": "0"
+			"totalrecovered": "1"
 		},
 		{
-			"_cyevm": "27/03/2020",
-			"active": "3",
+			"active": "2",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "26/03/2020",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
-			"totalrecovered": "0"
+			"totalrecovered": "1"
 		},
 		{
-			"_cyevm": "28/03/2020",
-			"active": "3",
+			"active": "2",
 			"dailyconfirmed": "2",
 			"dailydeceased": "1",
 			"dailyrecovered": "1",
 			"date": "27/03/2020",
 			"totalconfirmed": "5",
 			"totaldeceased": "1",
-			"totalrecovered": "1"
+			"totalrecovered": "2"
 		},
 		{
-			"_cyevm": "28/03/2020",
-			"active": "5",
+			"active": "4",
 			"dailyconfirmed": "3",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "28/03/2020",
 			"totalconfirmed": "8",
 			"totaldeceased": "1",
-			"totalrecovered": "2"
+			"totalrecovered": "3"
 		},
 		{
-			"_cyevm": "28/03/2020",
-			"active": "7",
+			"active": "5",
 			"dailyconfirmed": "2",
 			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailyrecovered": "1",
 			"date": "29/03/2020",
 			"totalconfirmed": "10",
 			"totaldeceased": "1",
-			"totalrecovered": "2"
+			"totalrecovered": "4"
 		},
 		{
-			"_cyevm": "29/03/2020",
-			"active": "11",
+			"active": "8",
 			"dailyconfirmed": "4",
 			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailyrecovered": "1",
 			"date": "30/03/2020",
 			"totalconfirmed": "14",
 			"totaldeceased": "1",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "29/03/2020",
-			"active": "12",
+			"active": "9",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "31/03/2020",
 			"totalconfirmed": "15",
 			"totaldeceased": "1",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "30/03/2020",
-			"active": "12",
+			"active": "9",
 			"dailyconfirmed": "1",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "01/04/2020",
 			"totalconfirmed": "16",
 			"totaldeceased": "2",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "30/03/2020",
-			"active": "15",
+			"active": "12",
 			"dailyconfirmed": "4",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "02/04/2020",
 			"totalconfirmed": "20",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "30/03/2020",
-			"active": "15",
+			"active": "12",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "03/04/2020",
 			"totalconfirmed": "20",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "30/03/2020",
-			"active": "16",
+			"active": "13",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "04/04/2020",
 			"totalconfirmed": "21",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "31/03/2020",
-			"active": "16",
+			"active": "13",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "05/04/2020",
 			"totalconfirmed": "21",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "01/04/2020",
-			"active": "17",
+			"active": "14",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "06/04/2020",
 			"totalconfirmed": "22",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "02/04/2020",
-			"active": "17",
+			"active": "14",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "07/04/2020",
 			"totalconfirmed": "22",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "02/04/2020",
-			"active": "17",
+			"active": "14",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "08/04/2020",
 			"totalconfirmed": "22",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "02/04/2020",
-			"active": "18",
+			"active": "15",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "09/04/2020",
 			"totalconfirmed": "23",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "02/04/2020",
-			"active": "23",
+			"active": "20",
 			"dailyconfirmed": "5",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "10/04/2020",
 			"totalconfirmed": "28",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "04/04/2020",
-			"active": "26",
+			"active": "23",
 			"dailyconfirmed": "3",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "11/04/2020",
 			"totalconfirmed": "31",
 			"totaldeceased": "3",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "06/04/2020",
-			"active": "35",
+			"active": "32",
 			"dailyconfirmed": "10",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "12/04/2020",
 			"totalconfirmed": "41",
 			"totaldeceased": "4",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "09/04/2020",
-			"active": "35",
+			"active": "32",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "13/04/2020",
 			"totalconfirmed": "41",
 			"totaldeceased": "4",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "10/04/2020",
-			"active": "57",
+			"active": "54",
 			"dailyconfirmed": "22",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "14/04/2020",
 			"totalconfirmed": "63",
 			"totaldeceased": "4",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "10/04/2020",
-			"active": "68",
+			"active": "65",
 			"dailyconfirmed": "11",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "15/04/2020",
 			"totalconfirmed": "74",
 			"totaldeceased": "4",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "10/04/2020",
-			"active": "79",
+			"active": "76",
 			"dailyconfirmed": "11",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "16/04/2020",
 			"totalconfirmed": "85",
 			"totaldeceased": "4",
-			"totalrecovered": "2"
+			"totalrecovered": "5"
 		},
 		{
-			"_cyevm": "10/04/2020",
-			"active": "79",
+			"active": "76",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "17/04/2020",
 			"totalconfirmed": "85",
 			"totaldeceased": "4",
-			"totalrecovered": "2"
-		},
-		{
-			"_cyevm": "10/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "11/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "11/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "11/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "12/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "14/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "15/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "16/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
-		},
-		{
-			"_cyevm": "18/04/2020",
-			"active": "",
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
-			"date": "",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
+			"totalrecovered": "5"
 		}
 	],
 	"statewise": [
 		{
-			"active": "87",
+			"active": "84",
 			"confirmed": "94",
 			"deaths": "5",
 			"deltaconfirmed": "9",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "18/04/2020 00:00:00",
-			"recovered": "2",
+			"recovered": "5",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1227,14 +442,14 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": "72",
+			"active": "69",
 			"confirmed": "76",
 			"deaths": "4",
 			"deltaconfirmed": "8",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "18/04/2020 00:00:00",
-			"recovered": "0",
+			"recovered": "3",
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},
