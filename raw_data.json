@@ -1879,6 +1879,46 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "inpatient",
+			"dateannounced": "18/04/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "",
+			"dischargeddeceaseddate": "",
+			"gender": "",
+			"labresult": "positive",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "95",
+			"region": "",
+			"source1": "",
+			"source2": "",
+			"statecode": "",
+			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "inpatient",
+			"dateannounced": "18/04/2020",
+			"detectedcity": "",
+			"detecteddistrict": "",
+			"detectedstate": "",
+			"dischargeddeceaseddate": "",
+			"gender": "",
+			"labresult": "positive",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "96",
+			"region": "",
+			"source1": "",
+			"source2": "",
+			"statecode": "",
+			"typeoftransmission": "Local"
 		}
 	]
 }
