@@ -13,10 +13,10 @@
   "Yangon": {
     "districtData": {
       "Yangon (West)": {
-        "confirmed": 64,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Yangon (North)": {
@@ -129,7 +129,7 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
