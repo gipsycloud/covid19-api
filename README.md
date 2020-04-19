@@ -1,4 +1,4 @@
-# COVID19-India API
+# COVID19-Myanmar API
 
 A volunteer-driven database for COVID-19 stats & patient tracing in Myanmar.
 
