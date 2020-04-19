@@ -1742,7 +1742,7 @@
 		},
 		{
 			"agebracket": "47",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "01",
 			"currentstatus": "inpatient",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ကလေး",
