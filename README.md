@@ -23,7 +23,7 @@ A volunteer-driven database for COVID-19 stats & patient tracing in Myanmar.
 
 ## How this works
 
-- This repo is merely a bridge to the main source of Data ([Google Sheets](http://bit.ly/2019ncovmmdata))
+- This repo is merely a bridge to the ([Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQtsZ5wa7wVHyyDBNtRKB--kFiCXPAlr_ka7X-DFY5yV4KR-a2pFne7HQKEkNBecqzczu8AfkqQ5jdR/pubhtml) derived from [main source](http://bit.ly/2019ncovmmdata))
 - Volunteers collect data from trusted sources and update the sheet
 - This repo periodically fetches relevant data from the Sheet and create/update static json/csv.
 
