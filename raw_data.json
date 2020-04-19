@@ -3,7 +3,7 @@
 		{
 			"agebracket": "36",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "22/03/2020",
 			"detectedcity": "တီးတိန်",
 			"detecteddistrict": "Falam",
@@ -18,12 +18,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-22-3-2020-8-00-pm",
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-23-3-2020-11-45-pm",
 			"statecode": "MM-14",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "23/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -38,12 +39,13 @@
 			"source1": "",
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-23-3-2020-11-45-pm",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "recovered",
+			"currentstatus": "Recovered",
 			"dateannounced": "24/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -58,12 +60,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-24-3-2020-8-00-pm",
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-25-3-2020-01-00-am",
 			"statecode": "MM-06",
+			"status": "recovered",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "33",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "recovered",
+			"currentstatus": "Recovered",
 			"dateannounced": "27/03/2020",
 			"detectedcity": "မန္တလေး",
 			"detecteddistrict": "Mandalay",
@@ -78,12 +81,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-27-3-2020-1-45-am",
 			"source2": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-9-4-2020-8-00-pm",
 			"statecode": "MM-04",
+			"status": "recovered",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "69",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "deceased",
+			"currentstatus": "Deceased",
 			"dateannounced": "27/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -98,12 +102,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-27-3-2020-1-45-am",
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%93-%E1%80%90-%E1%80%81-%E1%80%A1%E1%80%90%E1%80%8A-%E1%80%95-%E1%80%9C-%E1%80%94-%E1%81%81-%E1%80%A6-%E1%80%9E-%E1%80%86-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-31-3-2020",
 			"statecode": "MM-06",
+			"status": "deceased",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "29",
 			"contractedfromwhichpatientsuspected": "03",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "28/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -118,12 +123,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-28-3-2020-00-15-am",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "58",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "recovered",
+			"currentstatus": "Recovered",
 			"dateannounced": "28/03/2020",
 			"detectedcity": "နေပြည်တော်",
 			"detecteddistrict": "Oke Ta Ra",
@@ -138,12 +144,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-28-3-2020-00-15-am",
 			"source2": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-8-4-2020-8-00-pm",
 			"statecode": "MM-18",
+			"status": "recovered",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "60",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "28/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -158,12 +165,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-28-3-2020-00-15-am",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "recovered",
+			"currentstatus": "Recovered",
 			"dateannounced": "29/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -178,12 +186,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-29-3-2020-10-30-pm",
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"statecode": "MM-06",
+			"status": "recovered",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "45",
 			"contractedfromwhichpatientsuspected": "05",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "29/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -198,12 +207,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-29-3-2020-10-30-pm",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "66",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -218,12 +228,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-30-3-2020-7-30-pm",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "65",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "recovered",
+			"currentstatus": "Recovered",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -238,12 +249,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-30-3-2020-7-30-pm",
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?",
 			"statecode": "MM-06",
+			"status": "recovered",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "61",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -258,12 +270,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-30-3-2020-7-30-pm",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "ကျောက်မဲ",
 			"detecteddistrict": "Kyaukme",
@@ -278,12 +291,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-30-3-2020-7-30-pm",
 			"source2": "",
 			"statecode": "MM-17",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "45",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "31/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -298,12 +312,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3291164387579510?__xts__%5B0%5D=68.ARB9XTcF2QC8nnBoWwsClJMqKMAs0kSrhF5T4asfAsy1cVvBqYtPa-cpFqPBFqehYY9AgtDWdu80KDudqY0jpb8ZrKNCU83JKZz0ToJ3yw68i893NKfavEnWYsDcxlnOPTJFI2xtUoMwckZVw_gupBecgGH-vZ0Z5kuXvPP9mNQHg_GhSZ5pu8pryUSV_AgTWUXqfy0rm-7YGNN3iXPkO8LySy7Kd9V1bNOPB5xBx0pnpw2sBtLWsGzJrdANAf5X7Hr9wEdUBd2a4spf7U0fE4WhN4Ijlc7LGbN118yZ3L99iMZ2VnTCUTPBYDjmn1g6MiTNGPUHa3BU2JEdbP-5QGjJlQ&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "deceased",
+			"currentstatus": "Deceased",
 			"dateannounced": "01/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -318,12 +333,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-1-4-2020-8-00pm",
 			"source2": "https://www.facebook.com/199295433433103/posts/3310281902334425/",
 			"statecode": "MM-06",
+			"status": "deceased",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "47",
 			"contractedfromwhichpatientsuspected": "15",
-			"currentstatus": "deceased",
+			"currentstatus": "Deceased",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "ပဲခူး",
 			"detecteddistrict": "Bago",
@@ -338,12 +354,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-2-4-2020-8-00pm",
 			"source2": "https://www.facebook.com/199295433433103/posts/3310281902334425/",
 			"statecode": "MM-02",
+			"status": "deceased",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "10",
 			"contractedfromwhichpatientsuspected": "15",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "ပဲခူး",
 			"detecteddistrict": "Bago",
@@ -358,12 +375,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-2-4-2020-8-00pm",
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "8",
 			"contractedfromwhichpatientsuspected": "15",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "ပဲခူး",
 			"detecteddistrict": "Bago",
@@ -378,12 +396,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-2-4-2020-8-00pm",
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "18",
 			"contractedfromwhichpatientsuspected": "15",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "ပဲခူး",
 			"detecteddistrict": "Bago",
@@ -398,12 +417,13 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-2-4-2020-8-00pm",
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "04/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -418,12 +438,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3300916866604262?__xts__%5B0%5D=68.ARBfcmuOdbhKKsRlGDx7z1yaDut8nKgq-yAubDeybmwvEodIC92Y8NSab5YVcy4-BZaGMVT6Ff8KqiqKsvQDiy2yYQSH-JyXKBoMaTjXvddsW2CMtKqzeV4ADl2bYVp4kc4YLpADXci9mljyM7rZOPmAvgd85OOb_BOFZB-knu2gmXn0PRtqqjGV5TV4Y_WcYOUlMrbI78KkVaGpteoEW9vwh0zr9uplZzlf0LJMnk6nwj45HrLuiBw4vJIMPbYR2c2r2Oe542C1QMp_cfCjsJ6lW7Y2uUTDzuhpzWhEWq8lVjA8bh-wc507bEHgXJH-h2dECqF2-Ipz0_xyaPEs0xvpsw&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "51",
 			"contractedfromwhichpatientsuspected": "21",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "06/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -438,12 +459,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3305819739447308?__xts__%5B0%5D=68.ARCvA6cnRk3dbzSzF14XeEjDiJqVu1fnYRxgXFbNNrQs1Bx3nCCNVpFZ53dZpeoNyeGUD2chnvk_n2eXooHqnCB-eXbZQWpnpoC7WtyjDy6_2r7lGY3Tlq0kSfr5ka0lC9UKQDH6WBoH9GH9DCzr5dEwWLXVHRHH5onUWQe5Y8Dvzs_u5EDB0J2S_7M2czdEgwsRPHB_cFUyT4CavJVoZHms2e4Osc6cM7tH4ElJHaJ37xe2XBEeCwYWYu56vF71S1aPx3252IgWHUaV7A7pbaoVG4L21qmIrXgUbiK2klv7hOD1EeWunPYVLc7vQF97dPSkrzqyfupTHQJ_sLaBX_p-8A&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "58",
 			"contractedfromwhichpatientsuspected": "01",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "09/04/2020",
 			"detectedcity": "တီးတိန်",
 			"detecteddistrict": "Falam",
@@ -458,12 +480,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"source2": "",
 			"statecode": "MM-14",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -478,12 +501,13 @@
 			"source1": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-10-4-2020-3-00pm",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "55",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -498,12 +522,13 @@
 			"source1": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-10-4-2020-3-00pm",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "56",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "လှိုင်သာယာ",
 			"detecteddistrict": "Yangon (North)",
@@ -518,12 +543,13 @@
 			"source1": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-10-4-2020-3-00pm",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "ကျိုက်မရော",
 			"detecteddistrict": "Mawlamyine",
@@ -538,12 +564,13 @@
 			"source1": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-10-4-2020-3-00pm",
 			"source2": "",
 			"statecode": "MM-15",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -558,12 +585,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3316201105075838?__xts__%5B0%5D=68.ARDdvynwJ7vRluur3sVeGMQyMth-Gz0KuUbH5jHyM9-Uv8VJDApzn7eM1Ac4OvzUshg2H3HBhnPEbsfCBFNnYf_G4mLucWoC24mm5l8nna2m4Sq3k3sfSGkQzcPoppuquOKwkqRZUItcgD9eadeqi8tIXCNCIBjDOc5T413-sBw1Rujb547Gio9ArtLVLjE7H5vvtHRuLnKbNtOA1tI3WUYb0biE8g3F_VCVN7evIH_PjEPnDdgj_e7zePQtrc5BiJCUoO8axEPCDf8xgvpYeN1HVS87WC5Z7YXh6Pljy4CeeOSHD0_IU8hO8fWKJVUK-4KiGzWy-ss6-Iio3EGCzY98fw&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "11/04/2020",
 			"detectedcity": "တောင်ကြီး",
 			"detecteddistrict": "Taunggyi",
@@ -578,12 +606,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3318454918183790?__xts__[0]=68.ARCq2Ei85IwmET-M5lnic1Mfbvyt8gSBuCPHpNWO45eYEHy4nnrPbrrITJqvZRbeetW5JO99a550jWAqXCq4BU6XfHkjavtPPM26owopSt9rPKnL8FKRk93fFWM9JID0VaS-KbnC_gO3sHhG0Bcfs4thCAzj7Ds73CKMg9m9KjI8PBVgMxqQj4YhkG42ZCxmREa8XN2rnnDN3sudNTNEBIDDDIgz0KYMa3u8KN1s0rTpUNHSnb4tYDlep76379wkeF_Tsm1bCfnUwu1_p8qTeuxqufs_NuMLGWGX7As2BQKIbAbEQB_06EnDm8noXEhnqPlelT1Wb0mW8MlWZ73E-ZJOlA&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-17",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "58",
 			"contractedfromwhichpatientsuspected": "17",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "11/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -598,12 +627,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3318454918183790?__xts__[0]=68.ARCq2Ei85IwmET-M5lnic1Mfbvyt8gSBuCPHpNWO45eYEHy4nnrPbrrITJqvZRbeetW5JO99a550jWAqXCq4BU6XfHkjavtPPM26owopSt9rPKnL8FKRk93fFWM9JID0VaS-KbnC_gO3sHhG0Bcfs4thCAzj7Ds73CKMg9m9KjI8PBVgMxqQj4YhkG42ZCxmREa8XN2rnnDN3sudNTNEBIDDDIgz0KYMa3u8KN1s0rTpUNHSnb4tYDlep76379wkeF_Tsm1bCfnUwu1_p8qTeuxqufs_NuMLGWGX7As2BQKIbAbEQB_06EnDm8noXEhnqPlelT1Wb0mW8MlWZ73E-ZJOlA&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "49",
 			"contractedfromwhichpatientsuspected": "01",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "11/04/2020",
 			"detectedcity": "တီးတိန်",
 			"detecteddistrict": "Falam",
@@ -618,12 +648,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3318454918183790?__xts__[0]=68.ARCq2Ei85IwmET-M5lnic1Mfbvyt8gSBuCPHpNWO45eYEHy4nnrPbrrITJqvZRbeetW5JO99a550jWAqXCq4BU6XfHkjavtPPM26owopSt9rPKnL8FKRk93fFWM9JID0VaS-KbnC_gO3sHhG0Bcfs4thCAzj7Ds73CKMg9m9KjI8PBVgMxqQj4YhkG42ZCxmREa8XN2rnnDN3sudNTNEBIDDDIgz0KYMa3u8KN1s0rTpUNHSnb4tYDlep76379wkeF_Tsm1bCfnUwu1_p8qTeuxqufs_NuMLGWGX7As2BQKIbAbEQB_06EnDm8noXEhnqPlelT1Wb0mW8MlWZ73E-ZJOlA&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-14",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "လှည်းကူး",
 			"detecteddistrict": "Yangon (North)",
@@ -638,12 +669,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "29",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -658,12 +690,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -678,12 +711,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -698,12 +732,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "33",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -718,12 +753,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -738,12 +774,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "78",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -758,12 +795,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "85",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "deceased",
+			"currentstatus": "Deceased",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -778,12 +816,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3321044767924805?__xts__%5B0%5D=68.ARA3fuAThPLR50PZRDYSDYVN97gscQ7v61q3FbvXHLFaPL1Pa3F0Ldthj4qRo936a4v_0OIjtZjh1MyXSUk3nhoI_jvwtvIFq72eAGwX5y90XS-IOOzPUTEFX7MsL-IiZSFzzym6esMJgx-FXcWZs8DkFpp1eltab2hPTwMcu78KEN0B4-Ts0AC90vZUEHVUA9oe12SvFBY_kGkZeIUxP2JHrSqMxh3sjfXwZqs20wR5t06X9vatpvMI3kqZvG5e-olXDXcOgsstWiQ8pwTOz-WOg_9Ltd8cLSW8KAia2Cqt41oM0LtMt0GmHcMrWGN3d5mS-C7Zu8agAu1s4CsiVzLEVA&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "deceased",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "68",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -798,12 +837,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3321760637853218?__xts__%5B0%5D=68.ARBIRdpOuDR3xsXGFy3SC-xBKOdgr5IC7DAqni7Dk3d9Mgnv4542Kk2xW9UM5EgdAFNksxXFCWFw7BZtL6VG4wVzrewQ6FFlQ65gVauVzJ574XklG5-W_XLetjY_pAcJFHfZetp3N3U9ON0CHRE4aVMoANLBBxsinpNVXOROY9ZxNQNDmvOoggACcp5HGaL1LQgBQuHJqEcbEvai-_f6V53ZlWy28T0b4Io12avsd-2-3zg1x3qhbxuHG8733wY8Yfmm1Gpigejoqfck2-oS9E7w77EQx5U4dpXmCa3yCUYNepE5-nRzMc_lFkyxppwUirLCjzWNVxL3nludDBf0tk2GUg&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "24,34,35,36,37",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -818,12 +858,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3321760637853218?__xts__%5B0%5D=68.ARBIRdpOuDR3xsXGFy3SC-xBKOdgr5IC7DAqni7Dk3d9Mgnv4542Kk2xW9UM5EgdAFNksxXFCWFw7BZtL6VG4wVzrewQ6FFlQ65gVauVzJ574XklG5-W_XLetjY_pAcJFHfZetp3N3U9ON0CHRE4aVMoANLBBxsinpNVXOROY9ZxNQNDmvOoggACcp5HGaL1LQgBQuHJqEcbEvai-_f6V53ZlWy28T0b4Io12avsd-2-3zg1x3qhbxuHG8733wY8Yfmm1Gpigejoqfck2-oS9E7w77EQx5U4dpXmCa3yCUYNepE5-nRzMc_lFkyxppwUirLCjzWNVxL3nludDBf0tk2GUg&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -838,12 +879,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "41",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -858,12 +900,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -878,12 +921,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "54",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -898,12 +942,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -918,12 +963,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "50",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -938,12 +984,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -958,12 +1005,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -978,12 +1026,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "41",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -998,12 +1047,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "49",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1018,12 +1068,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1038,12 +1089,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "မကွေး",
 			"detecteddistrict": "Magway",
@@ -1058,12 +1110,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-03",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "7",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1078,12 +1131,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1098,12 +1152,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "33",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41,54,55,57",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1118,12 +1173,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
 			"contractedfromwhichpatientsuspected": "34,60,61",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1138,12 +1194,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "46",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1158,12 +1215,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1178,12 +1236,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
 			"contractedfromwhichpatientsuspected": "34,61",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1198,12 +1257,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1218,12 +1278,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "30",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1238,12 +1299,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "65",
 			"contractedfromwhichpatientsuspected": "24,26",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "လှိုင်သာယာ",
 			"detecteddistrict": "Yangon (North)",
@@ -1258,12 +1320,13 @@
 			"source1": "https://web.facebook.com/photo.php?fbid=10218694296561856&set=a.10218416174768985&type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "မိုင်းဖြတ်",
 			"detecteddistrict": "Tachileik",
@@ -1278,12 +1341,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333657195916/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-17",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "57",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1298,12 +1362,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333657195916/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "75",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1318,12 +1383,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333657195916/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1338,12 +1404,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333657195916/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "37",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1358,12 +1425,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "34",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1378,12 +1446,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1398,12 +1467,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1418,12 +1488,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
 			"contractedfromwhichpatientsuspected": "37",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1438,12 +1509,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "29",
 			"contractedfromwhichpatientsuspected": "35,36",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1458,12 +1530,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "01,23",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ကလေး",
 			"detecteddistrict": "Kale",
@@ -1478,12 +1551,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-01",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1498,12 +1572,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070990255516/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1518,12 +1593,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070990255516/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "33",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1538,12 +1614,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070990255516/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "67",
 			"contractedfromwhichpatientsuspected": "01",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "တီးတိန်",
 			"detecteddistrict": "Falam",
@@ -1558,12 +1635,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070990255516/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-14",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1578,12 +1656,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "လှိုင်သာယာ",
 			"detecteddistrict": "Yangon (North)",
@@ -1598,12 +1677,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "လှိုင်သာယာ",
 			"detecteddistrict": "Yangon (North)",
@@ -1618,12 +1698,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "မန္တလေး",
 			"detecteddistrict": "Mandalay",
@@ -1638,12 +1719,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-04",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1658,12 +1740,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "40",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1678,12 +1761,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "77",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
 			"detecteddistrict": "Yangon (East)",
@@ -1698,12 +1782,13 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070923588856/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "78",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "deceased",
+			"currentstatus": "Deceased",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1718,12 +1803,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "deceased",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "62",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1738,12 +1824,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "47",
 			"contractedfromwhichpatientsuspected": "01",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ကလေး",
 			"detecteddistrict": "Kale",
@@ -1758,12 +1845,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"source2": "",
 			"statecode": "MM-01",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "50",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1778,12 +1866,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "57",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1798,12 +1887,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1818,12 +1908,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "79",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1838,12 +1929,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "36",
 			"contractedfromwhichpatientsuspected": "79",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1858,12 +1950,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1878,12 +1971,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "2",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1898,12 +1992,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3337820122913936?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "47",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ကျိုင်းတုံ",
 			"detecteddistrict": "Kengtung",
@@ -1918,12 +2013,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3337820122913936?",
 			"source2": "",
 			"statecode": "MM-17",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1938,12 +2034,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3337820122913936?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1958,12 +2055,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3337820122913936?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1978,12 +2076,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3338362412859707?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1998,12 +2097,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3338362412859707?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
 			"detecteddistrict": "Yangon (East)",
@@ -2018,12 +2118,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3338362412859707?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2038,12 +2139,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3338362412859707?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2058,12 +2160,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3338362412859707?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2078,12 +2181,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3338362412859707?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2098,12 +2202,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3338362412859707?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2118,12 +2223,13 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3338362412859707?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "54",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "inpatient",
+			"currentstatus": "Confirmed",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
 			"detecteddistrict": "Yangon (East)",
@@ -2138,6 +2244,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3338362412859707?",
 			"source2": "",
 			"statecode": "MM-06",
+			"status": "inpatient",
 			"typeoftransmission": "Local"
 		}
 	]
