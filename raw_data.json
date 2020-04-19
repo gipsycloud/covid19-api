@@ -3,7 +3,7 @@
 		{
 			"agebracket": "36",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "22/03/2020",
 			"detectedcity": "တီးတိန်",
 			"detecteddistrict": "Falam",
@@ -24,7 +24,7 @@
 		{
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "23/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -108,7 +108,7 @@
 		{
 			"agebracket": "29",
 			"contractedfromwhichpatientsuspected": "03",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -150,7 +150,7 @@
 		{
 			"agebracket": "60",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "28/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -192,7 +192,7 @@
 		{
 			"agebracket": "45",
 			"contractedfromwhichpatientsuspected": "05",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "29/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -213,7 +213,7 @@
 		{
 			"agebracket": "66",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -255,7 +255,7 @@
 		{
 			"agebracket": "61",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -276,7 +276,7 @@
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "ကျောက်မဲ",
 			"detecteddistrict": "Kyaukme",
@@ -297,7 +297,7 @@
 		{
 			"agebracket": "45",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "31/03/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -360,7 +360,7 @@
 		{
 			"agebracket": "10",
 			"contractedfromwhichpatientsuspected": "15",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "ပဲခူး",
 			"detecteddistrict": "Bago",
@@ -381,7 +381,7 @@
 		{
 			"agebracket": "8",
 			"contractedfromwhichpatientsuspected": "15",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "ပဲခူး",
 			"detecteddistrict": "Bago",
@@ -402,7 +402,7 @@
 		{
 			"agebracket": "18",
 			"contractedfromwhichpatientsuspected": "15",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "ပဲခူး",
 			"detecteddistrict": "Bago",
@@ -423,7 +423,7 @@
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "04/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -444,7 +444,7 @@
 		{
 			"agebracket": "51",
 			"contractedfromwhichpatientsuspected": "21",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "06/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -465,7 +465,7 @@
 		{
 			"agebracket": "58",
 			"contractedfromwhichpatientsuspected": "01",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "09/04/2020",
 			"detectedcity": "တီးတိန်",
 			"detecteddistrict": "Falam",
@@ -486,7 +486,7 @@
 		{
 			"agebracket": "32",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -507,7 +507,7 @@
 		{
 			"agebracket": "55",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -528,7 +528,7 @@
 		{
 			"agebracket": "56",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "လှိုင်သာယာ",
 			"detecteddistrict": "Yangon (North)",
@@ -549,7 +549,7 @@
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "ကျိုက်မရော",
 			"detecteddistrict": "Mawlamyine",
@@ -570,7 +570,7 @@
 		{
 			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -591,7 +591,7 @@
 		{
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "11/04/2020",
 			"detectedcity": "တောင်ကြီး",
 			"detecteddistrict": "Taunggyi",
@@ -612,7 +612,7 @@
 		{
 			"agebracket": "58",
 			"contractedfromwhichpatientsuspected": "17",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "11/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -633,7 +633,7 @@
 		{
 			"agebracket": "49",
 			"contractedfromwhichpatientsuspected": "01",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "11/04/2020",
 			"detectedcity": "တီးတိန်",
 			"detecteddistrict": "Falam",
@@ -654,7 +654,7 @@
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "လှည်းကူး",
 			"detecteddistrict": "Yangon (North)",
@@ -675,7 +675,7 @@
 		{
 			"agebracket": "29",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -696,7 +696,7 @@
 		{
 			"agebracket": "20",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -717,7 +717,7 @@
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -738,7 +738,7 @@
 		{
 			"agebracket": "33",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -759,7 +759,7 @@
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -780,7 +780,7 @@
 		{
 			"agebracket": "78",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -822,7 +822,7 @@
 		{
 			"agebracket": "68",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -843,7 +843,7 @@
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "24,34,35,36,37",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -864,7 +864,7 @@
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -885,7 +885,7 @@
 		{
 			"agebracket": "41",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -906,7 +906,7 @@
 		{
 			"agebracket": "32",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -927,7 +927,7 @@
 		{
 			"agebracket": "54",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -948,7 +948,7 @@
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -969,7 +969,7 @@
 		{
 			"agebracket": "50",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -990,7 +990,7 @@
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1011,7 +1011,7 @@
 		{
 			"agebracket": "35",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1032,7 +1032,7 @@
 		{
 			"agebracket": "41",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1053,7 +1053,7 @@
 		{
 			"agebracket": "49",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1074,7 +1074,7 @@
 		{
 			"agebracket": "40",
 			"contractedfromwhichpatientsuspected": "24,63",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1095,7 +1095,7 @@
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "မကွေး",
 			"detecteddistrict": "Magway",
@@ -1116,7 +1116,7 @@
 		{
 			"agebracket": "7",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1137,7 +1137,7 @@
 		{
 			"agebracket": "40",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1158,7 +1158,7 @@
 		{
 			"agebracket": "33",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41,54,55,57",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1179,7 +1179,7 @@
 		{
 			"agebracket": "39",
 			"contractedfromwhichpatientsuspected": "34,60,61",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1200,7 +1200,7 @@
 		{
 			"agebracket": "46",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1221,7 +1221,7 @@
 		{
 			"agebracket": "23",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1242,7 +1242,7 @@
 		{
 			"agebracket": "39",
 			"contractedfromwhichpatientsuspected": "34,61",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1263,7 +1263,7 @@
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1284,7 +1284,7 @@
 		{
 			"agebracket": "30",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1305,7 +1305,7 @@
 		{
 			"agebracket": "65",
 			"contractedfromwhichpatientsuspected": "24,26",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "လှိုင်သာယာ",
 			"detecteddistrict": "Yangon (North)",
@@ -1326,7 +1326,7 @@
 		{
 			"agebracket": "23",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "မိုင်းဖြတ်",
 			"detecteddistrict": "Tachileik",
@@ -1347,7 +1347,7 @@
 		{
 			"agebracket": "57",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1368,7 +1368,7 @@
 		{
 			"agebracket": "75",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1389,7 +1389,7 @@
 		{
 			"agebracket": "27",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1410,7 +1410,7 @@
 		{
 			"agebracket": "37",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1431,7 +1431,7 @@
 		{
 			"agebracket": "34",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1452,7 +1452,7 @@
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1473,7 +1473,7 @@
 		{
 			"agebracket": "32",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1494,7 +1494,7 @@
 		{
 			"agebracket": "27",
 			"contractedfromwhichpatientsuspected": "37",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1515,7 +1515,7 @@
 		{
 			"agebracket": "29",
 			"contractedfromwhichpatientsuspected": "35,36",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1536,7 +1536,7 @@
 		{
 			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "01,23",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ကလေး",
 			"detecteddistrict": "Kale",
@@ -1557,7 +1557,7 @@
 		{
 			"agebracket": "35",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1578,7 +1578,7 @@
 		{
 			"agebracket": "20",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1599,7 +1599,7 @@
 		{
 			"agebracket": "33",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1620,7 +1620,7 @@
 		{
 			"agebracket": "67",
 			"contractedfromwhichpatientsuspected": "01",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "တီးတိန်",
 			"detecteddistrict": "Falam",
@@ -1641,7 +1641,7 @@
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1662,7 +1662,7 @@
 		{
 			"agebracket": "28",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "လှိုင်သာယာ",
 			"detecteddistrict": "Yangon (North)",
@@ -1683,7 +1683,7 @@
 		{
 			"agebracket": "28",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "လှိုင်သာယာ",
 			"detecteddistrict": "Yangon (North)",
@@ -1704,7 +1704,7 @@
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "မန္တလေး",
 			"detecteddistrict": "Mandalay",
@@ -1725,7 +1725,7 @@
 		{
 			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1746,7 +1746,7 @@
 		{
 			"agebracket": "40",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1767,7 +1767,7 @@
 		{
 			"agebracket": "77",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
 			"detecteddistrict": "Yangon (East)",
@@ -1809,7 +1809,7 @@
 		{
 			"agebracket": "62",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1830,7 +1830,7 @@
 		{
 			"agebracket": "47",
 			"contractedfromwhichpatientsuspected": "01",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ကလေး",
 			"detecteddistrict": "Kale",
@@ -1851,7 +1851,7 @@
 		{
 			"agebracket": "50",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1872,7 +1872,7 @@
 		{
 			"agebracket": "57",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1893,7 +1893,7 @@
 		{
 			"agebracket": "60",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1914,7 +1914,7 @@
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "79",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1935,7 +1935,7 @@
 		{
 			"agebracket": "36",
 			"contractedfromwhichpatientsuspected": "79",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1956,7 +1956,7 @@
 		{
 			"agebracket": "39",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1977,7 +1977,7 @@
 		{
 			"agebracket": "2",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -1998,7 +1998,7 @@
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "47",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ကျိုင်းတုံ",
 			"detecteddistrict": "Kengtung",
@@ -2019,7 +2019,7 @@
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2040,7 +2040,7 @@
 		{
 			"agebracket": "20",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2061,7 +2061,7 @@
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2082,7 +2082,7 @@
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2103,7 +2103,7 @@
 		{
 			"agebracket": "60",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
 			"detecteddistrict": "Yangon (East)",
@@ -2124,7 +2124,7 @@
 		{
 			"agebracket": "42",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2145,7 +2145,7 @@
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2166,7 +2166,7 @@
 		{
 			"agebracket": "35",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2187,7 +2187,7 @@
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2208,7 +2208,7 @@
 		{
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ရန်ကုန်",
 			"detecteddistrict": "Yangon (West)",
@@ -2229,7 +2229,7 @@
 		{
 			"agebracket": "54",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Confirmed",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
 			"detecteddistrict": "Yangon (East)",
