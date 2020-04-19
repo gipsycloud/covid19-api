@@ -2246,6 +2246,27 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "85",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "19/04/2020",
+			"detectedcity": "မရမ်းကုန်း",
+			"detecteddistrict": "Yangon (West)",
+			"detectedstate": "Yangon",
+			"dischargeddeceaseddate": "",
+			"gender": "F",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "108",
+			"region": "MM-06",
+			"source1": "",
+			"source2": "",
+			"statecode": "MM-06",
+			"status": "inpatient",
+			"typeoftransmission": "Local"
 		}
 	]
 }
