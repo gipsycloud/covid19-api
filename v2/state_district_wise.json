@@ -16,16 +16,8 @@
     "state": "Yangon",
     "districtData": [
       {
-        "district": "Yangon (West)",
-        "confirmed": 80,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Yangon (North)",
-        "confirmed": 5,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -33,7 +25,15 @@
       },
       {
         "district": "Yangon (East)",
-        "confirmed": 3,
+        "confirmed": 24,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Yangon (West)",
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -68,6 +68,27 @@
     ]
   },
   {
+    "state": "Sagaing",
+    "districtData": [
+      {
+        "district": "Yinmarbin",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Kale",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
     "state": "Shan (North)",
     "districtData": [
       {
@@ -86,6 +107,14 @@
       {
         "district": "Bago",
         "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Pyay",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -137,27 +166,6 @@
     "districtData": [
       {
         "district": "Tachileik",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Kengtung",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Sagaing",
-    "districtData": [
-      {
-        "district": "Kale",
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {

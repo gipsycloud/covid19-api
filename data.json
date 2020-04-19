@@ -317,8 +317,8 @@
 			"statecode": "MM-07"
 		},
 		{
-			"active": "3",
-			"confirmed": "4",
+			"active": "4",
+			"confirmed": "5",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -438,13 +438,13 @@
 		},
 		{
 			"active": "2",
-			"confirmed": "2",
+			"confirmed": "3",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "19/04/2020 00:00:00",
-			"recovered": "0",
+			"recovered": "1",
 			"state": "Sagaing",
 			"statecode": "MM-01"
 		},
@@ -461,14 +461,14 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": "81",
-			"confirmed": "88",
+			"active": "80",
+			"confirmed": "86",
 			"deaths": "4",
 			"deltaconfirmed": "9",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "19/04/2020 00:00:00",
-			"recovered": "3",
+			"recovered": "2",
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},

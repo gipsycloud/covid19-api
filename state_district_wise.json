@@ -12,22 +12,22 @@
   },
   "Yangon": {
     "districtData": {
-      "Yangon (West)": {
-        "confirmed": 80,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Yangon (North)": {
-        "confirmed": 5,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Yangon (East)": {
-        "confirmed": 3,
+        "confirmed": 24,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Yangon (West)": {
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -57,6 +57,24 @@
       }
     }
   },
+  "Sagaing": {
+    "districtData": {
+      "Yinmarbin": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Kale": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    }
+  },
   "Shan (North)": {
     "districtData": {
       "Kyaukme": {
@@ -72,6 +90,13 @@
     "districtData": {
       "Bago": {
         "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Pyay": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -115,24 +140,6 @@
   "Shan (East)": {
     "districtData": {
       "Tachileik": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Kengtung": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
-  "Sagaing": {
-    "districtData": {
-      "Kale": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
