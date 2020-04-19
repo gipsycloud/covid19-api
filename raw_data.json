@@ -1402,7 +1402,7 @@
 		},
 		{
 			"agebracket": "32",
-			"contractedfromwhichpatientsuspected": "8,28,40",
+			"contractedfromwhichpatientsuspected": "08",
 			"currentstatus": "inpatient",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "ရန်ကုန်",
@@ -1842,7 +1842,7 @@
 		},
 		{
 			"agebracket": "36",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "79",
 			"currentstatus": "inpatient",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "ရန်ကုန်",
