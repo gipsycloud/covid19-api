@@ -75,10 +75,24 @@
       }
     }
   },
-  "Shan (North)": {
+  "Shan": {
     "districtData": {
       "Kyaukme": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Taunggyi": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Tachileik": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -108,32 +122,10 @@
       }
     }
   },
-  "Shan (South)": {
-    "districtData": {
-      "Taunggyi": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
   "Magway": {
     "districtData": {
       "Magway": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
-  "Shan (East)": {
-    "districtData": {
-      "Tachileik": {
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
