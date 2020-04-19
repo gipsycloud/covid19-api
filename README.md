@@ -15,7 +15,7 @@ A volunteer-driven database for COVID-19 stats & patient tracing in Myanmar.
 
 ## Projects Using This API
 
-- [INDIA COVID-19 TRACKER](https://covid19.ttkz.me/) (Dashboard)
+- [MYANMAR COVID-19 TRACKER](https://covid19.ttkz.me/) (Dashboard)
 
 ## Quick Links
 
