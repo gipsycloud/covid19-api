@@ -4,7 +4,7 @@
     "districtData": [
       {
         "district": "Falam",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -80,7 +80,7 @@
       },
       {
         "district": "Kale",
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -109,7 +109,7 @@
       },
       {
         "district": "Tachileik",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

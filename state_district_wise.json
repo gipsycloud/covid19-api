@@ -2,7 +2,7 @@
   "Chin": {
     "districtData": {
       "Falam": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -67,7 +67,7 @@
         }
       },
       "Kale": {
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -92,7 +92,7 @@
         }
       },
       "Tachileik": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
