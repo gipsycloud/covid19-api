@@ -552,7 +552,7 @@
 		},
 		{
 			"agebracket": "56",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "63",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "လှိုင်သာယာ",
@@ -728,7 +728,7 @@
 		},
 		{
 			"agebracket": "20",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "36",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "အင်းစိန်",
@@ -750,7 +750,7 @@
 		},
 		{
 			"agebracket": "24",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "36",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "အင်းစိန်",
@@ -772,7 +772,7 @@
 		},
 		{
 			"agebracket": "33",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "36",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "အင်းစိန်",
@@ -794,7 +794,7 @@
 		},
 		{
 			"agebracket": "44",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "36",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "အင်းစိန်",
@@ -904,7 +904,7 @@
 		},
 		{
 			"agebracket": "43",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ဗဟန်း",
@@ -926,7 +926,7 @@
 		},
 		{
 			"agebracket": "41",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "မရမ်းကုန်း",
@@ -948,7 +948,7 @@
 		},
 		{
 			"agebracket": "32",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "မရမ်းကုန်း",
@@ -970,7 +970,7 @@
 		},
 		{
 			"agebracket": "54",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "မရမ်းကုန်း",
@@ -992,7 +992,7 @@
 		},
 		{
 			"agebracket": "44",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "ဗဟန်း",
@@ -1014,7 +1014,7 @@
 		},
 		{
 			"agebracket": "50",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "တောင်ဥက္ကလာပ",
@@ -1036,7 +1036,7 @@
 		},
 		{
 			"agebracket": "31",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "တောင်ဥက္ကလာပ",
@@ -1058,7 +1058,7 @@
 		},
 		{
 			"agebracket": "35",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "တောင်ဥက္ကလာပ",
@@ -1080,7 +1080,7 @@
 		},
 		{
 			"agebracket": "41",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "တောင်ဥက္ကလာပ",
@@ -1102,7 +1102,7 @@
 		},
 		{
 			"agebracket": "49",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "တောင်ဥက္ကလာပ",
@@ -1124,7 +1124,7 @@
 		},
 		{
 			"agebracket": "40",
-			"contractedfromwhichpatientsuspected": "24,63",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "တောင်ဥက္ကလာပ",
@@ -1564,7 +1564,7 @@
 		},
 		{
 			"agebracket": "27",
-			"contractedfromwhichpatientsuspected": "37",
+			"contractedfromwhichpatientsuspected": "73",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "အင်းစိန်",
@@ -2114,7 +2114,7 @@
 		},
 		{
 			"agebracket": "43",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "63",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "မင်္ဂလာဒုံ",
