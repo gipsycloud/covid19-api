@@ -108,6 +108,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Pyay": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   },
