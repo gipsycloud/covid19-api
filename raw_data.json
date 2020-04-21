@@ -1729,7 +1729,7 @@
 			"gender": "M",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "ဗဟန်းမြို့နေတွင် နေထိုင်သော စောင့်ကြည့်လူနာဖြစ်သည်",
+			"notes": "ဗဟန်းမြို့နေတွင် နေထိုင်သော စောင့်ကြည့်လူနာဖြစ်သည်၊Case - 79 သည် Junction City ရှိ Pan Pacific ဟိုတယ်တွင် အလုပ်လုပ်နေသူဖြစ်ပါသည်.",
 			"patientnumber": "79",
 			"region": "MM-06",
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
@@ -2015,7 +2015,7 @@
 			"gender": "M",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "စမ်းချောင်းမြို့နယ်",
+			"notes": "၎င်းသည် ပန်းဘဲတန်းမြို့နယ်ရှိ ဟိုတယ်တစ်ခုတွင် Case 79 အမျိုးသားနှင့် အတူတူအလုပ်လုပ်ကိုင်သူဖြစ်သည်။",
 			"patientnumber": "92",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
@@ -2180,7 +2180,7 @@
 		},
 		{
 			"agebracket": "44",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "50",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ဒေါပုံ",
@@ -2202,7 +2202,7 @@
 		},
 		{
 			"agebracket": "60",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "50",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
@@ -2224,7 +2224,7 @@
 		},
 		{
 			"agebracket": "42",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "50",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "တောင်ဥက္ကလာပ",
@@ -2246,7 +2246,7 @@
 		},
 		{
 			"agebracket": "31",
-			"contractedfromwhichpatientsuspected": "59",
+			"contractedfromwhichpatientsuspected": "50",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "လမ်းမတော်",
@@ -2268,7 +2268,7 @@
 		},
 		{
 			"agebracket": "35",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "50",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ကမာရွတ်",
@@ -2290,7 +2290,7 @@
 		},
 		{
 			"agebracket": "44",
-			"contractedfromwhichpatientsuspected": "86",
+			"contractedfromwhichpatientsuspected": "50",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "အင်းစိန်",
@@ -2312,7 +2312,7 @@
 		},
 		{
 			"agebracket": "26",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "50",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ဗိုလ်တထောင်",
@@ -2334,7 +2334,7 @@
 		},
 		{
 			"agebracket": "54",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "50",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
@@ -2356,7 +2356,7 @@
 		},
 		{
 			"agebracket": "85",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "86",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "မရမ်းကုန်း",
@@ -2400,7 +2400,7 @@
 		},
 		{
 			"agebracket": "63",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "50",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "ဗိုလ်တထောင်",
@@ -2444,7 +2444,7 @@
 		},
 		{
 			"agebracket": "29",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "96",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/04/2020",
 			"detectedcity": "တာချီလိတ်",
@@ -2466,7 +2466,7 @@
 		},
 		{
 			"agebracket": "65",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "78",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "20/04/2020",
 			"detectedcity": "တီးတိန်",
@@ -2634,7 +2634,7 @@
 			"notes": "",
 			"patientnumber": "120",
 			"region": "MM-06",
-			"source1": "",
+			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3345692402126708?",
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
@@ -2656,7 +2656,7 @@
 			"notes": "",
 			"patientnumber": "121",
 			"region": "MM-17",
-			"source1": "",
+			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3345692402126708?",
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
