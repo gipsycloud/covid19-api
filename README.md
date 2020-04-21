@@ -8,7 +8,7 @@ A volunteer-driven database for COVID-19 stats & patient tracing in Myanmar.
 | ----------------------------------------------------- | ----------------------------------------------------- |
 | National time series, statewise stats and test counts | https://thantthet.github.io/covid19-api/data.json                |
 | State-district-wise                                   | https://thantthet.github.io/covid19-api/state_district_wise.json |
-| State-district-wise V2                                | https://thantthet.github.io/covid19-apir/v2/state_district_wise.json |
+| State-district-wise V2                                | https://thantthet.github.io/covid19-api/v2/state_district_wise.json |
 | Raw data                                              | https://thantthet.github.io/covid19-api/raw_data.json            |
 | States Daily changes                                  | https://thantthet.github.io/covid19-api/states_daily.json        |
 
