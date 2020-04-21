@@ -25,7 +25,7 @@
       },
       {
         "district": "Yangon (East)",
-        "confirmed": 26,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -101,7 +101,7 @@
       },
       {
         "district": "Taunggyi",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
