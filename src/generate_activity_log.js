@@ -1,12 +1,12 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 const moment = require('moment-timezone');
-const data = require('./data.json');
-const data_prev = require('./data_prev.json');
+const data = require('../tmp/data.json');
+const data_prev = require('../tmp/data_prev.json');
 
-update_log_file = './updatelog/log.json';
-var update_log = require(update_log_file);
-BOT_TOKEN = process.argv[2];
+update_log_file = './tmp/updatelog/log.json';
+var update_log = require("."+update_log_file);
+BOT_TOKEN = process.env.BOT_TOKEN;
 
 
 statewise_new = data.statewise.reduce((arr, row)=>{
@@ -92,7 +92,7 @@ if (full_text!=""){
     url = encodeURI("https://api.telegram.org/bot"+BOT_TOKEN+"/sendmessage?parse_mode=Markdown&chat_id=-258782427&text=_"
         +formated_time+"_\n\n"
         +tg_full_text
-        +"\n\n*www.covid19myanmar.org*");
+        +"\n\n*covid19.ttkz.me*");
     // console.log(url);
     let settings = { method: "Get" };
     fetch(url, settings).then(res => res.json())

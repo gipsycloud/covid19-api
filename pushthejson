@@ -5,33 +5,40 @@ set -eu
 repo_uri="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 remote_name="origin"
 main_branch="master"
-target_branch="master"
+gh_pages_branch="gh-pages"
 
 cd "$GITHUB_WORKSPACE"
 
 git config user.name "$GITHUB_ACTOR"
 git config user.email "${GITHUB_ACTOR}@bots.github.com"
 
-git checkout "$target_branch"
-git rebase "${remote_name}/${main_branch}"
+git checkout "$gh_pages_branch"
 
-npm install drive-db
-npm install node-fetch
-npm install moment
-npm install moment-timezone
+mkdir tmp
+mkdir tmp/v2
+mkdir tmp/updatelog
 
-cp ./data.json ./data_prev.json
+cp ./data.json ./tmp/data_prev.json
+cp -r updatelog/ ./tmp/
 
-node sheet-to-json_generic.js
-node set-updated-time.js
-node raw_data-to-state_district_wise_data.js
-node generate_activity_log.js ${BOT_TOKEN}
-node states_daily_to_csv.js
-# node sheets-to-csv.js
+git checkout "$main_branch"
 
-rm ./data_prev.json
+cp README.md tmp/
 
-git add updatelog/ daily_csv/ *.json 
+node src/sheet-to-json_generic.js
+node src/set-updated-time.js
+node src/raw_data-to-state_district_wise_data.js
+node src/generate_activity_log.js
+node src/states_daily_to_csv.js
+# node src/sheets-to-csv.js
+
+git checkout "$gh_pages_branch"
+
+rm tmp/data_prev.json
+cp -r tmp/* .
+rm -r tmp/
+
+git add .
 set +e  # Grep succeeds with nonzero exit codes to show results.
 git status | grep 'new file\|modified'
 if [ $? -eq 0 ]

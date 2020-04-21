@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 const moment = require('moment-timezone');
-const data = require('./data');
-const { writeData } = require("./lib");
+const data = require('../tmp/data');
+const { writeData } = require("../lib");
 
 const KEY = process.env.GDRIVE_API_KEY;
 

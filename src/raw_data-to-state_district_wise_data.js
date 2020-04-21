@@ -1,6 +1,7 @@
 const fs = require('fs');
 const moment = require("moment");
-const rawData = require('./raw_data');
+const { DIR } = require("../lib/constants");
+const rawData = require('../tmp/raw_data');
 
 console.log('Starting district wise data processing');
 try {
@@ -60,8 +61,8 @@ try {
     }
   });
 
-  fs.writeFileSync('state_district_wise.json', JSON.stringify(StateDistrictWiseData, null, 2));
-  fs.writeFileSync('./v2/state_district_wise.json', JSON.stringify(stateDistrictWiseDataV2, null, 2));
+  fs.writeFileSync(DIR + 'state_district_wise.json', JSON.stringify(StateDistrictWiseData, null, 2));
+  fs.writeFileSync(DIR + 'v2/state_district_wise.json', JSON.stringify(stateDistrictWiseDataV2, null, 2));
   console.log('Starting district wise data processing ...done');
 } catch(err) {
   console.log('Error processing district wise data', err);
