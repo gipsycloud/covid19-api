@@ -16,7 +16,7 @@ const KEY = process.env.GDRIVE_API_KEY;
 			console.log(json);
 			throw "Error getting modification time of the sheet";
 		}
-		return moment(json.modifiedTime).tz("Asia/Rangoon").format('DD/MM/YYYY hh:mm:ss');
+		return moment(json.modifiedTime).tz("Asia/Rangoon").format('DD/MM/YYYY HH:mm:ss');
 	})
 	.then(modifiedTime => {
 		data.statewise.forEach((part, index, theArray) => {
