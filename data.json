@@ -21,300 +21,300 @@
 			"totalrecovered": "0"
 		},
 		{
-			"active": "2",
+			"active": "3",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
-			"dailyrecovered": "1",
+			"dailyrecovered": "0",
 			"date": "24/03/2020",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
-			"totalrecovered": "1"
+			"totalrecovered": "0"
 		},
 		{
-			"active": "2",
+			"active": "3",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "25/03/2020",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
-			"totalrecovered": "1"
+			"totalrecovered": "0"
 		},
 		{
-			"active": "2",
+			"active": "3",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "26/03/2020",
 			"totalconfirmed": "3",
 			"totaldeceased": "0",
-			"totalrecovered": "1"
+			"totalrecovered": "0"
 		},
 		{
-			"active": "2",
+			"active": "5",
 			"dailyconfirmed": "2",
-			"dailydeceased": "1",
-			"dailyrecovered": "1",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
 			"date": "27/03/2020",
 			"totalconfirmed": "5",
-			"totaldeceased": "1",
-			"totalrecovered": "2"
+			"totaldeceased": "0",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "4",
+			"active": "8",
 			"dailyconfirmed": "3",
 			"dailydeceased": "0",
-			"dailyrecovered": "1",
+			"dailyrecovered": "0",
 			"date": "28/03/2020",
 			"totalconfirmed": "8",
-			"totaldeceased": "1",
-			"totalrecovered": "3"
+			"totaldeceased": "0",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "4",
+			"active": "10",
 			"dailyconfirmed": "2",
 			"dailydeceased": "0",
-			"dailyrecovered": "2",
+			"dailyrecovered": "0",
 			"date": "29/03/2020",
 			"totalconfirmed": "10",
-			"totaldeceased": "1",
-			"totalrecovered": "5"
+			"totaldeceased": "0",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "6",
+			"active": "14",
 			"dailyconfirmed": "4",
 			"dailydeceased": "0",
-			"dailyrecovered": "2",
+			"dailyrecovered": "0",
 			"date": "30/03/2020",
 			"totalconfirmed": "14",
-			"totaldeceased": "1",
-			"totalrecovered": "7"
+			"totaldeceased": "0",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "6",
+			"active": "14",
 			"dailyconfirmed": "1",
-			"dailydeceased": "0",
-			"dailyrecovered": "1",
+			"dailydeceased": "1",
+			"dailyrecovered": "0",
 			"date": "31/03/2020",
 			"totalconfirmed": "15",
 			"totaldeceased": "1",
-			"totalrecovered": "8"
+			"totalrecovered": "0"
 		},
 		{
-			"active": "6",
+			"active": "15",
 			"dailyconfirmed": "1",
-			"dailydeceased": "1",
+			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "01/04/2020",
 			"totalconfirmed": "16",
-			"totaldeceased": "2",
-			"totalrecovered": "8"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "9",
+			"active": "19",
 			"dailyconfirmed": "4",
-			"dailydeceased": "1",
+			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "02/04/2020",
 			"totalconfirmed": "20",
-			"totaldeceased": "3",
-			"totalrecovered": "8"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "9",
+			"active": "19",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "03/04/2020",
 			"totalconfirmed": "20",
-			"totaldeceased": "3",
-			"totalrecovered": "8"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "9",
+			"active": "20",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
-			"dailyrecovered": "1",
+			"dailyrecovered": "0",
 			"date": "04/04/2020",
 			"totalconfirmed": "21",
-			"totaldeceased": "3",
-			"totalrecovered": "9"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "9",
+			"active": "20",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "05/04/2020",
 			"totalconfirmed": "21",
-			"totaldeceased": "3",
-			"totalrecovered": "9"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "10",
+			"active": "21",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "06/04/2020",
 			"totalconfirmed": "22",
-			"totaldeceased": "3",
-			"totalrecovered": "9"
+			"totaldeceased": "1",
+			"totalrecovered": "0"
 		},
 		{
-			"active": "10",
+			"active": "20",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailyrecovered": "1",
 			"date": "07/04/2020",
 			"totalconfirmed": "22",
-			"totaldeceased": "3",
-			"totalrecovered": "9"
+			"totaldeceased": "1",
+			"totalrecovered": "1"
 		},
 		{
-			"active": "10",
+			"active": "17",
 			"dailyconfirmed": "0",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailydeceased": "2",
+			"dailyrecovered": "1",
 			"date": "08/04/2020",
 			"totalconfirmed": "22",
 			"totaldeceased": "3",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "11",
+			"active": "18",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "09/04/2020",
 			"totalconfirmed": "23",
 			"totaldeceased": "3",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "16",
+			"active": "23",
 			"dailyconfirmed": "5",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "10/04/2020",
 			"totalconfirmed": "28",
 			"totaldeceased": "3",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "19",
+			"active": "26",
 			"dailyconfirmed": "3",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "11/04/2020",
 			"totalconfirmed": "31",
 			"totaldeceased": "3",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "28",
+			"active": "35",
 			"dailyconfirmed": "10",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "12/04/2020",
 			"totalconfirmed": "41",
 			"totaldeceased": "4",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "28",
+			"active": "35",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "13/04/2020",
 			"totalconfirmed": "41",
 			"totaldeceased": "4",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "50",
+			"active": "57",
 			"dailyconfirmed": "22",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "14/04/2020",
 			"totalconfirmed": "63",
 			"totaldeceased": "4",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "61",
+			"active": "68",
 			"dailyconfirmed": "11",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "15/04/2020",
 			"totalconfirmed": "74",
 			"totaldeceased": "4",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "72",
+			"active": "79",
 			"dailyconfirmed": "11",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "16/04/2020",
 			"totalconfirmed": "85",
 			"totaldeceased": "4",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "72",
+			"active": "79",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "17/04/2020",
 			"totalconfirmed": "85",
 			"totaldeceased": "4",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "84",
+			"active": "91",
 			"dailyconfirmed": "13",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "18/04/2020",
 			"totalconfirmed": "98",
 			"totaldeceased": "5",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "97",
+			"active": "104",
 			"dailyconfirmed": "13",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "19/04/2020",
 			"totalconfirmed": "111",
 			"totaldeceased": "5",
-			"totalrecovered": "9"
+			"totalrecovered": "2"
 		},
 		{
-			"active": "105",
+			"active": "108",
 			"dailyconfirmed": "8",
 			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailyrecovered": "4",
 			"date": "20/04/2020",
 			"totalconfirmed": "119",
 			"totaldeceased": "5",
-			"totalrecovered": "9"
+			"totalrecovered": "6"
 		},
 		{
-			"active": "107",
+			"active": "110",
 			"dailyconfirmed": "2",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "21/04/2020",
 			"totalconfirmed": "121",
 			"totaldeceased": "5",
-			"totalrecovered": "9"
+			"totalrecovered": "6"
 		},
 		{
 			"active": "107",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailyrecovered": "3",
 			"date": "22/04/2020",
 			"totalconfirmed": "121",
 			"totaldeceased": "5",
