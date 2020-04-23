@@ -11,15 +11,14 @@ async function task() {
   console.log(`Fetching data from sheets: ${SHEET}...`);
   let {raw_data} = rawData;
 
-  const beginning = moment("2020-03-22T00:00:00+06:30");
-  // until tomorrow because we want to include for today
-  const tomorrow = moment(moment().add(1, 'day').format("YYYY-MM-DDT00:00:00+06:30"));
+  const beginning = moment("2020-03-22T00:00:00+0630");
+  const todayDate = moment();
 
   const statecodes = ['MM-01','MM-02','MM-03','MM-04','MM-05','MM-06','MM-07','MM-11','MM-12','MM-13','MM-14','MM-15','MM-16','MM-17','MM-18'];
 
   let allEntries = [];
-  for (i = 0; i < tomorrow.diff(beginning, 'days'); i++) {
-    const currentDate = moment(beginning).add(i, 'day').format("DD/MM/YYYY");
+  for (i = 0; i <= todayDate.diff(beginning, 'days'); i++) {
+    const currentDate = moment(beginning).add(i, 'day').utcOffset("+0630").format("DD/MM/YYYY");
     ['inpatient', 'recovered', 'deceased'].forEach((status) => {
       const countByStates = statecodes.reduce((value, statecode) => {
         let count = 0;
