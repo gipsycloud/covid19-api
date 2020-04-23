@@ -34,7 +34,6 @@ async function task() {
       }, {});
       const total = Object.keys(countByStates).reduce((t, k) => t + Number(countByStates[k]), 0);
       let entry = {
-        currentstatus: status,
         date: currentDate,
         tt: total.toString(),
         status: status == 'inpatient' ? 'Confirmed' : status.toProperCase(),
