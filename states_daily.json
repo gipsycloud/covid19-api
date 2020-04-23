@@ -1,7 +1,6 @@
 {
 	"states_daily": [
 		{
-			"currentstatus": "inpatient",
 			"date": "22/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -22,7 +21,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "22/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -43,7 +41,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "22/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -64,7 +61,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "23/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -85,7 +81,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "23/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -106,7 +101,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "23/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -127,7 +121,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "24/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -148,7 +141,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "24/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -169,7 +161,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "24/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -190,7 +181,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "25/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -211,7 +201,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "25/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -232,7 +221,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "25/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -253,7 +241,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "26/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -274,7 +261,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "26/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -295,7 +281,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "26/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -316,7 +301,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "27/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -337,7 +321,6 @@
 			"tt": "2"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "27/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -358,7 +341,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "27/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -379,7 +361,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "28/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -400,7 +381,6 @@
 			"tt": "3"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "28/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -421,7 +401,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "28/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -442,7 +421,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "29/03/2020",
 			"mm-01": "1",
 			"mm-02": "0",
@@ -463,7 +441,6 @@
 			"tt": "2"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "29/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -484,7 +461,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "29/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -505,7 +481,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "30/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -526,7 +501,6 @@
 			"tt": "4"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "30/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -547,7 +521,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "30/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -568,7 +541,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "31/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -589,7 +561,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "31/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -610,7 +581,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "31/03/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -631,7 +601,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "01/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -652,7 +621,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "01/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -673,7 +641,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "01/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -694,7 +661,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "02/04/2020",
 			"mm-01": "0",
 			"mm-02": "4",
@@ -715,7 +681,6 @@
 			"tt": "4"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "02/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -736,7 +701,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "02/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -757,7 +721,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "03/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -778,7 +741,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "03/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -799,7 +761,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "03/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -820,7 +781,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "04/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -841,7 +801,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "04/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -862,7 +821,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "04/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -883,7 +841,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "05/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -904,7 +861,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "05/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -925,7 +881,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "05/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -946,7 +901,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "06/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -967,7 +921,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "06/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -988,7 +941,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "06/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1009,7 +961,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "07/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1030,7 +981,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "07/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1051,7 +1001,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "07/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1072,7 +1021,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "08/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1093,7 +1041,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "08/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1114,7 +1061,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "08/04/2020",
 			"mm-01": "0",
 			"mm-02": "1",
@@ -1135,7 +1081,6 @@
 			"tt": "2"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "09/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1156,7 +1101,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "09/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1177,7 +1121,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "09/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1198,7 +1141,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "10/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1219,7 +1161,6 @@
 			"tt": "5"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "10/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1240,7 +1181,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "10/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1261,7 +1201,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "11/04/2020",
 			"mm-01": "0",
 			"mm-02": "1",
@@ -1282,7 +1221,6 @@
 			"tt": "3"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "11/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1303,7 +1241,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "11/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1324,7 +1261,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "12/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1345,7 +1281,6 @@
 			"tt": "10"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "12/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1366,7 +1301,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "12/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1387,7 +1321,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "13/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1408,7 +1341,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "13/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1429,7 +1361,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "13/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1450,7 +1381,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "14/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1471,7 +1401,6 @@
 			"tt": "22"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "14/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1492,7 +1421,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "14/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1513,7 +1441,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "15/04/2020",
 			"mm-01": "1",
 			"mm-02": "0",
@@ -1534,7 +1461,6 @@
 			"tt": "11"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "15/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1555,7 +1481,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "15/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1576,7 +1501,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "16/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1597,7 +1521,6 @@
 			"tt": "11"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "16/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1618,7 +1541,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "16/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1639,7 +1561,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "17/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1660,7 +1581,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "17/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1681,7 +1601,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "17/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1702,7 +1621,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "18/04/2020",
 			"mm-01": "1",
 			"mm-02": "0",
@@ -1723,7 +1641,6 @@
 			"tt": "13"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "18/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1744,7 +1661,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "18/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1765,7 +1681,6 @@
 			"tt": "1"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "19/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1786,7 +1701,6 @@
 			"tt": "13"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "19/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1807,7 +1721,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "19/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1828,7 +1741,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "20/04/2020",
 			"mm-01": "4",
 			"mm-02": "2",
@@ -1849,7 +1761,6 @@
 			"tt": "8"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "20/04/2020",
 			"mm-01": "1",
 			"mm-02": "0",
@@ -1870,7 +1781,6 @@
 			"tt": "4"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "20/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1891,7 +1801,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "21/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1912,7 +1821,6 @@
 			"tt": "2"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "21/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1933,7 +1841,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "21/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1954,7 +1861,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "22/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1975,7 +1881,6 @@
 			"tt": "2"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "22/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -1996,7 +1901,6 @@
 			"tt": "3"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "22/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -2017,7 +1921,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "inpatient",
 			"date": "23/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -2038,7 +1941,6 @@
 			"tt": "4"
 		},
 		{
-			"currentstatus": "recovered",
 			"date": "23/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
@@ -2059,7 +1961,6 @@
 			"tt": "0"
 		},
 		{
-			"currentstatus": "deceased",
 			"date": "23/04/2020",
 			"mm-01": "0",
 			"mm-02": "0",
