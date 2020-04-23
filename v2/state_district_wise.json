@@ -17,7 +17,7 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "confirmed": 34,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -25,7 +25,7 @@
       },
       {
         "district": "Yangon (East)",
-        "confirmed": 30,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -47,6 +47,14 @@
       {
         "district": "Mandalay",
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Pyinoolwin",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
