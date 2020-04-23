@@ -728,7 +728,7 @@
 		},
 		{
 			"agebracket": "20",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "36",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "အင်းစိန်",
@@ -750,7 +750,7 @@
 		},
 		{
 			"agebracket": "24",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "36",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "အင်းစိန်",
@@ -772,7 +772,7 @@
 		},
 		{
 			"agebracket": "33",
-			"contractedfromwhichpatientsuspected": "34,35,37",
+			"contractedfromwhichpatientsuspected": "24",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "အင်းစိန်",
@@ -794,7 +794,7 @@
 		},
 		{
 			"agebracket": "44",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "36",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "အင်းစိန်",
