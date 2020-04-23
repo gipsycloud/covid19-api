@@ -4,12 +4,6 @@ const c = require("../lib/constants");
 
 (async function main() {
   console.log("Running task on start...");
-
-  await task({
-    sheet: c.SHEET,
-    tabs: { states_daily: c.SHEET_DATE_WISE_DELTA },
-    file: c.FILE_DATE_WISE_DELTA
-  });
   
   await task({
     sheet: c.SHEET,

@@ -26,6 +26,7 @@ git checkout "$main_branch"
 cp README.md tmp/
 
 node src/sheet-to-json_generic.js
+node src/sheet-to-json.js
 node src/set-updated-time.js
 node src/raw_data-to-state_district_wise_data.js
 node src/generate_activity_log.js

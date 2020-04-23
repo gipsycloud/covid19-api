@@ -1,48 +1,52 @@
 const moment = require("moment");
 const rawData = require('../tmp/raw_data');
-const { fetchData, writeData } = require("../lib");
-const { SHEET, SHEET_STATEWISE_TAB, SHEET_CASES_TIME_SERIES_TAB, SHEET_KEY_VALUES_TAB, SHEET_Tested_Numbers_ICMR_Data, FILE_DATA } = require("./lib/constants");
+const { writeData } = require("../lib");
+const { SHEET, FILE_DATE_WISE_DELTA } = require("../lib/constants");
 
-const tabs = {
-  statewise: SHEET_STATEWISE_TAB,
-  cases_time_series: SHEET_CASES_TIME_SERIES_TAB,
-  key_values: SHEET_KEY_VALUES_TAB,
-  tested:SHEET_Tested_Numbers_ICMR_Data,
+String.prototype.toProperCase = function () {
+  return this.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
 };
-
-function getDelta(state) {
-  return  rawData.raw_data.reduce((stat, row) => {
-    let stateName = row.detectedstate;
-    let isToday = moment().utcOffset(330).isSame(moment(row.dateannounced, "DD-MM-YYYY"), "day");
-    if (stateName && (stateName === state || state === "Total") && isToday) {
-      let currentStatus = row.currentstatus;
-      if (currentStatus) {
-        stat.confirmed += 1;
-        switch (currentStatus) {
-          case "Hospitalized":
-            stat.active += 1;
-            break;
-          case "Recovered":
-            stat.recovered += 1;
-            break;
-          case "Deceased":
-            stat.deaths += 1;
-            break;
-        }
-      } else {
-        console.error("Current status is empty in sheet for patient:", row.patientnumber);
-      }
-    }
-    return stat;
-  }, {active: 0, confirmed: 0, deaths: 0, recovered: 0});
-}
 
 async function task() {
   console.log(`Fetching data from sheets: ${SHEET}...`);
-  let data = await fetchData({ sheet: SHEET, tabs });
-  data.statewise = data.statewise.map(data => Object.assign(data, {delta: getDelta(data.state)}));
-  console.log(`Writing data to json file: ${FILE_DATA}...`);
-  await writeData({file: FILE_DATA, data});
+  let {raw_data} = rawData;
+
+  const beginning = moment("2020-03-22T00:00:00+06:30");
+  // until tomorrow because we want to include for today
+  const tomorrow = moment(moment().add(1, 'day').format("YYYY-MM-DDT00:00:00+06:30"));
+
+  const statecodes = ['MM-01','MM-02','MM-03','MM-04','MM-05','MM-06','MM-07','MM-11','MM-12','MM-13','MM-14','MM-15','MM-16','MM-17','MM-18'];
+
+  let allEntries = [];
+  for (i = 0; i < tomorrow.diff(beginning, 'days'); i++) {
+    const currentDate = moment(beginning).add(i, 'day').format("DD/MM/YYYY");
+    ['inpatient', 'recovered', 'deceased'].forEach((status) => {
+      const countByStates = statecodes.reduce((value, statecode) => {
+        let count = 0;
+        if (status == 'inpatient') {
+          // count of filtered data by DATE, STATECODE
+          count = raw_data.filter((value) => value.dateannounced === currentDate && value.statecode === statecode).length;
+        } else {
+          // count of filtered data by DATE, STATUS, STATECODE
+          count = raw_data.filter((value) => value.dischargeddeceaseddate === currentDate && value.status === status && value.statecode === statecode).length;
+        }
+        value[statecode.toLowerCase()] = String(count);
+        return value;
+      }, {});
+      const total = Object.keys(countByStates).reduce((t, k) => t + Number(countByStates[k]), 0);
+      let entry = {
+        currentstatus: status,
+        date: currentDate,
+        tt: total.toString(),
+        status: status == 'inpatient' ? 'Confirmed' : status.toProperCase(),
+      };
+      entry = {...entry, ...countByStates};
+      allEntries.push(entry);
+    })
+  }
+
+  writeData({file: FILE_DATE_WISE_DELTA, data: {states_daily: allEntries}});
+  
   console.log("Operation completed!");
 }
 
@@ -51,5 +55,3 @@ async function task() {
   await task();
   console.log("Created Json File With Updated Contents");
 })();
-
-// source https://github.com/reustle/covid19japan/blob/master/scripts/cache-spreadsheet-data/cache-sheet.js , and made the changes accordingly
