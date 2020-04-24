@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/covid19india/api#readme",
   "dependencies": {
+    "deep-object-diff": "^1.1.0",
     "drive-db": "^6.0.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",

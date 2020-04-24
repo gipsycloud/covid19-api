@@ -18,7 +18,7 @@ mkdir tmp
 mkdir tmp/v2
 mkdir tmp/updatelog
 
-cp ./data.json ./tmp/data_prev.json
+cp ./raw_data.json ./tmp/raw_data_prev.json
 cp -r updatelog/ ./tmp/
 
 git checkout "$main_branch"
@@ -35,7 +35,7 @@ node src/states_daily_to_csv.js
 
 git checkout "$gh_pages_branch"
 
-rm tmp/data_prev.json
+rm tmp/raw_data_prev.json
 cp -r tmp/* .
 rm -r tmp/
 
