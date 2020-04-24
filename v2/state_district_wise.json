@@ -17,7 +17,7 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "confirmed": 36,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -68,27 +68,6 @@
       {
         "district": "Oke Ta Ra",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Sagaing",
-    "districtData": [
-      {
-        "district": "Yinmarbin",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Kale",
-        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -165,6 +144,19 @@
       {
         "district": "Magway",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Sagaing",
+    "districtData": [
+      {
+        "district": "Kale",
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
