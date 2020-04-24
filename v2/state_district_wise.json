@@ -171,5 +171,18 @@
         }
       }
     ]
+  },
+  {
+    "state": "Kachin",
+    "districtData": [
+      {
+        "district": "Mohnyin",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
   }
 ]
