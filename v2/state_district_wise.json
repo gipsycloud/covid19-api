@@ -17,7 +17,7 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "confirmed": 37,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -25,7 +25,7 @@
       },
       {
         "district": "Yangon (East)",
-        "confirmed": 33,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -33,7 +33,7 @@
       },
       {
         "district": "Yangon (West)",
-        "confirmed": 39,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -97,6 +97,14 @@
       {
         "district": "Tachileik",
         "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Muse",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
