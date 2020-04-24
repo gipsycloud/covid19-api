@@ -23,14 +23,14 @@
         "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Yangon (West)": {
         "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 0
         }
       }
     }
