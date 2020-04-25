@@ -1730,7 +1730,7 @@
 		},
 		{
 			"agebracket": "29",
-			"contractedfromwhichpatientsuspected": "54,55,56,57,58,59,61,60,64,80,81",
+			"contractedfromwhichpatientsuspected": "54,55,56,57,58,59,61,60,64",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "Insein",
@@ -1898,7 +1898,7 @@
 		},
 		{
 			"agebracket": "28",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "73",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "Hlaingtharya",
@@ -1922,7 +1922,7 @@
 		},
 		{
 			"agebracket": "28",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "73",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "Hlaingtharya",
@@ -2902,7 +2902,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "28",
@@ -3050,7 +3050,7 @@
 		},
 		{
 			"agebracket": "54",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "08",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "South Okkalapa",
@@ -3074,7 +3074,7 @@
 		},
 		{
 			"agebracket": "31",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "08",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Thaketa",
@@ -3098,7 +3098,7 @@
 		},
 		{
 			"agebracket": "65",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "09",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Insein",
@@ -3122,7 +3122,7 @@
 		},
 		{
 			"agebracket": "28",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "08",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Insein",
