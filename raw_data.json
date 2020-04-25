@@ -3434,7 +3434,7 @@
 		},
 		{
 			"agebracket": "24",
-			"contractedfromwhichpatientsuspected": "no",
+			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Mohnyin",
