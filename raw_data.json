@@ -1514,7 +1514,7 @@
 		},
 		{
 			"agebracket": "23",
-			"contractedfromwhichpatientsuspected": "24",
+			"contractedfromwhichpatientsuspected": "73",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "Monghpyak",
@@ -1730,7 +1730,7 @@
 		},
 		{
 			"agebracket": "29",
-			"contractedfromwhichpatientsuspected": "54,55,56,57,58,59,61,60,64",
+			"contractedfromwhichpatientsuspected": "64,80,81",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "Insein",
