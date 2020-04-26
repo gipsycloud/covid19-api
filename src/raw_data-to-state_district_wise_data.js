@@ -6,8 +6,7 @@ const rawData = require('../tmp/raw_data');
 console.log('Starting district wise data processing');
 try {
   const StateDistrictWiseData = rawData.raw_data.reduce((acc, row) => {
-    const todaysdate = moment().utcOffset("+6:30"); //set moment instance to MMT timezone and fetch currect MMT time
-    const isToday = moment(todaysdate).add(-420, "m").isSame(moment(row.dateannounced + " 00:00 +0630", "DD-MM-YYYY HH:mm Z"), "day"); //Subtract 7 hours from IST time to persist values upto 7 AM and create moment instance from row.dateannounced in the IST Timezone
+    const isToday = moment().utcOffset("+06:30").format("DD/MM/YYYY") === row.dateannounced;
     let stateName = row.detectedstate;
       if(!stateName) {
         return acc;
