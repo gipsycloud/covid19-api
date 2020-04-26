@@ -2212,7 +2212,7 @@
 		},
 		{
 			"agebracket": "78",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "34,35,36,37",
 			"currentstatus": "Deceased",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "Mayangone",
@@ -3538,7 +3538,7 @@
 		},
 		{
 			"agebracket": "31",
-			"contractedfromwhichpatientsuspected": "79",
+			"contractedfromwhichpatientsuspected": "79,93",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Hlaing",
@@ -3590,7 +3590,7 @@
 		},
 		{
 			"agebracket": "26",
-			"contractedfromwhichpatientsuspected": "79",
+			"contractedfromwhichpatientsuspected": "79,93",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Hlaing",
@@ -3668,7 +3668,7 @@
 		},
 		{
 			"agebracket": "35",
-			"contractedfromwhichpatientsuspected": "79",
+			"contractedfromwhichpatientsuspected": "79,93",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Dagon Myothit (East)",
