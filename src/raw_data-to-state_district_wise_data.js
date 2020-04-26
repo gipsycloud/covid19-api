@@ -6,14 +6,18 @@ const rawData = require('../tmp/raw_data');
 console.log('Starting district wise data processing');
 try {
   const StateDistrictWiseData = rawData.raw_data.reduce((acc, row) => {
-    const isToday = moment().utcOffset("+06:30").format("DD/MM/YYYY") === row.dateannounced;
+    const today = moment().utcOffset("+06:30").format("DD/MM/YYYY");
+    const announcedToday = today === row.dateannounced;
+    const updatedToday = today === row.dischargeddeceaseddate;
     let stateName = row.detectedstate;
       if(!stateName) {
         return acc;
-        stateName = 'Unknown';
       }
     if(!acc[stateName]) {
-      acc[stateName] = {districtData: {}};
+      acc[stateName] = {
+        districtData: {},
+        statecode: row.statecode,
+      };
     }
     let districtName = row.detecteddistrict;
       if(!districtName) {
@@ -22,29 +26,39 @@ try {
     if(!acc[stateName].districtData[districtName]) {
       
       acc[stateName].districtData[districtName] = {
-//         active: 0,
+        active: 0,
         confirmed: 0,
-//         deaths: 0,
-        lastupdatedtime: "",
-//         recovered: 0,
+        deceased: 0,
+        recovered: 0,
         delta: {
-          confirmed: 0
+          confirmed: 0,
+          deceased: 0,
+          recovered: 0,
         }
       };
     }
     const currentDistrict = acc[stateName].districtData[districtName];
   
     currentDistrict.confirmed++;
-    if (isToday) {
+    if (announcedToday) {
       currentDistrict.delta.confirmed++;
     }
-//     if(row.currentstatus === 'Hospitalized') {
-//       currentDistrict.active++;
-//     } else if(row.currentstatus === 'Deceased') {
-//       currentDistrict.deaths++;
-//     } else if(row.currentstatus === 'Recovered') {
-//       currentDistrict.recovered++;
-//     }
+    if(row.currentstatus === 'Hospitalized') {
+      currentDistrict.active++;
+      if (updatedToday) {
+        currentDistrict.delta.active++;
+      }
+    } else if(row.currentstatus === 'Deceased') {
+      currentDistrict.deceased++;
+      if (updatedToday) {
+        currentDistrict.delta.deceased++;
+      }
+    } else if(row.currentstatus === 'Recovered') {
+      currentDistrict.recovered++;
+      if (updatedToday) {
+        currentDistrict.delta.recovered++;
+      }
+    }
 
     return acc;
   
@@ -54,6 +68,7 @@ try {
     let districtData = StateDistrictWiseData[state].districtData;
     return {
       state,
+      statecode: StateDistrictWiseData[state].statecode,
       districtData: Object.keys(districtData).map(district => {
         return { district, ...districtData[district] };
       })
