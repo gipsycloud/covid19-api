@@ -21,11 +21,13 @@ function getChangeSet() {
 
     const {added, updated} = diff;
 
-    const newEntries = Object.values(added);
-
-    let deltaCities = newEntries.map(e => makeLocationString(e)).reduce((prev, location) => {
-        prev[location] = prev[location] || {};
-        prev[location]['case'] = (prev[location]['case'] || 0) + 1;
+    let deltaCities = Object.keys(added).reduce((prev, index) => {
+        const updatedContent = added[index];
+        if ('patientnumber' in updatedContent) {
+            const location = makeLocationString(updatedContent)
+            prev[location] = prev[location] || {};
+            prev[location]['case'] = (prev[location]['case'] || 0) + 1;
+        }
         return prev;
     }, {});
 
