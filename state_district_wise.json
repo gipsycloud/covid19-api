@@ -2,167 +2,249 @@
   "Chin": {
     "districtData": {
       "Falam": {
+        "active": 5,
         "confirmed": 5,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-14"
   },
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
+        "active": 36,
         "confirmed": 38,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Yangon (East)": {
+        "active": 30,
         "confirmed": 34,
-        "lastupdatedtime": "",
+        "deceased": 2,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Yangon (West)": {
+        "active": 36,
         "confirmed": 41,
-        "lastupdatedtime": "",
+        "deceased": 2,
+        "recovered": 3,
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-06"
   },
   "Mandalay": {
     "districtData": {
       "Mandalay": {
+        "active": 1,
         "confirmed": 2,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Pyinoolwin": {
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-04"
   },
   "Nay Pyi Taw": {
     "districtData": {
       "Oke Ta Ra": {
+        "active": 0,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-18"
   },
   "Shan": {
     "districtData": {
       "Kyaukme": {
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Taunggyi": {
+        "active": 2,
         "confirmed": 2,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Tachileik": {
+        "active": 3,
         "confirmed": 3,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Muse": {
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-17"
   },
   "Bago": {
     "districtData": {
       "Bago": {
+        "active": 4,
         "confirmed": 5,
-        "lastupdatedtime": "",
+        "deceased": 1,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Pyay": {
+        "active": 2,
         "confirmed": 2,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-02"
   },
   "Mon": {
     "districtData": {
       "Mawlamyine": {
+        "active": 0,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-15"
   },
   "Magway": {
     "districtData": {
       "Magway": {
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-03"
   },
   "Sagaing": {
     "districtData": {
       "Kale": {
+        "active": 6,
         "confirmed": 6,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Sagaing": {
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-01"
   },
   "Kachin": {
     "districtData": {
       "Mohnyin": {
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
-    }
+    },
+    "statecode": "MM-11"
   }
 }

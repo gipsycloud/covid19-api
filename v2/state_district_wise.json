@@ -1,194 +1,276 @@
 [
   {
     "state": "Chin",
+    "statecode": "MM-14",
     "districtData": [
       {
         "district": "Falam",
+        "active": 5,
         "confirmed": 5,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
   },
   {
     "state": "Yangon",
+    "statecode": "MM-06",
     "districtData": [
       {
         "district": "Yangon (North)",
+        "active": 36,
         "confirmed": 38,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
         "district": "Yangon (East)",
+        "active": 30,
         "confirmed": 34,
-        "lastupdatedtime": "",
+        "deceased": 2,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
         "district": "Yangon (West)",
+        "active": 36,
         "confirmed": 41,
-        "lastupdatedtime": "",
+        "deceased": 2,
+        "recovered": 3,
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
   },
   {
     "state": "Mandalay",
+    "statecode": "MM-04",
     "districtData": [
       {
         "district": "Mandalay",
+        "active": 1,
         "confirmed": 2,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
         "district": "Pyinoolwin",
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
   },
   {
     "state": "Nay Pyi Taw",
+    "statecode": "MM-18",
     "districtData": [
       {
         "district": "Oke Ta Ra",
+        "active": 0,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
   },
   {
     "state": "Shan",
+    "statecode": "MM-17",
     "districtData": [
       {
         "district": "Kyaukme",
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
         "district": "Taunggyi",
+        "active": 2,
         "confirmed": 2,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
         "district": "Tachileik",
+        "active": 3,
         "confirmed": 3,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
         "district": "Muse",
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
   },
   {
     "state": "Bago",
+    "statecode": "MM-02",
     "districtData": [
       {
         "district": "Bago",
+        "active": 4,
         "confirmed": 5,
-        "lastupdatedtime": "",
+        "deceased": 1,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
         "district": "Pyay",
+        "active": 2,
         "confirmed": 2,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
   },
   {
     "state": "Mon",
+    "statecode": "MM-15",
     "districtData": [
       {
         "district": "Mawlamyine",
+        "active": 0,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
   },
   {
     "state": "Magway",
+    "statecode": "MM-03",
     "districtData": [
       {
         "district": "Magway",
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
   },
   {
     "state": "Sagaing",
+    "statecode": "MM-01",
     "districtData": [
       {
         "district": "Kale",
+        "active": 6,
         "confirmed": 6,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
         "district": "Sagaing",
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
   },
   {
     "state": "Kachin",
+    "statecode": "MM-11",
     "districtData": [
       {
         "district": "Mohnyin",
+        "active": 1,
         "confirmed": 1,
-        "lastupdatedtime": "",
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     ]
