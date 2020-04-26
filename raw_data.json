@@ -10,6 +10,7 @@
 			"detecteddistrict": "Falam",
 			"detectedstate": "Chin",
 			"detectedsubstate": "Chin",
+			"detectedtownship": "Tedim",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Tedim Hospital",
@@ -22,6 +23,7 @@
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-23-3-2020-11-45-pm",
 			"statecode": "MM-14",
 			"status": "inpatient",
+			"townshipcode": "MMR004004",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -34,6 +36,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hmawbi",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -46,6 +49,7 @@
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-23-3-2020-11-45-pm",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013003",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -58,6 +62,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "20/04/2020",
 			"gender": "M",
 			"hospitalname": "Insein General Hospital",
@@ -70,6 +75,7 @@
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-25-3-2020-01-00-am",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -82,6 +88,7 @@
 			"detecteddistrict": "Mandalay",
 			"detectedstate": "Mandalay",
 			"detectedsubstate": "Mandalay",
+			"detectedtownship": "Aungmyaythazan",
 			"dischargeddeceaseddate": "08/04/2020",
 			"gender": "M",
 			"hospitalname": "Kandaw Nadi Hospital",
@@ -94,6 +101,7 @@
 			"source2": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-9-4-2020-8-00-pm",
 			"statecode": "MM-04",
 			"status": "recovered",
+			"townshipcode": "MMR010001",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -106,6 +114,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mingalartaungnyunt",
 			"dischargeddeceaseddate": "31/03/2020",
 			"gender": "M",
 			"hospitalname": "Yangon General Hospital",
@@ -118,6 +127,7 @@
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%93-%E1%80%90-%E1%80%81-%E1%80%A1%E1%80%90%E1%80%8A-%E1%80%95-%E1%80%9C-%E1%80%94-%E1%81%81-%E1%80%A6-%E1%80%9E-%E1%80%86-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-31-3-2020",
 			"statecode": "MM-06",
 			"status": "deceased",
+			"townshipcode": "MMR013022",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -130,6 +140,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -142,6 +153,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -154,6 +166,7 @@
 			"detecteddistrict": "Oke Ta Ra",
 			"detectedstate": "Nay Pyi Taw",
 			"detectedsubstate": "Nay Pyi Taw",
+			"detectedtownship": "Zay Yar Thi Ri",
 			"dischargeddeceaseddate": "07/04/2020",
 			"gender": "F",
 			"hospitalname": "1000 Bedded Naypyitaw General Hospital",
@@ -166,6 +179,7 @@
 			"source2": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-8-4-2020-8-00-pm",
 			"statecode": "MM-18",
 			"status": "recovered",
+			"townshipcode": "MMR018001",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -178,6 +192,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Bahan",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Yangon General Hospital",
@@ -190,6 +205,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -202,6 +218,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mingaladon",
 			"dischargeddeceaseddate": "20/04/2020",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -214,6 +231,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"townshipcode": "MMR013002",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -226,6 +244,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mingalartaungnyunt",
 			"dischargeddeceaseddate": "22/04/2020",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -238,6 +257,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"townshipcode": "MMR013022",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -250,6 +270,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Kyauktada",
 			"dischargeddeceaseddate": "22/04/2020",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -262,6 +283,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"townshipcode": "MMR013033",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -274,6 +296,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Kyauktada",
 			"dischargeddeceaseddate": "22/04/2020",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -286,6 +309,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"townshipcode": "MMR013033",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -298,6 +322,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Kyauktada",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -310,6 +335,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013033",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -322,6 +348,7 @@
 			"detecteddistrict": "Kyaukme",
 			"detectedstate": "Shan",
 			"detectedsubstate": "Shan (North)",
+			"detectedtownship": "Kyaukme",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Kyauk Me Hospital",
@@ -334,6 +361,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"townshipcode": "MMR015012",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -346,6 +374,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Bahan",
 			"dischargeddeceaseddate": "20/04/2020",
 			"gender": "F",
 			"hospitalname": "Yangon West  Hospital",
@@ -358,6 +387,7 @@
 			"source2": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3343173402378608",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -370,6 +400,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "North Okkalapa",
 			"dischargeddeceaseddate": "08/04/2020",
 			"gender": "F",
 			"hospitalname": "North Okkalapa General Hospital",
@@ -382,6 +413,7 @@
 			"source2": "https://www.facebook.com/199295433433103/posts/3310281902334425/",
 			"statecode": "MM-06",
 			"status": "deceased",
+			"townshipcode": "MMR013012",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -394,6 +426,7 @@
 			"detecteddistrict": "Bago",
 			"detectedstate": "Bago",
 			"detectedsubstate": "Bago",
+			"detectedtownship": "Bago",
 			"dischargeddeceaseddate": "08/04/2020",
 			"gender": "M",
 			"hospitalname": "Pauk Khaung Health Center",
@@ -406,6 +439,7 @@
 			"source2": "https://www.facebook.com/199295433433103/posts/3310281902334425/",
 			"statecode": "MM-02",
 			"status": "deceased",
+			"townshipcode": "MMR007001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -418,6 +452,7 @@
 			"detecteddistrict": "Bago",
 			"detectedstate": "Bago",
 			"detectedsubstate": "Bago",
+			"detectedtownship": "Bago",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -430,6 +465,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
 			"status": "inpatient",
+			"townshipcode": "MMR007001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -442,6 +478,7 @@
 			"detecteddistrict": "Bago",
 			"detectedstate": "Bago",
 			"detectedsubstate": "Bago",
+			"detectedtownship": "Bago",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -454,6 +491,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
 			"status": "inpatient",
+			"townshipcode": "MMR007001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -466,6 +504,7 @@
 			"detecteddistrict": "Bago",
 			"detectedstate": "Bago",
 			"detectedsubstate": "Bago",
+			"detectedtownship": "Bago",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -478,6 +517,7 @@
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
 			"status": "inpatient",
+			"townshipcode": "MMR007001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -490,6 +530,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Botahtaung",
 			"dischargeddeceaseddate": "20/04/2020",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -502,6 +543,7 @@
 			"source2": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3343173402378608",
 			"statecode": "MM-06",
 			"status": "recovered",
+			"townshipcode": "MMR013017",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -514,6 +556,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Botahtaung",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -526,6 +569,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013017",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -538,6 +582,7 @@
 			"detecteddistrict": "Falam",
 			"detectedstate": "Chin",
 			"detectedsubstate": "Chin",
+			"detectedtownship": "Tedim",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Tedim Hospital",
@@ -550,6 +595,7 @@
 			"source2": "",
 			"statecode": "MM-14",
 			"status": "inpatient",
+			"townshipcode": "MMR004004",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -562,6 +608,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "North Okkalapa General Hospital",
@@ -574,6 +621,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -586,6 +634,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Bahan",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "North Okkalapa General Hospital",
@@ -598,6 +647,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -610,6 +660,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaingtharya",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Yangon General Hospital",
@@ -622,6 +673,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -634,6 +686,7 @@
 			"detecteddistrict": "Mawlamyine",
 			"detectedstate": "Mon",
 			"detectedsubstate": "Mon",
+			"detectedtownship": "Kyaikmaraw",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Mawlamyine Hospital",
@@ -646,6 +699,7 @@
 			"source2": "https://www.facebook.com/199295433433103/posts/3356132174416064/",
 			"statecode": "MM-15",
 			"status": "recovered",
+			"townshipcode": "MMR011002",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -658,6 +712,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Bahan",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -670,6 +725,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -682,6 +738,7 @@
 			"detecteddistrict": "Taunggyi",
 			"detectedstate": "Shan",
 			"detectedsubstate": "Shan (South)",
+			"detectedtownship": "Taunggyi",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Sao San Tun Hospital",
@@ -694,6 +751,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"townshipcode": "MMR014001",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -706,6 +764,7 @@
 			"detecteddistrict": "Bago",
 			"detectedstate": "Bago",
 			"detectedsubstate": "Bago",
+			"detectedtownship": "Bago",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -718,6 +777,7 @@
 			"source2": "",
 			"statecode": "MM-02",
 			"status": "inpatient",
+			"townshipcode": "MMR007001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -730,6 +790,7 @@
 			"detecteddistrict": "Falam",
 			"detectedstate": "Chin",
 			"detectedsubstate": "Chin",
+			"detectedtownship": "Tedim",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Tedim Hospital",
@@ -742,6 +803,7 @@
 			"source2": "",
 			"statecode": "MM-14",
 			"status": "inpatient",
+			"townshipcode": "MMR004004",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -754,6 +816,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlegu",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Hlegu Township Hospital",
@@ -766,6 +829,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013004",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -778,6 +842,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Shwepyithar",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Insein General Hospital",
@@ -790,6 +855,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013007",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -802,6 +868,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Insein General Hospital",
@@ -814,6 +881,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -826,6 +894,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Insein General Hospital",
@@ -838,6 +907,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -850,6 +920,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Insein General Hospital",
@@ -862,6 +933,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -874,6 +946,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Insein General Hospital",
@@ -886,6 +959,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -898,6 +972,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Insein General Hospital",
@@ -910,6 +985,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -922,6 +998,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Pabedan",
 			"dischargeddeceaseddate": "12/04/2020",
 			"gender": "M",
 			"hospitalname": "Yangon General Hospital",
@@ -934,6 +1011,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "deceased",
+			"townshipcode": "MMR013034",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -946,6 +1024,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Bahan",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "North Okkalapa General Hospital",
@@ -958,6 +1037,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -970,6 +1050,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -982,6 +1063,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -994,6 +1076,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Bahan",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1006,6 +1089,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1018,6 +1102,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1030,6 +1115,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1042,6 +1128,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1054,6 +1141,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1066,6 +1154,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1078,6 +1167,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1090,6 +1180,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Bahan",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1102,6 +1193,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1114,6 +1206,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1126,6 +1219,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1138,6 +1232,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1150,6 +1245,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1162,6 +1258,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1174,6 +1271,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1186,6 +1284,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1198,6 +1297,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1210,6 +1310,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1222,6 +1323,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1234,6 +1336,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1246,6 +1349,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1258,6 +1362,7 @@
 			"detecteddistrict": "Magway",
 			"detectedstate": "Magway",
 			"detectedsubstate": "Magway",
+			"detectedtownship": "Magway",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Magway Regional Hospital",
@@ -1270,6 +1375,7 @@
 			"source2": "",
 			"statecode": "MM-03",
 			"status": "inpatient",
+			"townshipcode": "MMR009001",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -1282,6 +1388,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1294,6 +1401,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1306,6 +1414,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1318,6 +1427,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1330,6 +1440,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1342,6 +1453,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1354,6 +1466,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Shwepyithar",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1366,6 +1479,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013007",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1378,6 +1492,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1390,6 +1505,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1402,6 +1518,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1414,6 +1531,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1426,6 +1544,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Shwepyithar",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1438,6 +1557,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013007",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1450,6 +1570,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1462,6 +1583,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1474,6 +1596,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1486,6 +1609,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1498,6 +1622,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaingtharya",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1510,6 +1635,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1522,6 +1648,7 @@
 			"detecteddistrict": "Tachileik",
 			"detectedstate": "Shan",
 			"detectedsubstate": "Shan (East)",
+			"detectedtownship": "Monghpyak",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Kyaing Done Hospital",
@@ -1534,6 +1661,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"townshipcode": "MMR016010",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1546,6 +1674,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Pabedan",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1558,6 +1687,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013034",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1570,6 +1700,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Pabedan",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1582,6 +1713,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013034",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1594,6 +1726,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Pabedan",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1606,6 +1739,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013034",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1618,6 +1752,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Pabedan",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1630,6 +1765,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013034",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1642,6 +1778,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1654,6 +1791,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1666,6 +1804,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1678,6 +1817,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1690,6 +1830,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Bahan",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1702,6 +1843,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1714,6 +1856,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1726,6 +1869,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1738,6 +1882,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1750,6 +1895,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1762,6 +1908,7 @@
 			"detecteddistrict": "Kale",
 			"detectedstate": "Sagaing",
 			"detectedsubstate": "Sagaing",
+			"detectedtownship": "Kale",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Kalay Hospital",
@@ -1774,6 +1921,7 @@
 			"source2": "",
 			"statecode": "MM-01",
 			"status": "inpatient",
+			"townshipcode": "MMR005027",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1786,6 +1934,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "North Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1798,6 +1947,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013012",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1810,6 +1960,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Ahlone",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1822,6 +1973,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013037",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1834,6 +1986,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Sanchaung",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1846,6 +1999,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013039",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1858,6 +2012,7 @@
 			"detecteddistrict": "Falam",
 			"detectedstate": "Chin",
 			"detectedsubstate": "Chin",
+			"detectedtownship": "Tedim",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Tedim Hospital",
@@ -1870,6 +2025,7 @@
 			"source2": "",
 			"statecode": "MM-14",
 			"status": "inpatient",
+			"townshipcode": "MMR004004",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1882,6 +2038,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Bahan",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1894,6 +2051,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1906,6 +2064,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaingtharya",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1918,6 +2077,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1930,6 +2090,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaingtharya",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1942,6 +2103,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -1954,6 +2116,7 @@
 			"detecteddistrict": "Mandalay",
 			"detectedstate": "Mandalay",
 			"detectedsubstate": "Mandalay",
+			"detectedtownship": "Aungmyaythazan",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Kandaw Nadi Hospital",
@@ -1966,6 +2129,7 @@
 			"source2": "",
 			"statecode": "MM-04",
 			"status": "inpatient",
+			"townshipcode": "MMR010001",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -1978,6 +2142,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Pazundaung",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -1990,6 +2155,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013016",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -2002,6 +2168,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -2014,6 +2181,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2026,6 +2194,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Dagon Myothit (South)",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -2038,6 +2207,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013018",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2050,6 +2220,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "18/04/2020",
 			"gender": "M",
 			"hospitalname": "Insein General Hospital",
@@ -2062,6 +2233,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "deceased",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2074,6 +2246,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Tamwe",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Yangon General Hospital",
@@ -2086,6 +2259,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013015",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2098,6 +2272,7 @@
 			"detecteddistrict": "Kale",
 			"detectedstate": "Sagaing",
 			"detectedsubstate": "Sagaing",
+			"detectedtownship": "Kale",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Kalay Hospital",
@@ -2110,6 +2285,7 @@
 			"source2": "",
 			"statecode": "MM-01",
 			"status": "inpatient",
+			"townshipcode": "MMR005027",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2122,6 +2298,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "North Okkalapa General Hospital",
@@ -2134,6 +2311,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2146,6 +2324,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "North Okkalapa General Hospital",
@@ -2158,6 +2337,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2170,6 +2350,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "North Okkalapa General Hospital",
@@ -2182,6 +2363,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2194,6 +2376,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Sanchaung",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "East Yangon General Hospital",
@@ -2206,6 +2389,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013039",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2218,6 +2402,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "East Yangon General Hospital",
@@ -2230,6 +2415,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2242,6 +2428,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Insein General Hospital",
@@ -2254,6 +2441,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2266,6 +2454,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Pabedan",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Wai Bar Gi Hospital",
@@ -2278,6 +2467,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013034",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2290,6 +2480,7 @@
 			"detecteddistrict": "Tachileik",
 			"detectedstate": "Shan",
 			"detectedsubstate": "Shan (East)",
+			"detectedtownship": "Tachileik",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Kyaing Done Hospital",
@@ -2302,6 +2493,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"townshipcode": "MMR016009",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2314,6 +2506,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mingaladon",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2326,6 +2519,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013002",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2338,6 +2532,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2350,6 +2545,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2362,6 +2558,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Dawbon",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2374,6 +2571,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013014",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2386,6 +2584,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Dawbon",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2398,6 +2597,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013014",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2410,6 +2610,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Dagon Myothit (North)",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2422,6 +2623,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013019",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2434,6 +2636,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2446,6 +2649,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2458,6 +2662,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Lanmadaw",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2470,6 +2675,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013035",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2482,6 +2688,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Kamaryut",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2494,6 +2701,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013041",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2506,6 +2714,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2518,6 +2727,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2530,6 +2740,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Botahtaung",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2542,6 +2753,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013017",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2554,6 +2766,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Dagon Myothit (North)",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2566,6 +2779,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013019",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2578,6 +2792,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2590,6 +2805,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2602,6 +2818,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Thingangyun",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2614,6 +2831,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013009",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2626,6 +2844,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Botahtaung",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2638,6 +2857,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013017",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2650,6 +2870,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaingtharya",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2662,6 +2883,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2674,6 +2896,7 @@
 			"detecteddistrict": "Tachileik",
 			"detectedstate": "Shan",
 			"detectedsubstate": "Shan (East)",
+			"detectedtownship": "Tachileik",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Kyaing Done Hospital",
@@ -2686,6 +2909,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"townshipcode": "MMR016009",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2698,6 +2922,7 @@
 			"detecteddistrict": "Falam",
 			"detectedstate": "Chin",
 			"detectedsubstate": "Chin",
+			"detectedtownship": "Tedim",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Tedim Hospital",
@@ -2710,6 +2935,7 @@
 			"source2": "",
 			"statecode": "MM-14",
 			"status": "inpatient",
+			"townshipcode": "MMR004004",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2722,6 +2948,7 @@
 			"detecteddistrict": "Kale",
 			"detectedstate": "Sagaing",
 			"detectedsubstate": "Sagaing",
+			"detectedtownship": "Kale",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Kalay Hospital",
@@ -2734,6 +2961,7 @@
 			"source2": "",
 			"statecode": "MM-01",
 			"status": "inpatient",
+			"townshipcode": "MMR005027",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2746,6 +2974,7 @@
 			"detecteddistrict": "Kale",
 			"detectedstate": "Sagaing",
 			"detectedsubstate": "Sagaing",
+			"detectedtownship": "Kale",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Kalay Hospital",
@@ -2758,6 +2987,7 @@
 			"source2": "",
 			"statecode": "MM-01",
 			"status": "inpatient",
+			"townshipcode": "MMR005027",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2770,6 +3000,7 @@
 			"detecteddistrict": "Kale",
 			"detectedstate": "Sagaing",
 			"detectedsubstate": "Sagaing",
+			"detectedtownship": "Kale",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Kalay Hospital",
@@ -2782,6 +3013,7 @@
 			"source2": "",
 			"statecode": "MM-01",
 			"status": "inpatient",
+			"townshipcode": "MMR005027",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2794,6 +3026,7 @@
 			"detecteddistrict": "Kale",
 			"detectedstate": "Sagaing",
 			"detectedsubstate": "Sagaing",
+			"detectedtownship": "Kale",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Kalay Hospital",
@@ -2806,6 +3039,7 @@
 			"source2": "",
 			"statecode": "MM-01",
 			"status": "inpatient",
+			"townshipcode": "MMR005027",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2818,6 +3052,7 @@
 			"detecteddistrict": "Pyay",
 			"detectedstate": "Bago",
 			"detectedsubstate": "Bago",
+			"detectedtownship": "Pyay",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Pyay Hospital",
@@ -2830,6 +3065,7 @@
 			"source2": "",
 			"statecode": "MM-02",
 			"status": "inpatient",
+			"townshipcode": "MMR008001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2842,6 +3078,7 @@
 			"detecteddistrict": "Pyay",
 			"detectedstate": "Bago",
 			"detectedsubstate": "Bago",
+			"detectedtownship": "Pyay",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Pyay Hospital",
@@ -2854,6 +3091,7 @@
 			"source2": "",
 			"statecode": "MM-02",
 			"status": "inpatient",
+			"townshipcode": "MMR008001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2866,6 +3104,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Dagon Myothit (East)",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2878,6 +3117,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013020",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2890,6 +3130,7 @@
 			"detecteddistrict": "Taunggyi",
 			"detectedstate": "Shan",
 			"detectedsubstate": "Shan (South)",
+			"detectedtownship": "Taunggyi",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Sao San Tun Hospital",
@@ -2902,6 +3143,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"townshipcode": "MMR014001",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -2914,6 +3156,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Thaketa",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2926,6 +3169,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013013",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2938,6 +3182,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2950,6 +3195,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2962,6 +3208,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Mingaladon",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2974,6 +3221,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013002",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2986,6 +3234,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Botahtaung",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -2998,6 +3247,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013017",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3010,6 +3260,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Tamwe",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3022,6 +3273,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013015",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3034,6 +3286,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3046,6 +3299,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3058,6 +3312,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "South Okkalapa",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3070,6 +3325,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3082,6 +3338,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Thaketa",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3094,6 +3351,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013013",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3106,6 +3364,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3118,6 +3377,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3130,6 +3390,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3142,6 +3403,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3154,6 +3416,7 @@
 			"detecteddistrict": "Pyinoolwin",
 			"detectedstate": "Mandalay",
 			"detectedsubstate": "Mandalay",
+			"detectedtownship": "Madaya",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Kandaw Nadi Hospital",
@@ -3166,6 +3429,7 @@
 			"source2": "",
 			"statecode": "MM-04",
 			"status": "inpatient",
+			"townshipcode": "MMR010009",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3178,6 +3442,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Pabedan",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3190,6 +3455,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013034",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3202,6 +3468,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Tamwe",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3214,6 +3481,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013015",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3226,6 +3494,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Kyauktada",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3238,6 +3507,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013033",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3250,6 +3520,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Kyauktada",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3262,11 +3533,12 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013033",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
-			"contractedfromwhichpatientsuspected": "79,93",
+			"contractedfromwhichpatientsuspected": "79",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Hlaing",
@@ -3274,6 +3546,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaing",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3286,6 +3559,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013040",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3298,6 +3572,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Dagon",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3310,11 +3585,12 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013043",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
-			"contractedfromwhichpatientsuspected": "79,93",
+			"contractedfromwhichpatientsuspected": "79",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Hlaing",
@@ -3322,6 +3598,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaing",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3334,6 +3611,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013040",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3346,6 +3624,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaing",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3358,11 +3637,12 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013040",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "73",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Insein",
@@ -3370,6 +3650,7 @@
 			"detecteddistrict": "Yangon (North)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3382,11 +3663,12 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
-			"contractedfromwhichpatientsuspected": "79,93",
+			"contractedfromwhichpatientsuspected": "79",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Dagon Myothit (East)",
@@ -3394,6 +3676,7 @@
 			"detecteddistrict": "Yangon (East)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Dagon Myothit (East)",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3406,6 +3689,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013020",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3418,6 +3702,7 @@
 			"detecteddistrict": "Muse",
 			"detectedstate": "Shan",
 			"detectedsubstate": "Shan (North)",
+			"detectedtownship": "Muse",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "Muse General Hospital",
@@ -3430,6 +3715,7 @@
 			"source2": "",
 			"statecode": "MM-17",
 			"status": "inpatient",
+			"townshipcode": "MMR015009",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3442,6 +3728,7 @@
 			"detecteddistrict": "Mohnyin",
 			"detectedstate": "Kachin",
 			"detectedsubstate": "Kachin",
+			"detectedtownship": "Mohnyin",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Myitkyina Hospital",
@@ -3454,6 +3741,7 @@
 			"source2": "",
 			"statecode": "MM-11",
 			"status": "inpatient",
+			"townshipcode": "MMR001007",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3466,6 +3754,7 @@
 			"detecteddistrict": "Sagaing",
 			"detectedstate": "Sagaing",
 			"detectedsubstate": "Sagaing",
+			"detectedtownship": "Sagaing",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "Sagaing Hospital",
@@ -3478,6 +3767,7 @@
 			"source2": "",
 			"statecode": "MM-01",
 			"status": "inpatient",
+			"townshipcode": "MMR005001",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -3490,6 +3780,7 @@
 			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
+			"detectedtownship": "Kamaryut",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3502,6 +3793,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
+			"townshipcode": "MMR013041",
 			"typeoftransmission": "Local"
 		}
 	]
