@@ -1198,7 +1198,7 @@
 		},
 		{
 			"agebracket": "50",
-			"contractedfromwhichpatientsuspected": "24",
+			"contractedfromwhichpatientsuspected": "42",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "South Okkalapa",
@@ -1276,7 +1276,7 @@
 		},
 		{
 			"agebracket": "41",
-			"contractedfromwhichpatientsuspected": "24",
+			"contractedfromwhichpatientsuspected": "42",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "South Okkalapa",
@@ -2160,7 +2160,7 @@
 		},
 		{
 			"agebracket": "40",
-			"contractedfromwhichpatientsuspected": "24",
+			"contractedfromwhichpatientsuspected": "42",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "Insein",
@@ -2290,7 +2290,7 @@
 		},
 		{
 			"agebracket": "50",
-			"contractedfromwhichpatientsuspected": "24",
+			"contractedfromwhichpatientsuspected": "42",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "South Okkalapa",
@@ -2420,7 +2420,7 @@
 		},
 		{
 			"agebracket": "39",
-			"contractedfromwhichpatientsuspected": "24",
+			"contractedfromwhichpatientsuspected": "42",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "Insein",
@@ -3382,15 +3382,15 @@
 		},
 		{
 			"agebracket": "28",
-			"contractedfromwhichpatientsuspected": "08",
+			"contractedfromwhichpatientsuspected": "86",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "23/04/2020",
-			"detectedcity": "Insein",
-			"detectedcitymm": "အင်းစိန်",
-			"detecteddistrict": "Yangon (North)",
+			"detectedcity": "Mayangone",
+			"detectedcitymm": "မရမ်းကုန်း",
+			"detecteddistrict": "Yangon (West)",
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
-			"detectedtownship": "Insein",
+			"detectedtownship": "Mayangone",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "South Okalar Women and Children hospital",
@@ -3403,7 +3403,7 @@
 			"source2": "",
 			"statecode": "MM-06",
 			"status": "inpatient",
-			"townshipcode": "MMR013001",
+			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
