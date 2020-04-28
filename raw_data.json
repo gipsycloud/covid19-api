@@ -133,7 +133,7 @@
 		{
 			"agebracket": "29",
 			"contractedfromwhichpatientsuspected": "03",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "28/03/2020",
 			"detectedcity": "Insein",
 			"detectedcitymm": "အင်းစိန်",
@@ -152,7 +152,7 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-28-3-2020-00-15-am",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013001",
 			"typeoftransmission": "Imported"
 		},
@@ -471,7 +471,7 @@
 		{
 			"agebracket": "8",
 			"contractedfromwhichpatientsuspected": "15",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "Bago",
 			"detectedcitymm": "ပဲခူး",
@@ -490,14 +490,14 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-2-4-2020-8-00pm",
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR007001",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "18",
 			"contractedfromwhichpatientsuspected": "15",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "Bago",
 			"detectedcitymm": "ပဲခူး",
@@ -516,14 +516,14 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-2-4-2020-8-00pm",
 			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3313255082037107",
 			"statecode": "MM-02",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR007001",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Recovered",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "04/04/2020",
 			"detectedcity": "Botahtaung",
 			"detectedcitymm": "ဗိုလ်တထောင်",
@@ -542,7 +542,7 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3300916866604262?__xts__%5B0%5D=68.ARBfcmuOdbhKKsRlGDx7z1yaDut8nKgq-yAubDeybmwvEodIC92Y8NSab5YVcy4-BZaGMVT6Ff8KqiqKsvQDiy2yYQSH-JyXKBoMaTjXvddsW2CMtKqzeV4ADl2bYVp4kc4YLpADXci9mljyM7rZOPmAvgd85OOb_BOFZB-knu2gmXn0PRtqqjGV5TV4Y_WcYOUlMrbI78KkVaGpteoEW9vwh0zr9uplZzlf0LJMnk6nwj45HrLuiBw4vJIMPbYR2c2r2Oe542C1QMp_cfCjsJ6lW7Y2uUTDzuhpzWhEWq8lVjA8bh-wc507bEHgXJH-h2dECqF2-Ipz0_xyaPEs0xvpsw&__tn__=-R",
 			"source2": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3343173402378608",
 			"statecode": "MM-06",
-			"status": "recovered",
+			"status": "inpatient",
 			"townshipcode": "MMR013017",
 			"typeoftransmission": "Imported"
 		},
@@ -601,7 +601,7 @@
 		{
 			"agebracket": "32",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "Mayangone",
 			"detectedcitymm": "မရမ်းကုန်း",
@@ -620,14 +620,14 @@
 			"source1": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-10-4-2020-3-00pm",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013042",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "55",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "Bahan",
 			"detectedcitymm": "ဗဟန်း",
@@ -646,7 +646,7 @@
 			"source1": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-10-4-2020-3-00pm",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
@@ -731,7 +731,7 @@
 		{
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "11/04/2020",
 			"detectedcity": "Taunggyi",
 			"detectedcitymm": "တောင်ကြီး",
@@ -750,7 +750,7 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3318454918183790?__xts__[0]=68.ARCq2Ei85IwmET-M5lnic1Mfbvyt8gSBuCPHpNWO45eYEHy4nnrPbrrITJqvZRbeetW5JO99a550jWAqXCq4BU6XfHkjavtPPM26owopSt9rPKnL8FKRk93fFWM9JID0VaS-KbnC_gO3sHhG0Bcfs4thCAzj7Ds73CKMg9m9KjI8PBVgMxqQj4YhkG42ZCxmREa8XN2rnnDN3sudNTNEBIDDDIgz0KYMa3u8KN1s0rTpUNHSnb4tYDlep76379wkeF_Tsm1bCfnUwu1_p8qTeuxqufs_NuMLGWGX7As2BQKIbAbEQB_06EnDm8noXEhnqPlelT1Wb0mW8MlWZ73E-ZJOlA&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-17",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR014001",
 			"typeoftransmission": "Imported"
 		},

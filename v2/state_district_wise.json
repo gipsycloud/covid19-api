@@ -23,10 +23,10 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "active": 36,
+        "active": 35,
         "confirmed": 38,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -35,10 +35,10 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 30,
+        "active": 31,
         "confirmed": 34,
         "deceased": 2,
-        "recovered": 2,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -47,10 +47,10 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 36,
+        "active": 34,
         "confirmed": 41,
         "deceased": 2,
-        "recovered": 3,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -125,10 +125,10 @@
       },
       {
         "district": "Taunggyi",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -167,10 +167,10 @@
     "districtData": [
       {
         "district": "Bago",
-        "active": 4,
+        "active": 2,
         "confirmed": 5,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
