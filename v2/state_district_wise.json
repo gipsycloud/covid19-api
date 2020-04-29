@@ -47,13 +47,13 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 34,
+        "active": 33,
         "confirmed": 40,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 4,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },

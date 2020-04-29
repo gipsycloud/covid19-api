@@ -2837,7 +2837,7 @@
 		{
 			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "50",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Deceased",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "Botahtaung",
 			"detectedcitymm": "ဗိုလ်တထောင်",
@@ -2845,7 +2845,7 @@
 			"detectedstate": "Yangon",
 			"detectedsubstate": "Yangon",
 			"detectedtownship": "Botahtaung",
-			"dischargeddeceaseddate": "",
+			"dischargeddeceaseddate": "29/04/2020",
 			"gender": "M",
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
@@ -2856,7 +2856,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3340765529286062",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "deceased",
 			"townshipcode": "MMR013017",
 			"typeoftransmission": "Imported"
 		},
