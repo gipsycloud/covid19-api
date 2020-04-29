@@ -3,7 +3,7 @@
 		{
 			"agebracket": "36",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "22/03/2020",
 			"detectedcity": "Tedim",
 			"detectedcitymm": "တီးတိန်",
@@ -22,14 +22,14 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-22-3-2020-8-00-pm",
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-23-3-2020-11-45-pm",
 			"statecode": "MM-14",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR004004",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "26",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/03/2020",
 			"detectedcity": "Hmawbi",
 			"detectedcitymm": "မှော်ဘီ",
@@ -48,7 +48,7 @@
 			"source1": "",
 			"source2": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-23-3-2020-11-45-pm",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013003",
 			"typeoftransmission": "Imported"
 		},
@@ -185,7 +185,7 @@
 		{
 			"agebracket": "60",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "28/03/2020",
 			"detectedcity": "Bahan",
 			"detectedcitymm": "ဗဟန်း",
@@ -204,7 +204,7 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-28-3-2020-00-15-am",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
@@ -809,7 +809,7 @@
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "Hlegu",
 			"detectedcitymm": "လှည်းကူး",
@@ -828,14 +828,14 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013004",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "29",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "Shwepyithar",
 			"detectedcitymm": "ရွှေပြည်သာ",
@@ -854,7 +854,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013007",
 			"typeoftransmission": "Local"
 		},
@@ -965,7 +965,7 @@
 		{
 			"agebracket": "78",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "Insein",
 			"detectedcitymm": "အင်းစိန်",
@@ -984,7 +984,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
@@ -1043,7 +1043,7 @@
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "Bahan",
 			"detectedcitymm": "ဗဟန်း",
@@ -1062,7 +1062,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3321760637853218?__xts__%5B0%5D=68.ARBIRdpOuDR3xsXGFy3SC-xBKOdgr5IC7DAqni7Dk3d9Mgnv4542Kk2xW9UM5EgdAFNksxXFCWFw7BZtL6VG4wVzrewQ6FFlQ65gVauVzJ574XklG5-W_XLetjY_pAcJFHfZetp3N3U9ON0CHRE4aVMoANLBBxsinpNVXOROY9ZxNQNDmvOoggACcp5HGaL1LQgBQuHJqEcbEvai-_f6V53ZlWy28T0b4Io12avsd-2-3zg1x3qhbxuHG8733wY8Yfmm1Gpigejoqfck2-oS9E7w77EQx5U4dpXmCa3yCUYNepE5-nRzMc_lFkyxppwUirLCjzWNVxL3nludDBf0tk2GUg&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
@@ -1199,7 +1199,7 @@
 		{
 			"agebracket": "50",
 			"contractedfromwhichpatientsuspected": "42",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "South Okkalapa",
 			"detectedcitymm": "တောင်ဥက္ကလာပ",
@@ -1218,7 +1218,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
@@ -1277,7 +1277,7 @@
 		{
 			"agebracket": "41",
 			"contractedfromwhichpatientsuspected": "42",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "South Okkalapa",
 			"detectedcitymm": "တောင်ဥက္ကလာပ",
@@ -1296,7 +1296,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013011",
 			"typeoftransmission": "Local"
 		},
@@ -1381,7 +1381,7 @@
 		{
 			"agebracket": "7",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "Insein",
 			"detectedcitymm": "အင်းစိန်",
@@ -1400,7 +1400,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
@@ -1485,7 +1485,7 @@
 		{
 			"agebracket": "46",
 			"contractedfromwhichpatientsuspected": "34,35,36,37,41",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "Insein",
 			"detectedcitymm": "အင်းစိန်",
@@ -1504,7 +1504,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
