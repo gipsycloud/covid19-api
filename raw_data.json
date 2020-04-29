@@ -2234,7 +2234,7 @@
 			"statecode": "MM-06",
 			"status": "deceased",
 			"townshipcode": "MMR013042",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "62",
