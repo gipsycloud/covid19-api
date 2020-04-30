@@ -3694,7 +3694,7 @@
 		},
 		{
 			"agebracket": "87",
-			"contractedfromwhichpatientsuspected": "",
+			"contractedfromwhichpatientsuspected": "24,62",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Muse",
