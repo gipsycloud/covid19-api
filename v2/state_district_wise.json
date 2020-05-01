@@ -42,19 +42,19 @@
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       {
         "district": "Yangon (East)",
-        "active": 30,
+        "active": 29,
         "confirmed": 40,
         "deceased": 3,
-        "recovered": 7,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -66,7 +66,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       }
     ]
@@ -125,10 +125,10 @@
     "districtData": [
       {
         "district": "Kyaukme",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -179,10 +179,10 @@
     "districtData": [
       {
         "district": "Pyay",
-        "active": 4,
+        "active": 3,
         "confirmed": 7,
         "deceased": 1,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
