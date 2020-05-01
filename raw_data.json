@@ -11,7 +11,7 @@
 			"detectedstate": "Chin",
 			"detectedsubstate": "Chin",
 			"detectedtownship": "Tedim",
-			"dischargeddeceaseddate": "",
+			"dischargeddeceaseddate": "30/04/2020",
 			"gender": "M",
 			"hospitalname": "Tedim Hospital",
 			"labresult": "positive",
@@ -549,7 +549,7 @@
 		{
 			"agebracket": "51",
 			"contractedfromwhichpatientsuspected": "21",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "06/04/2020",
 			"detectedcity": "Botahtaung",
 			"detectedcitymm": "ဗိုလ်တထောင်",
@@ -568,7 +568,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3305819739447308?__xts__%5B0%5D=68.ARCvA6cnRk3dbzSzF14XeEjDiJqVu1fnYRxgXFbNNrQs1Bx3nCCNVpFZ53dZpeoNyeGUD2chnvk_n2eXooHqnCB-eXbZQWpnpoC7WtyjDy6_2r7lGY3Tlq0kSfr5ka0lC9UKQDH6WBoH9GH9DCzr5dEwWLXVHRHH5onUWQe5Y8Dvzs_u5EDB0J2S_7M2czdEgwsRPHB_cFUyT4CavJVoZHms2e4Osc6cM7tH4ElJHaJ37xe2XBEeCwYWYu56vF71S1aPx3252IgWHUaV7A7pbaoVG4L21qmIrXgUbiK2klv7hOD1EeWunPYVLc7vQF97dPSkrzqyfupTHQJ_sLaBX_p-8A&__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013017",
 			"typeoftransmission": "Imported"
 		},
@@ -3899,6 +3899,32 @@
 			"status": "inpatient",
 			"townshipcode": "MMR004002",
 			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "25",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "01/05/2020",
+			"detectedcity": "Insein",
+			"detectedcitymm": "အင်းစိန်",
+			"detecteddistrict": "Yangon (North)",
+			"detectedstate": "Yangon",
+			"detectedsubstate": "Yangon",
+			"detectedtownship": "Insein",
+			"dischargeddeceaseddate": "",
+			"gender": "F",
+			"hospitalname": "South Okalar Women and Children hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "151",
+			"region": "MM-06",
+			"source1": "",
+			"source2": "",
+			"statecode": "MM-06",
+			"status": "inpatient",
+			"townshipcode": "MMR013001",
+			"typeoftransmission": "Local"
 		}
 	]
 }
