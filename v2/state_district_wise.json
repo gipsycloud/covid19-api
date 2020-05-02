@@ -35,10 +35,10 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "active": 27,
+        "active": 26,
         "confirmed": 36,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -47,10 +47,10 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 29,
+        "active": 27,
         "confirmed": 40,
         "deceased": 3,
-        "recovered": 8,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -59,10 +59,10 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 34,
+        "active": 32,
         "confirmed": 41,
         "deceased": 2,
-        "recovered": 5,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -215,10 +215,10 @@
     "districtData": [
       {
         "district": "Magway",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
