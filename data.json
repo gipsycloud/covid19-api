@@ -401,36 +401,36 @@
 			"totalrecovered": "17"
 		},
 		{
-			"active": "118",
+			"active": "128",
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
-			"dailyrecovered": "10",
+			"dailyrecovered": "0",
 			"date": "01/05/2020",
 			"totalconfirmed": "151",
 			"totaldeceased": "6",
-			"totalrecovered": "27"
+			"totalrecovered": "17"
 		},
 		{
-			"active": "118",
+			"active": "128",
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "02/05/2020",
 			"totalconfirmed": "151",
 			"totaldeceased": "6",
-			"totalrecovered": "27"
+			"totalrecovered": "17"
 		}
 	],
 	"statewise": [
 		{
-			"active": "114",
+			"active": "117",
 			"confirmed": "151",
 			"deaths": "6",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "01/05/2020 20:17:42",
-			"recovered": "31",
+			"recovered": "28",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -447,14 +447,14 @@
 			"statecode": "MM-07"
 		},
 		{
-			"active": "3",
+			"active": "4",
 			"confirmed": "7",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "01/05/2020 20:17:42",
-			"recovered": "3",
+			"recovered": "2",
 			"state": "Bago",
 			"statecode": "MM-02"
 		},
@@ -555,14 +555,14 @@
 			"statecode": "MM-16"
 		},
 		{
-			"active": "5",
+			"active": "6",
 			"confirmed": "7",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "01/05/2020 20:17:42",
-			"recovered": "2",
+			"recovered": "1",
 			"state": "Shan",
 			"statecode": "MM-17"
 		},
@@ -591,14 +591,14 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": "90",
+			"active": "91",
 			"confirmed": "117",
 			"deaths": "5",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "01/05/2020 20:17:42",
-			"recovered": "22",
+			"recovered": "21",
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},
