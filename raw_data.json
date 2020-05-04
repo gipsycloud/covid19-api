@@ -315,7 +315,7 @@
 		{
 			"agebracket": "61",
 			"contractedfromwhichpatientsuspected": "08",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "30/03/2020",
 			"detectedcity": "Tamwe",
 			"detectedcitymm": "တာမွေ",
@@ -334,7 +334,7 @@
 			"source1": "http://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-30-3-2020-7-30-pm",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013015",
 			"typeoftransmission": "Imported"
 		},
