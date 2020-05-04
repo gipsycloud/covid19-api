@@ -439,6 +439,16 @@
 			"totalconfirmed": "161",
 			"totaldeceased": "6",
 			"totalrecovered": "28"
+		},
+		{
+			"active": "127",
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "05/05/2020",
+			"totalconfirmed": "161",
+			"totaldeceased": "6",
+			"totalrecovered": "28"
 		}
 	],
 	"statewise": [
@@ -446,7 +456,7 @@
 			"active": "106",
 			"confirmed": "161",
 			"deaths": "6",
-			"deltaconfirmed": "6",
+			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "04/05/2020 20:45:05",
@@ -614,7 +624,7 @@
 			"active": "82",
 			"confirmed": "126",
 			"deaths": "5",
-			"deltaconfirmed": "5",
+			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "04/05/2020 20:45:05",
@@ -626,7 +636,7 @@
 			"active": "1",
 			"confirmed": "2",
 			"deaths": "0",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "04/05/2020 20:45:05",
