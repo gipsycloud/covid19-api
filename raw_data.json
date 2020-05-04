@@ -939,7 +939,7 @@
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "36",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "Insein",
 			"detectedcitymm": "အင်းစိန်",
@@ -958,7 +958,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3319238001438815?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
@@ -1953,7 +1953,7 @@
 		{
 			"agebracket": "20",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "Ahlone",
 			"detectedcitymm": "အလုံ",
@@ -1972,7 +1972,7 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070990255516/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013037",
 			"typeoftransmission": "Local"
 		},
@@ -2057,7 +2057,7 @@
 		{
 			"agebracket": "28",
 			"contractedfromwhichpatientsuspected": "73",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "Hlaingtharya",
 			"detectedcitymm": "လှိုင်သာယာ",
@@ -2076,7 +2076,7 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
@@ -2421,7 +2421,7 @@
 		{
 			"agebracket": "39",
 			"contractedfromwhichpatientsuspected": "42",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "Insein",
 			"detectedcitymm": "အင်းစိန်",
@@ -2440,7 +2440,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3336563169706298?__tn__=-R",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
@@ -2863,7 +2863,7 @@
 		{
 			"agebracket": "54",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "Hlaingtharya",
 			"detectedcitymm": "လှိုင်သာယာ",
@@ -2882,7 +2882,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3340765529286062",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
