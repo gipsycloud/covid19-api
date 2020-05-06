@@ -87,6 +87,23 @@ async function taskDataFile() {
 
   let statewise = [];
   const stringdatetoday = moment().utcOffset('+0630').format('DD/MM/YYYY');
+  const states = {
+    'MM-07': 'Ayeyarwady',
+    'MM-02': 'Bago',
+    'MM-14': 'Chin',
+    'MM-11': 'Kachin',
+    'MM-12': 'Kayah',
+    'MM-13': 'Kayin',
+    'MM-03': 'Magway',
+    'MM-04': 'Mandalay',
+    'MM-15': 'Mon',
+    'MM-16': 'Rakhine',
+    'MM-17': 'Shan',
+    'MM-01': 'Sagaing',
+    'MM-05': 'Tanintharyi',
+    'MM-06': 'Yangon',
+    'MM-18': 'Nay Pyi Taw'
+  };
   statecodes.forEach((statecode) => {
     const confirmed = raw_data.filter((value) => value.statecode === statecode).length;
     const deaths = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased').length;
@@ -98,6 +115,7 @@ async function taskDataFile() {
     const deltaRecovered = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Recovered' && value.dateannounced === stringdatetoday).length;
 
     statewise.push({
+      state: states[statecode],
       statecode: statecode,
       confirmed: confirmed,
       deaths: deaths,
@@ -111,6 +129,7 @@ async function taskDataFile() {
 
   statewise.push(statewise.reduce((prev, current) => {
     prev.statecode = 'TT';
+    prev.state = 'Total';
     prev.confirmed = (prev.confirmed || 0) + current.confirmed
     prev.deaths = (prev.deaths || 0) + current.deaths
     prev.recovered = (prev.recovered || 0) + current.recovered
