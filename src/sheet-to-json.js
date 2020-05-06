@@ -1,24 +1,30 @@
 const moment = require("moment");
 const rawData = require('../tmp/raw_data');
 const { writeData } = require("../lib");
-const { SHEET, FILE_DATE_WISE_DELTA } = require("../lib/constants");
+const { FILE_DATA, FILE_DATE_WISE_DELTA } = require("../lib/constants");
 
 String.prototype.toProperCase = function () {
   return this.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
 };
 
-async function task() {
-  console.log(`Fetching data from sheets: ${SHEET}...`);
+const statecodes = ['MM-01','MM-02','MM-03','MM-04','MM-05','MM-06','MM-07','MM-11','MM-12','MM-13','MM-14','MM-15','MM-16','MM-17','MM-18'];
+const beginning = moment("2020-03-22T00:00:00+0630");
+
+function forEachDate(callback) {
+  const todayDate = moment();
+  for (i = 0; i <= todayDate.diff(beginning, 'days'); i++) {
+    const currentDate = moment(beginning).add(i, 'day').utcOffset("+0630");
+    const stringDate = currentDate.format("DD/MM/YYYY");
+    callback(stringDate, currentDate);
+  }
+}
+
+async function taskDateWiseDeltaFile() {
+  console.log(`Generating date wise delta data`);
   let {raw_data} = rawData;
 
-  const beginning = moment("2020-03-22T00:00:00+0630");
-  const todayDate = moment();
-
-  const statecodes = ['MM-01','MM-02','MM-03','MM-04','MM-05','MM-06','MM-07','MM-11','MM-12','MM-13','MM-14','MM-15','MM-16','MM-17','MM-18'];
-
   let allEntries = [];
-  for (i = 0; i <= todayDate.diff(beginning, 'days'); i++) {
-    const currentDate = moment(beginning).add(i, 'day').utcOffset("+0630").format("DD/MM/YYYY");
+  forEachDate((currentDate) => {
     ['inpatient', 'recovered', 'deceased'].forEach((status) => {
       const countByStates = statecodes.reduce((value, statecode) => {
         let count = 0;
@@ -41,15 +47,91 @@ async function task() {
       entry = {...entry, ...countByStates};
       allEntries.push(entry);
     })
-  }
+  })
 
   writeData({file: FILE_DATE_WISE_DELTA, data: {states_daily: allEntries}});
   
   console.log("Operation completed!");
 }
 
+async function taskDataFile() {
+  console.log(`Generating timeseries data`);
+
+  let {raw_data} = rawData;
+  
+  let timeseries = [];
+
+  forEachDate((stringdate, momentdate) => {
+    const dailyConfirmed = raw_data.filter((value) => value.dateannounced === stringdate).length;
+    const totalConfirmed = raw_data.filter((value) => moment(value.dateannounced, 'DD/MM/YYYY').isSameOrBefore(momentdate)).length;
+
+    const dailyRecovered = raw_data.filter((value) => value.dischargeddeceaseddate === stringdate && value.currentstatus === 'Recovered').length;
+    const totalRecovered = raw_data.filter((value) => moment(value.dischargeddeceaseddate, 'DD/MM/YYYY').isSameOrBefore(momentdate) && value.currentstatus === 'Recovered').length;
+
+    const dailyDeceased = raw_data.filter((value) => value.dischargeddeceaseddate === stringdate && value.currentstatus === 'Deceased').length;
+    const totalDeceased = raw_data.filter((value) => moment(value.dischargeddeceaseddate, 'DD/MM/YYYY').isSameOrBefore(momentdate) && value.currentstatus === 'Deceased').length;
+
+    const active = totalConfirmed - totalRecovered - totalDeceased;
+
+    timeseries.push({
+      date: stringdate,
+      dailyconfirmed: dailyConfirmed,
+      totalconfirmed: totalConfirmed,
+      dailyrecovered: dailyRecovered,
+      totalrecovered: totalRecovered,
+      dailydeceased: dailyDeceased,
+      totaldeceased: totalDeceased,
+      active: active
+    });
+  });
+
+  let statewise = [];
+  const stringdatetoday = moment().utcOffset('+0630').format('DD/MM/YYYY');
+  statecodes.forEach((statecode) => {
+    const confirmed = raw_data.filter((value) => value.statecode === statecode).length;
+    const deaths = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased').length;
+    const recovered = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Recovered').length;
+    const active = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Hospitalized').length;
+
+    const deltaConfirmed = raw_data.filter((value) => value.statecode === statecode && value.dateannounced === stringdatetoday).length;
+    const deltaDeaths = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased' && value.dateannounced === stringdatetoday).length;
+    const deltaRecovered = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Recovered' && value.dateannounced === stringdatetoday).length;
+
+    statewise.push({
+      statecode: statecode,
+      confirmed: confirmed,
+      deaths: deaths,
+      recovered: recovered,
+      active: active,
+      deltaconfirmed: deltaConfirmed,
+      deltadeaths: deltaDeaths,
+      deltarecovered: deltaRecovered
+    });
+  });
+
+  statewise.push(statewise.reduce((prev, current) => {
+    prev.statecode = 'TT';
+    prev.confirmed = (prev.confirmed || 0) + current.confirmed
+    prev.deaths = (prev.deaths || 0) + current.deaths
+    prev.recovered = (prev.recovered || 0) + current.recovered
+    prev.active = (prev.active || 0) + current.active
+    prev.deltaconfirmed = (prev.deltaconfirmed || 0) + current.deltaconfirmed
+    prev.deltadeaths = (prev.deltadeaths || 0) + current.deltadeaths
+    prev.deltarecovered = (prev.deltarecovered || 0) + current.deltarecovered
+    return prev
+  }, {}));
+
+  writeData({file: FILE_DATA, data: {
+    cases_time_series: timeseries,
+    statewise: statewise,
+  }});
+
+  console.log("Operation completed!");
+}
+
 (async function main() {
   console.log("Running task on start...");
-  await task();
+  await taskDateWiseDeltaFile();
+  await taskDataFile();
   console.log("Created Json File With Updated Contents");
 })();

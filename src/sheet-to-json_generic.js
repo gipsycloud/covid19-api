@@ -1,18 +1,9 @@
-const { task, fetchData, writeData } = require("../lib");
+const { task } = require("../lib");
 const c = require("../lib/constants");
 
 
 (async function main() {
   console.log("Running task on start...");
-  
-  await task({
-    sheet: c.SHEET,
-    tabs: {
-      cases_time_series: c.SHEET_CASES_TIMESERIES,
-      statewise: c.SHEET_STATE_WISE,
-    },
-    file: c.FILE_DATA
-  });
 
   await task({
     sheet: c.SHEET,
@@ -21,7 +12,6 @@ const c = require("../lib/constants");
     },
     file: c.FILE_RAW_DATA
   });
-  
 
   console.log("End of sheet-to-json_generic");
 })();
