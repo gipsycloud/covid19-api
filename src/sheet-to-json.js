@@ -106,12 +106,12 @@ async function taskDataFile() {
   };
   statecodes.forEach((statecode) => {
     const confirmed = raw_data.filter((value) => value.statecode === statecode).length;
-    const deaths = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased').length;
+    const deaths    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased').length;
     const recovered = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Recovered').length;
-    const active = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Hospitalized').length;
+    const active    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Hospitalized').length;
 
     const deltaConfirmed = raw_data.filter((value) => value.statecode === statecode && value.dateannounced === stringdatetoday).length;
-    const deltaDeaths = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased' && value.dateannounced === stringdatetoday).length;
+    const deltaDeaths    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased' && value.dateannounced === stringdatetoday).length;
     const deltaRecovered = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Recovered' && value.dateannounced === stringdatetoday).length;
 
     statewise.push({
@@ -127,7 +127,7 @@ async function taskDataFile() {
     });
   });
 
-  statewise.push(statewise.reduce((prev, current) => {
+  statewise.unshift(statewise.reduce((prev, current) => {
     prev.statecode = 'TT';
     prev.state = 'Total';
     prev.confirmed = (prev.confirmed || 0) + current.confirmed
