@@ -463,40 +463,40 @@
 	],
 	"statewise": [
 		{
-			"active": 1,
-			"confirmed": 2,
-			"deaths": 0,
+			"active": 106,
+			"confirmed": 161,
+			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
-			"recovered": 1,
-			"state": "Nay Pyi Taw",
-			"statecode": "MM-18"
+			"recovered": 49,
+			"state": "Total",
+			"statecode": "TT"
 		},
 		{
-			"active": 5,
+			"active": 7,
 			"confirmed": 7,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
-			"recovered": 2,
-			"state": "Shan",
-			"statecode": "MM-17"
+			"recovered": 0,
+			"state": "Sagaing",
+			"statecode": "MM-01"
 		},
 		{
-			"active": 0,
-			"confirmed": 0,
-			"deaths": 0,
+			"active": 3,
+			"confirmed": 7,
+			"deaths": 1,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
-			"recovered": 0,
-			"state": "Rakhine",
-			"statecode": "MM-16"
+			"recovered": 3,
+			"state": "Bago",
+			"statecode": "MM-02"
 		},
 		{
 			"active": 0,
@@ -507,20 +507,20 @@
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
 			"recovered": 1,
-			"state": "Mon",
-			"statecode": "MM-15"
+			"state": "Magway",
+			"statecode": "MM-03"
 		},
 		{
-			"active": 5,
-			"confirmed": 6,
+			"active": 2,
+			"confirmed": 3,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
 			"recovered": 1,
-			"state": "Chin",
-			"statecode": "MM-14"
+			"state": "Mandalay",
+			"statecode": "MM-04"
 		},
 		{
 			"active": 0,
@@ -531,44 +531,8 @@
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
 			"recovered": 0,
-			"state": "Kayin",
-			"statecode": "MM-13"
-		},
-		{
-			"active": 0,
-			"confirmed": 0,
-			"deaths": 0,
-			"deltaconfirmed": 0,
-			"deltadeaths": 0,
-			"deltarecovered": 0,
-			"lastupdatedtime": "06/05/2020 10:52:15",
-			"recovered": 0,
-			"state": "Kayah",
-			"statecode": "MM-12"
-		},
-		{
-			"active": 1,
-			"confirmed": 1,
-			"deaths": 0,
-			"deltaconfirmed": 0,
-			"deltadeaths": 0,
-			"deltarecovered": 0,
-			"lastupdatedtime": "06/05/2020 10:52:15",
-			"recovered": 0,
-			"state": "Kachin",
-			"statecode": "MM-11"
-		},
-		{
-			"active": 0,
-			"confirmed": 0,
-			"deaths": 0,
-			"deltaconfirmed": 0,
-			"deltadeaths": 0,
-			"deltarecovered": 0,
-			"lastupdatedtime": "06/05/2020 10:52:15",
-			"recovered": 0,
-			"state": "Ayeyarwady",
-			"statecode": "MM-07"
+			"state": "Tanintharyi",
+			"statecode": "MM-05"
 		},
 		{
 			"active": 82,
@@ -591,20 +555,56 @@
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
 			"recovered": 0,
-			"state": "Tanintharyi",
-			"statecode": "MM-05"
+			"state": "Ayeyarwady",
+			"statecode": "MM-07"
 		},
 		{
-			"active": 2,
-			"confirmed": 3,
+			"active": 1,
+			"confirmed": 1,
+			"deaths": 0,
+			"deltaconfirmed": 0,
+			"deltadeaths": 0,
+			"deltarecovered": 0,
+			"lastupdatedtime": "06/05/2020 10:52:15",
+			"recovered": 0,
+			"state": "Kachin",
+			"statecode": "MM-11"
+		},
+		{
+			"active": 0,
+			"confirmed": 0,
+			"deaths": 0,
+			"deltaconfirmed": 0,
+			"deltadeaths": 0,
+			"deltarecovered": 0,
+			"lastupdatedtime": "06/05/2020 10:52:15",
+			"recovered": 0,
+			"state": "Kayah",
+			"statecode": "MM-12"
+		},
+		{
+			"active": 0,
+			"confirmed": 0,
+			"deaths": 0,
+			"deltaconfirmed": 0,
+			"deltadeaths": 0,
+			"deltarecovered": 0,
+			"lastupdatedtime": "06/05/2020 10:52:15",
+			"recovered": 0,
+			"state": "Kayin",
+			"statecode": "MM-13"
+		},
+		{
+			"active": 5,
+			"confirmed": 6,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
 			"recovered": 1,
-			"state": "Mandalay",
-			"statecode": "MM-04"
+			"state": "Chin",
+			"statecode": "MM-14"
 		},
 		{
 			"active": 0,
@@ -615,44 +615,44 @@
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
 			"recovered": 1,
-			"state": "Magway",
-			"statecode": "MM-03"
+			"state": "Mon",
+			"statecode": "MM-15"
 		},
 		{
-			"active": 3,
-			"confirmed": 7,
-			"deaths": 1,
-			"deltaconfirmed": 0,
-			"deltadeaths": 0,
-			"deltarecovered": 0,
-			"lastupdatedtime": "06/05/2020 10:52:15",
-			"recovered": 3,
-			"state": "Bago",
-			"statecode": "MM-02"
-		},
-		{
-			"active": 7,
-			"confirmed": 7,
+			"active": 0,
+			"confirmed": 0,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
 			"recovered": 0,
-			"state": "Sagaing",
-			"statecode": "MM-01"
+			"state": "Rakhine",
+			"statecode": "MM-16"
 		},
 		{
-			"active": 106,
-			"confirmed": 161,
-			"deaths": 6,
+			"active": 5,
+			"confirmed": 7,
+			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "06/05/2020 10:52:15",
-			"recovered": 49,
-			"state": "Total",
-			"statecode": "TT"
+			"recovered": 2,
+			"state": "Shan",
+			"statecode": "MM-17"
+		},
+		{
+			"active": 1,
+			"confirmed": 2,
+			"deaths": 0,
+			"deltaconfirmed": 0,
+			"deltadeaths": 0,
+			"deltarecovered": 0,
+			"lastupdatedtime": "06/05/2020 10:52:15",
+			"recovered": 1,
+			"state": "Nay Pyi Taw",
+			"statecode": "MM-18"
 		}
 	]
 }
