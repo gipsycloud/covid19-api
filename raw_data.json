@@ -2473,7 +2473,7 @@
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "47",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "18/04/2020",
 			"detectedcity": "Tachileik",
 			"detectedcitymm": "တာချီလိတ်",
@@ -2492,7 +2492,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3337820122913936?",
 			"source2": "",
 			"statecode": "MM-17",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR016009",
 			"typeoftransmission": "Local"
 		},
