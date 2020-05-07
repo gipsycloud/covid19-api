@@ -47,10 +47,10 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 26,
+        "active": 25,
         "confirmed": 43,
         "deceased": 3,
-        "recovered": 14,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -89,10 +89,10 @@
       },
       {
         "district": "Pyinoolwin",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

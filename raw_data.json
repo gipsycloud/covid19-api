@@ -3097,7 +3097,7 @@
 		{
 			"agebracket": "21",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/04/2020",
 			"detectedcity": "Dagon Myothit (East)",
 			"detectedcitymm": "ဒဂုံမြို့သစ်အရှေ့ပိုင်း",
@@ -3116,7 +3116,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3345692402126708?",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013020",
 			"typeoftransmission": "Local"
 		},
@@ -3409,7 +3409,7 @@
 		{
 			"agebracket": "80",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Madaya",
 			"detectedcitymm": "မတ္တရာ",
@@ -3428,7 +3428,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3350821468280468?",
 			"source2": "",
 			"statecode": "MM-04",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR010009",
 			"typeoftransmission": "Local"
 		},
