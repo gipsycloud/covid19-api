@@ -653,7 +653,7 @@
 		{
 			"agebracket": "56",
 			"contractedfromwhichpatientsuspected": "63",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "10/04/2020",
 			"detectedcity": "Hlaingtharya",
 			"detectedcitymm": "လှိုင်သာယာ",
@@ -672,7 +672,7 @@
 			"source1": "https://mohs.gov.mm/Main/content/new/covid-19-%E1%80%9B-%E1%80%82-%E1%80%85-%E1%80%84-%E1%80%80-%E1%80%95-%E1%80%80-%E1%80%8A-%E1%80%9B-%E1%80%99-%E1%80%94-%E1%80%84-%E1%80%95%E1%80%90-%E1%80%9E%E1%80%80-%E1%80%9E%E1%80%90%E1%80%84-%E1%80%91-%E1%80%90-%E1%80%95-%E1%80%94-%E1%80%81-%E1%80%84-10-4-2020-3-00pm",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
@@ -1173,7 +1173,7 @@
 		{
 			"agebracket": "44",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "Bahan",
 			"detectedcitymm": "ဗဟန်း",
@@ -1192,7 +1192,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
@@ -1589,7 +1589,7 @@
 		{
 			"agebracket": "30",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "Mayangone",
 			"detectedcitymm": "မရမ်းကုန်း",
@@ -1608,14 +1608,14 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "65",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "Hlaingtharya",
 			"detectedcitymm": "လှိုင်သာယာ",
@@ -1634,7 +1634,7 @@
 			"source1": "https://web.facebook.com/photo.php?fbid=10218694296561856&set=a.10218416174768985&type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
@@ -1693,7 +1693,7 @@
 		{
 			"agebracket": "75",
 			"contractedfromwhichpatientsuspected": "39",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "Pabedan",
 			"detectedcitymm": "ပန်းဘဲတန်း",
@@ -1712,7 +1712,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333657195916/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013034",
 			"typeoftransmission": "Local"
 		},
@@ -1771,7 +1771,7 @@
 		{
 			"agebracket": "34",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "Mayangone",
 			"detectedcitymm": "မရမ်းကုန်း",
@@ -1790,7 +1790,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
@@ -1849,7 +1849,7 @@
 		{
 			"agebracket": "27",
 			"contractedfromwhichpatientsuspected": "73",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "Insein",
 			"detectedcitymm": "အင်းစိန်",
@@ -1868,7 +1868,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
@@ -2031,7 +2031,7 @@
 		{
 			"agebracket": "43",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "Bahan",
 			"detectedcitymm": "ဗဟန်း",
@@ -2050,7 +2050,7 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013044",
 			"typeoftransmission": "Local"
 		},
@@ -2161,7 +2161,7 @@
 		{
 			"agebracket": "40",
 			"contractedfromwhichpatientsuspected": "24,42,44,45,46,47,48,49,50,51,52,63",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "Insein",
 			"detectedcitymm": "အင်းစိန်",
@@ -2180,7 +2180,7 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013001",
 			"typeoftransmission": "Local"
 		},
@@ -3045,7 +3045,7 @@
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "17",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "20/04/2020",
 			"detectedcity": "Pyay",
 			"detectedcitymm": "ပြည်",
@@ -3064,7 +3064,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3343579815671300",
 			"source2": "",
 			"statecode": "MM-02",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR008001",
 			"typeoftransmission": "Local"
 		},
@@ -3942,7 +3942,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "ကွယ်ကဘော ဆေးရုံမှသူနာပြုများ",
 			"patientnumber": "152",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3376902335672382",
@@ -3968,7 +3968,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "ကွယ်ကဘော ဆေးရုံမှသူနာပြုများ",
 			"patientnumber": "153",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3376902335672383",
@@ -3994,7 +3994,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "ကွယ်ကဘော ဆေးရုံမှသူနာပြုများ",
 			"patientnumber": "154",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3376902335672384",
