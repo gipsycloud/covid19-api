@@ -65,8 +65,8 @@ async function taskDataFile() {
     const dailyConfirmed = raw_data.filter((value) => value.dateannounced === stringdate).length;
     const totalConfirmed = raw_data.filter((value) => moment(value.dateannounced, 'DD/MM/YYYY').isSameOrBefore(momentdate)).length;
 
-    const dailyRecovered = raw_data.filter((value) => value.dischargeddeceaseddate === stringdate && value.currentstatus === 'Recovered').length;
-    const totalRecovered = raw_data.filter((value) => moment(value.dischargeddeceaseddate, 'DD/MM/YYYY').isSameOrBefore(momentdate) && value.currentstatus === 'Recovered').length;
+    const dailyRecovered = raw_data.filter((value) => value.recovereddate === stringdate && value.currentstatus === 'Recovered').length;
+    const totalRecovered = raw_data.filter((value) => moment(value.recovereddate, 'DD/MM/YYYY').isSameOrBefore(momentdate) && value.currentstatus === 'Recovered').length;
 
     const dailyDeceased = raw_data.filter((value) => value.dischargeddeceaseddate === stringdate && value.currentstatus === 'Deceased').length;
     const totalDeceased = raw_data.filter((value) => moment(value.dischargeddeceaseddate, 'DD/MM/YYYY').isSameOrBefore(momentdate) && value.currentstatus === 'Deceased').length;

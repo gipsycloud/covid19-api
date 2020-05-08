@@ -37,7 +37,7 @@ function getChangeSet() {
         const fullContent = raw_data[index];
         const location = makeLocationString(fullContent);
 
-        if ('currentstatus' in updatedContent && 'dischargeddeceaseddate' in updatedContent) {
+        if ('currentstatus' in updatedContent && ('dischargeddeceaseddate' in updatedContent || 'recovereddate' in updatedContent)) {
             switch (updatedContent.currentstatus) {
                 case 'Recovered':
                     prev[location] = prev[location] || {};
