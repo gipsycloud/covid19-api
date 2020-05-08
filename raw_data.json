@@ -1147,7 +1147,7 @@
 		{
 			"agebracket": "54",
 			"contractedfromwhichpatientsuspected": "24",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/04/2020",
 			"detectedcity": "Mayangone",
 			"detectedcitymm": "မရမ်းကုန်း",
@@ -1166,7 +1166,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3326142120748403?_rdc=1&_rdr",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
@@ -1901,7 +1901,7 @@
 		{
 			"agebracket": "63",
 			"contractedfromwhichpatientsuspected": "01,23",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "15/04/2020",
 			"detectedcity": "Kale",
 			"detectedcitymm": "ကလေး",
@@ -1920,7 +1920,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3328333800529235/3328333670529248/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-01",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR005027",
 			"typeoftransmission": "Local"
 		},
@@ -2083,7 +2083,7 @@
 		{
 			"agebracket": "28",
 			"contractedfromwhichpatientsuspected": "73",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/04/2020",
 			"detectedcity": "Hlaingtharya",
 			"detectedcitymm": "လှိုင်သာယာ",
@@ -2102,7 +2102,7 @@
 			"source1": "https://web.facebook.com/MinistryOfHealthAndSportsMyanmar/photos/pcb.3331072506922031/3331070993588849/?type=3&theater",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013008",
 			"typeoftransmission": "Local"
 		},
@@ -2785,7 +2785,7 @@
 		{
 			"agebracket": "85",
 			"contractedfromwhichpatientsuspected": "86,105",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "19/04/2020",
 			"detectedcity": "Mayangone",
 			"detectedcitymm": "မရမ်းကုန်း",
@@ -2804,7 +2804,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3340323892663559",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
@@ -3253,7 +3253,7 @@
 		{
 			"agebracket": "47",
 			"contractedfromwhichpatientsuspected": "87",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Tamwe",
 			"detectedcitymm": "တာမွေ",
@@ -3272,7 +3272,7 @@
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3348897585139523?",
 			"source2": "",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013015",
 			"typeoftransmission": "Local"
 		},
