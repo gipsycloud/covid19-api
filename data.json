@@ -489,6 +489,16 @@
 			"totalconfirmed": 177,
 			"totaldeceased": 6,
 			"totalrecovered": 64
+		},
+		{
+			"active": 107,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "10/05/2020",
+			"totalconfirmed": 178,
+			"totaldeceased": 6,
+			"totalrecovered": 65
 		}
 	],
 	"statewise": [
@@ -496,9 +506,9 @@
 			"active": 104,
 			"confirmed": 178,
 			"deaths": 6,
-			"deltaconfirmed": 1,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "09/05/2020 21:52:43",
 			"recovered": 68,
 			"state": "Total",
@@ -568,7 +578,7 @@
 			"active": 85,
 			"confirmed": 143,
 			"deaths": 5,
-			"deltaconfirmed": 1,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "09/05/2020 21:52:43",
@@ -666,7 +676,7 @@
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "09/05/2020 21:52:43",
 			"recovered": 4,
 			"state": "Shan",
