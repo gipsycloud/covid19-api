@@ -59,12 +59,12 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 22,
-        "confirmed": 42,
+        "active": 23,
+        "confirmed": 43,
         "deceased": 2,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -173,10 +173,10 @@
       },
       {
         "district": "Muse",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
