@@ -2,7 +2,7 @@
   "Chin": {
     "districtData": {
       "Falam": {
-        "active": 4,
+        "active": 0,
         "confirmed": 5,
         "deceased": 0,
         "recovered": 1,
@@ -13,7 +13,7 @@
         }
       },
       "Hakha": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
@@ -29,7 +29,7 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 36,
+        "active": 0,
         "confirmed": 55,
         "deceased": 0,
         "recovered": 19,
@@ -40,7 +40,7 @@
         }
       },
       "Yangon (East)": {
-        "active": 26,
+        "active": 0,
         "confirmed": 45,
         "deceased": 3,
         "recovered": 16,
@@ -51,7 +51,7 @@
         }
       },
       "Yangon (West)": {
-        "active": 23,
+        "active": 0,
         "confirmed": 43,
         "deceased": 2,
         "recovered": 18,
@@ -67,7 +67,7 @@
   "Mandalay": {
     "districtData": {
       "Mandalay": {
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
@@ -105,7 +105,7 @@
         }
       },
       "Oke Ta Ra": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
@@ -132,7 +132,7 @@
         }
       },
       "Taunggyi": {
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
@@ -143,7 +143,7 @@
         }
       },
       "Tachileik": {
-        "active": 2,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
         "recovered": 1,
@@ -161,7 +161,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
@@ -170,7 +170,7 @@
   "Bago": {
     "districtData": {
       "Pyay": {
-        "active": 2,
+        "active": 0,
         "confirmed": 7,
         "deceased": 1,
         "recovered": 4,
@@ -218,7 +218,7 @@
   "Sagaing": {
     "districtData": {
       "Kale": {
-        "active": 5,
+        "active": 0,
         "confirmed": 6,
         "deceased": 0,
         "recovered": 1,
@@ -229,7 +229,7 @@
         }
       },
       "Sagaing": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
@@ -245,7 +245,7 @@
   "Kachin": {
     "districtData": {
       "Mohnyin": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
