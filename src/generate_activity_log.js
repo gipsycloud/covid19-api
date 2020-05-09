@@ -19,7 +19,13 @@ function getChangeSet() {
     const diff = detailedDiff(raw_data_prev, raw_data);
     // console.log(util.inspect(diff, false, null, true /* enable colors */));
 
-    const {added, updated} = diff;
+    const {added, updated, deleted} = diff;
+    
+    // Avoid committing backdated data
+    // Sometime google sheet data feed are not up to date and old data are returned
+    if (Object.keys(deleted).every((index) => deleted[index] !== undefined) === false) {
+        throw "Something went wrong. A case is being deleted.";
+    }
 
     let deltaCities = Object.keys(added).reduce((prev, index) => {
         const updatedContent = added[index];
