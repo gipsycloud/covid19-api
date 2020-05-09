@@ -31,6 +31,9 @@ async function taskDateWiseDeltaFile() {
         if (status == 'inpatient') {
           // count of filtered data by DATE, STATECODE
           count = raw_data.filter((value) => value.dateannounced === currentDate && value.statecode === statecode).length;
+        } else if (status == 'recovered') {
+          // count of filtered data by DATE, STATUS, STATECODE
+          count = raw_data.filter((value) => value.recovereddate === currentDate && value.status === status && value.statecode === statecode).length;
         } else {
           // count of filtered data by DATE, STATUS, STATECODE
           count = raw_data.filter((value) => value.dischargeddeceaseddate === currentDate && value.status === status && value.statecode === statecode).length;
@@ -111,8 +114,8 @@ async function taskDataFile() {
     const active    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Hospitalized').length;
 
     const deltaConfirmed = raw_data.filter((value) => value.statecode === statecode && value.dateannounced === stringdatetoday).length;
-    const deltaDeaths    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased' && value.dateannounced === stringdatetoday).length;
-    const deltaRecovered = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Recovered' && value.dateannounced === stringdatetoday).length;
+    const deltaDeaths    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased' && value.dischargeddeceaseddate === stringdatetoday).length;
+    const deltaRecovered = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Recovered' && value.recovereddate === stringdatetoday).length;
 
     statewise.push({
       state: states[statecode],
