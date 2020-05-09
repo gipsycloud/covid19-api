@@ -44,8 +44,9 @@ try {
     if (announcedToday) {
       currentDistrict.delta.confirmed++;
     }
-    
-    if(row.currentstatus === 'Deceased') {
+    if(row.currentstatus === 'Hospitalized') {
+      currentDistrict.active++;
+    } else if(row.currentstatus === 'Deceased') {
       currentDistrict.deceased++;
       if (dischargedDeceasedToday) {
         currentDistrict.delta.deceased++;
