@@ -8,7 +8,8 @@ try {
   const StateDistrictWiseData = rawData.raw_data.reduce((acc, row) => {
     const today = moment().utcOffset("+06:30").format("DD/MM/YYYY");
     const announcedToday = today === row.dateannounced;
-    const updatedToday = today === row.dischargeddeceaseddate;
+    const dischargedDeceasedToday = today === row.dischargeddeceaseddate;
+    const recoveredToday = today === row.recovereddate;
     let stateName = row.detectedstate;
       if(!stateName) {
         return acc;
@@ -43,19 +44,15 @@ try {
     if (announcedToday) {
       currentDistrict.delta.confirmed++;
     }
-    if(row.currentstatus === 'Hospitalized') {
-      currentDistrict.active++;
-      if (updatedToday) {
-        currentDistrict.delta.active++;
-      }
-    } else if(row.currentstatus === 'Deceased') {
+    
+    if(row.currentstatus === 'Deceased') {
       currentDistrict.deceased++;
-      if (updatedToday) {
+      if (dischargedDeceasedToday) {
         currentDistrict.delta.deceased++;
       }
     } else if(row.currentstatus === 'Recovered') {
       currentDistrict.recovered++;
-      if (updatedToday) {
+      if (recoveredToday) {
         currentDistrict.delta.recovered++;
       }
     }
