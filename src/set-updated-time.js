@@ -2,6 +2,7 @@ const fetch = require('node-fetch');
 const moment = require('moment-timezone');
 const data = require('../tmp/data');
 const { writeData } = require("../lib");
+const c = require("../lib/constants");
 
 const KEY = process.env.GDRIVE_API_KEY;
 
@@ -31,5 +32,13 @@ const KEY = process.env.GDRIVE_API_KEY;
 	.catch(err => {
 		console.log(err);
 		process.exit(1);
-	})
+	});
+
+
+	await fetch(`https://spreadsheets.google.com/feeds/worksheets/${c.SHEET}/public/full/${c.SHEET_RAW_DATA}`)
+		.then(res => res.text())
+		.then(body => {
+			const date = body.match(/<updated>(?<date>.+?)<\/updated>/).groups.date
+			console.log(`Feed updated date: ${date}`)
+		})
 })();
