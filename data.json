@@ -514,33 +514,33 @@
 			"active": 103,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 2,
 			"date": "12/05/2020",
 			"totalconfirmed": 180,
 			"totaldeceased": 6,
 			"totalrecovered": 71
 		},
 		{
-			"active": 103,
-			"dailyconfirmed": 0,
+			"active": 101,
+			"dailyconfirmed": 1,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 3,
 			"date": "13/05/2020",
 			"totalconfirmed": 180,
 			"totaldeceased": 6,
-			"totalrecovered": 71
+			"totalrecovered": 73
 		}
 	],
 	"statewise": [
 		{
-			"active": 100,
-			"confirmed": 180,
+			"active": 96,
+			"confirmed": 181,
 			"deaths": 6,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 1,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 3,
 			"lastupdatedtime": "13/05/2020 20:27:51",
-			"recovered": 74,
+			"recovered": 79,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -581,14 +581,14 @@
 			"statecode": "MM-03"
 		},
 		{
-			"active": 1,
+			"active": 0,
 			"confirmed": 3,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "13/05/2020 20:27:51",
-			"recovered": 2,
+			"recovered": 3,
 			"state": "Mandalay",
 			"statecode": "MM-04"
 		},
@@ -605,14 +605,14 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 83,
-			"confirmed": 145,
+			"active": 81,
+			"confirmed": 146,
 			"deaths": 5,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 1,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 2,
 			"lastupdatedtime": "13/05/2020 20:27:51",
-			"recovered": 57,
+			"recovered": 60,
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},
@@ -665,14 +665,14 @@
 			"statecode": "MM-13"
 		},
 		{
-			"active": 5,
+			"active": 4,
 			"confirmed": 6,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 1,
 			"lastupdatedtime": "13/05/2020 20:27:51",
-			"recovered": 1,
+			"recovered": 2,
 			"state": "Chin",
 			"statecode": "MM-14"
 		},
