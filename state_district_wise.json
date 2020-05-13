@@ -40,10 +40,10 @@
         }
       },
       "Yangon (East)": {
-        "active": 24,
+        "active": 25,
         "confirmed": 45,
         "deceased": 3,
-        "recovered": 18,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -67,10 +67,10 @@
   "Mandalay": {
     "districtData": {
       "Mandalay": {
-        "active": 0,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
