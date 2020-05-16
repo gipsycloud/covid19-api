@@ -554,33 +554,33 @@
 			"active": 89,
 			"dailyconfirmed": 1,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 7,
 			"date": "16/05/2020",
 			"totalconfirmed": 181,
 			"totaldeceased": 6,
 			"totalrecovered": 86
 		},
 		{
-			"active": 90,
+			"active": 83,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "17/05/2020",
 			"totalconfirmed": 182,
 			"totaldeceased": 6,
-			"totalrecovered": 86
+			"totalrecovered": 93
 		}
 	],
 	"statewise": [
 		{
-			"active": 87,
+			"active": 80,
 			"confirmed": 182,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "16/05/2020 20:17:16",
-			"recovered": 89,
+			"recovered": 96,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -645,14 +645,14 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 74,
+			"active": 68,
 			"confirmed": 146,
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "16/05/2020 20:17:16",
-			"recovered": 67,
+			"recovered": 73,
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},
@@ -741,14 +741,14 @@
 			"statecode": "MM-16"
 		},
 		{
-			"active": 3,
+			"active": 2,
 			"confirmed": 7,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "16/05/2020 20:17:16",
-			"recovered": 4,
+			"recovered": 5,
 			"state": "Shan",
 			"statecode": "MM-17"
 		},
