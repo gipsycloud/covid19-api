@@ -4886,6 +4886,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR013037",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "32",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "16/05/2020",
+			"detectedcity": "Thantlang",
+			"detectedcitymm": "ထန်တလန်",
+			"detecteddistrict": "Hakha",
+			"detectedstate": "Chin",
+			"detectedsubstate": "Chin",
+			"detectedtownship": "Thantlang",
+			"dischargeddeceaseddate": "",
+			"gender": "M",
+			"hospitalname": "Wai Bar Gi Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "182",
+			"recovereddate": "",
+			"region": "MM-14",
+			"source1": "https://m.facebook.com/story.php?story_fbid=3410622582300356&id=199295433433103",
+			"source2": "",
+			"statecode": "MM-14",
+			"status": "inpatient",
+			"townshipcode": "MMR004003",
+			"typeoftransmission": "Local"
 		}
 	]
 }
