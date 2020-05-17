@@ -47,12 +47,12 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 22,
-        "confirmed": 45,
+        "active": 23,
+        "confirmed": 46,
         "deceased": 3,
         "recovered": 20,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -60,13 +60,13 @@
       {
         "district": "Yangon (West)",
         "active": 17,
-        "confirmed": 44,
+        "confirmed": 45,
         "deceased": 2,
-        "recovered": 25,
+        "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
@@ -119,14 +119,14 @@
       },
       {
         "district": "Oke Ta Ra",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
