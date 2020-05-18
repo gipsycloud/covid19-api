@@ -29,10 +29,10 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 29,
+        "active": 28,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 28,
+        "recovered": 29,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -40,10 +40,10 @@
         }
       },
       "Yangon (East)": {
-        "active": 23,
+        "active": 22,
         "confirmed": 46,
         "deceased": 3,
-        "recovered": 20,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -218,10 +218,10 @@
   "Sagaing": {
     "districtData": {
       "Kale": {
-        "active": 2,
+        "active": 0,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
