@@ -257,5 +257,37 @@
       }
     },
     "statecode": "MM-11"
+  },
+  "Tanintharyi": {
+    "districtData": {
+      "Myeik": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "statecode": "MM-05"
+  },
+  "Kayin": {
+    "districtData": {
+      "Kawkareik": {
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "statecode": "MM-13"
   }
 }
