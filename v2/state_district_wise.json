@@ -239,12 +239,12 @@
     "districtData": [
       {
         "district": "Magway",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -341,12 +341,30 @@
     "districtData": [
       {
         "district": "Thandwe",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Ayeyarwady",
+    "statecode": "MM-07",
+    "districtData": [
+      {
+        "district": "Maubin",
         "active": 1,
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
