@@ -34,7 +34,7 @@
         "deceased": 0,
         "recovered": 31,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -45,9 +45,9 @@
         "deceased": 3,
         "recovered": 24,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       "Yangon (West)": {
@@ -56,9 +56,9 @@
         "deceased": 2,
         "recovered": 28,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       "Yangon (South)": {
