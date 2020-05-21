@@ -3296,7 +3296,7 @@
 		},
 		{
 			"agebracket": "18",
-			"contractedfromwhichpatientsuspected": "108",
+			"contractedfromwhichpatientsuspected": "86,105,108",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "22/04/2020",
 			"detectedcity": "Insein",
@@ -3431,7 +3431,7 @@
 		},
 		{
 			"agebracket": "54",
-			"contractedfromwhichpatientsuspected": "08",
+			"contractedfromwhichpatientsuspected": "89",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "South Okkalapa",
@@ -3458,7 +3458,7 @@
 		},
 		{
 			"agebracket": "31",
-			"contractedfromwhichpatientsuspected": "08",
+			"contractedfromwhichpatientsuspected": "84,122",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Thaketa",
@@ -3512,7 +3512,7 @@
 		},
 		{
 			"agebracket": "28",
-			"contractedfromwhichpatientsuspected": "86",
+			"contractedfromwhichpatientsuspected": "86,105,108",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Mayangone",
