@@ -35,8 +35,8 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "active": 31,
-        "confirmed": 62,
+        "active": 26,
+        "confirmed": 57,
         "deceased": 0,
         "recovered": 31,
         "delta": {
@@ -47,8 +47,8 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 19,
-        "confirmed": 46,
+        "active": 24,
+        "confirmed": 51,
         "deceased": 3,
         "recovered": 24,
         "delta": {
@@ -59,8 +59,8 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 17,
-        "confirmed": 47,
+        "active": 16,
+        "confirmed": 46,
         "deceased": 2,
         "recovered": 28,
         "delta": {
@@ -161,8 +161,8 @@
       },
       {
         "district": "Taunggyi",
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -358,7 +358,7 @@
     "statecode": "MM-07",
     "districtData": [
       {
-        "district": "Pathein",
+        "district": "Maubin",
         "active": 1,
         "confirmed": 1,
         "deceased": 0,
