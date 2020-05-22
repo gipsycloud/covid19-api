@@ -534,103 +534,103 @@
 			"active": 99,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
-			"dailyrecovered": 4,
+			"dailyrecovered": 5,
 			"date": "14/05/2020",
 			"totalconfirmed": 181,
 			"totaldeceased": 6,
 			"totalrecovered": 76
 		},
 		{
-			"active": 95,
+			"active": 94,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 5,
 			"date": "15/05/2020",
 			"totalconfirmed": 181,
 			"totaldeceased": 6,
-			"totalrecovered": 80
+			"totalrecovered": 81
 		},
 		{
-			"active": 90,
+			"active": 89,
 			"dailyconfirmed": 1,
 			"dailydeceased": 0,
 			"dailyrecovered": 7,
 			"date": "16/05/2020",
 			"totalconfirmed": 181,
 			"totaldeceased": 6,
-			"totalrecovered": 85
+			"totalrecovered": 86
 		},
 		{
-			"active": 84,
+			"active": 83,
 			"dailyconfirmed": 2,
 			"dailydeceased": 0,
 			"dailyrecovered": 2,
 			"date": "17/05/2020",
 			"totalconfirmed": 182,
 			"totaldeceased": 6,
-			"totalrecovered": 92
+			"totalrecovered": 93
 		},
 		{
-			"active": 84,
+			"active": 83,
 			"dailyconfirmed": 4,
 			"dailydeceased": 0,
 			"dailyrecovered": 4,
 			"date": "18/05/2020",
 			"totalconfirmed": 184,
 			"totaldeceased": 6,
-			"totalrecovered": 94
+			"totalrecovered": 95
 		},
 		{
-			"active": 84,
+			"active": 83,
 			"dailyconfirmed": 5,
 			"dailydeceased": 0,
 			"dailyrecovered": 3,
 			"date": "19/05/2020",
 			"totalconfirmed": 188,
 			"totaldeceased": 6,
-			"totalrecovered": 98
+			"totalrecovered": 99
 		},
 		{
-			"active": 86,
+			"active": 85,
 			"dailyconfirmed": 6,
 			"dailydeceased": 0,
 			"dailyrecovered": 4,
 			"date": "20/05/2020",
 			"totalconfirmed": 193,
 			"totaldeceased": 6,
-			"totalrecovered": 101
+			"totalrecovered": 102
 		},
 		{
-			"active": 88,
+			"active": 87,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "21/05/2020",
 			"totalconfirmed": 199,
 			"totaldeceased": 6,
-			"totalrecovered": 105
+			"totalrecovered": 106
 		},
 		{
-			"active": 88,
+			"active": 87,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
-			"dailyrecovered": 8,
+			"dailyrecovered": 0,
 			"date": "22/05/2020",
 			"totalconfirmed": 199,
 			"totaldeceased": 6,
-			"totalrecovered": 105
+			"totalrecovered": 106
 		}
 	],
 	"statewise": [
 		{
-			"active": 77,
+			"active": 84,
 			"confirmed": 199,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 8,
+			"deltarecovered": 0,
 			"lastupdatedtime": "22/05/2020 20:39:42",
-			"recovered": 116,
+			"recovered": 109,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -695,14 +695,14 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 62,
-			"confirmed": 156,
+			"active": 67,
+			"confirmed": 155,
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 7,
+			"deltarecovered": 0,
 			"lastupdatedtime": "22/05/2020 20:39:42",
-			"recovered": 89,
+			"recovered": 83,
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},
@@ -791,14 +791,14 @@
 			"statecode": "MM-16"
 		},
 		{
-			"active": 1,
-			"confirmed": 7,
+			"active": 3,
+			"confirmed": 8,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "22/05/2020 20:39:42",
-			"recovered": 6,
+			"recovered": 5,
 			"state": "Shan",
 			"statecode": "MM-17"
 		},
