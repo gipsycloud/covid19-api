@@ -695,8 +695,8 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 67,
-			"confirmed": 155,
+			"active": 68,
+			"confirmed": 156,
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -791,8 +791,8 @@
 			"statecode": "MM-16"
 		},
 		{
-			"active": 3,
-			"confirmed": 8,
+			"active": 2,
+			"confirmed": 7,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
