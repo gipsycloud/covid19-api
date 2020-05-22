@@ -29,8 +29,8 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 26,
-        "confirmed": 57,
+        "active": 31,
+        "confirmed": 62,
         "deceased": 0,
         "recovered": 31,
         "delta": {
@@ -40,8 +40,8 @@
         }
       },
       "Yangon (East)": {
-        "active": 24,
-        "confirmed": 51,
+        "active": 19,
+        "confirmed": 46,
         "deceased": 3,
         "recovered": 24,
         "delta": {
@@ -51,8 +51,8 @@
         }
       },
       "Yangon (West)": {
-        "active": 16,
-        "confirmed": 46,
+        "active": 17,
+        "confirmed": 47,
         "deceased": 2,
         "recovered": 28,
         "delta": {
@@ -143,8 +143,8 @@
         }
       },
       "Taunggyi": {
-        "active": 1,
-        "confirmed": 3,
+        "active": 0,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -319,7 +319,7 @@
   },
   "Ayeyarwady": {
     "districtData": {
-      "Maubin": {
+      "Pathein": {
         "active": 1,
         "confirmed": 1,
         "deceased": 0,
