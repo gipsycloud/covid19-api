@@ -29,10 +29,10 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 24,
+        "active": 26,
         "confirmed": 62,
         "deceased": 0,
-        "recovered": 38,
+        "recovered": 36,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -51,10 +51,10 @@
         }
       },
       "Yangon (West)": {
-        "active": 16,
+        "active": 17,
         "confirmed": 47,
         "deceased": 2,
-        "recovered": 29,
+        "recovered": 28,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -181,10 +181,10 @@
   "Bago": {
     "districtData": {
       "Pyay": {
-        "active": 0,
+        "active": 1,
         "confirmed": 7,
         "deceased": 1,
-        "recovered": 6,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
