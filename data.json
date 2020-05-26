@@ -659,6 +659,16 @@
 			"totalconfirmed": 203,
 			"totaldeceased": 6,
 			"totalrecovered": 120
+		},
+		{
+			"active": 79,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "27/05/2020",
+			"totalconfirmed": 206,
+			"totaldeceased": 6,
+			"totalrecovered": 121
 		}
 	],
 	"statewise": [
@@ -666,9 +676,9 @@
 			"active": 76,
 			"confirmed": 206,
 			"deaths": 6,
-			"deltaconfirmed": 3,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "26/05/2020 21:11:00",
 			"recovered": 124,
 			"state": "Total",
@@ -738,9 +748,9 @@
 			"active": 60,
 			"confirmed": 161,
 			"deaths": 5,
-			"deltaconfirmed": 3,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "26/05/2020 21:11:00",
 			"recovered": 96,
 			"state": "Yangon",
