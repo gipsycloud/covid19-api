@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Shan\n3 new cases in Yangon\n",
-    "timestamp": 1587222229
-  },
-  {
     "update": "9 new cases in Yangon\n",
     "timestamp": 1587261160
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases in Dagon Myothit (North), Yangon\n1 recover in South Okkalapa, Yangon",
     "timestamp": 1590505998
+  },
+  {
+    "update": "1 recover in Pabedan, Yangon\n1 recover in Pazundaung, Yangon",
+    "timestamp": 1590619343
   }
 ]

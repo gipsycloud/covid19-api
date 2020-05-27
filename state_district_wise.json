@@ -40,10 +40,10 @@
         }
       },
       "Yangon (East)": {
-        "active": 19,
+        "active": 18,
         "confirmed": 50,
         "deceased": 3,
-        "recovered": 28,
+        "recovered": 29,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -51,10 +51,10 @@
         }
       },
       "Yangon (West)": {
-        "active": 17,
+        "active": 16,
         "confirmed": 48,
         "deceased": 2,
-        "recovered": 29,
+        "recovered": 30,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
