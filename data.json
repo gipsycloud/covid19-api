@@ -679,6 +679,16 @@
 			"totalconfirmed": 206,
 			"totaldeceased": 6,
 			"totalrecovered": 123
+		},
+		{
+			"active": 77,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "29/05/2020",
+			"totalconfirmed": 206,
+			"totaldeceased": 6,
+			"totalrecovered": 123
 		}
 	],
 	"statewise": [
