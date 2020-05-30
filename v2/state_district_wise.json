@@ -47,8 +47,8 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 18,
-        "confirmed": 50,
+        "active": 30,
+        "confirmed": 62,
         "deceased": 3,
         "recovered": 29,
         "delta": {
@@ -59,8 +59,8 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 15,
-        "confirmed": 48,
+        "active": 18,
+        "confirmed": 51,
         "deceased": 2,
         "recovered": 31,
         "delta": {
@@ -105,6 +105,18 @@
         "confirmed": 1,
         "deceased": 0,
         "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Myingyan",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
