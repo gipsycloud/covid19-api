@@ -682,7 +682,7 @@
 		},
 		{
 			"active": 77,
-			"dailyconfirmed": 1,
+			"dailyconfirmed": 18,
 			"dailydeceased": 0,
 			"dailyrecovered": 4,
 			"date": "29/05/2020",
@@ -691,12 +691,12 @@
 			"totalrecovered": 123
 		},
 		{
-			"active": 74,
-			"dailyconfirmed": 17,
+			"active": 91,
+			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "30/05/2020",
-			"totalconfirmed": 207,
+			"totalconfirmed": 224,
 			"totaldeceased": 6,
 			"totalrecovered": 127
 		}
@@ -706,7 +706,7 @@
 			"active": 88,
 			"confirmed": 224,
 			"deaths": 6,
-			"deltaconfirmed": 17,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "30/05/2020 12:51:00",
@@ -754,7 +754,7 @@
 			"active": 2,
 			"confirmed": 5,
 			"deaths": 0,
-			"deltaconfirmed": 2,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "30/05/2020 12:51:00",
@@ -778,7 +778,7 @@
 			"active": 71,
 			"confirmed": 176,
 			"deaths": 5,
-			"deltaconfirmed": 15,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "30/05/2020 12:51:00",
