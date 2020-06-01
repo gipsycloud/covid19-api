@@ -40,8 +40,8 @@
         }
       },
       "Yangon (East)": {
-        "active": 30,
-        "confirmed": 62,
+        "active": 28,
+        "confirmed": 60,
         "deceased": 3,
         "recovered": 29,
         "delta": {
@@ -51,8 +51,8 @@
         }
       },
       "Yangon (West)": {
-        "active": 18,
-        "confirmed": 51,
+        "active": 22,
+        "confirmed": 55,
         "deceased": 2,
         "recovered": 31,
         "delta": {
@@ -93,17 +93,6 @@
         "confirmed": 1,
         "deceased": 0,
         "recovered": 1,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Myingyan": {
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
