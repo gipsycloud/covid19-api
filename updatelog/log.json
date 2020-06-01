@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Yangon\n",
-    "timestamp": 1587306751
-  },
-  {
     "update": "3 new cases in Yangon\n",
     "timestamp": 1587318181
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Botahtaung, Yangon\n8 new cases in Mingalartaungnyunt, Yangon\n3 new cases in Tamwe, Yangon\n2 new cases in Pabedan, Yangon\n1 new case in Ahlone, Yangon\n2 new cases in Taungtha, Mandalay",
     "timestamp": 1590802959
+  },
+  {
+    "update": "4 new cases, 1 recover in Hlaing, Yangon\n1 recover in Shwepyithar, Yangon\n1 recover in Monghpyak, Shan\n1 recover in South Okkalapa, Yangon\n1 recover in Insein, Yangon\n2 recoveries in Mayangone, Yangon\n1 recover in Pazundaung, Yangon",
+    "timestamp": 1590981144
   }
 ]
