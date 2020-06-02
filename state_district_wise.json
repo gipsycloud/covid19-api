@@ -22,6 +22,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Mindat": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MM-14"
@@ -29,36 +40,36 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 20,
-        "confirmed": 62,
+        "active": 21,
+        "confirmed": 63,
         "deceased": 0,
         "recovered": 42,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (East)": {
-        "active": 26,
+        "active": 24,
         "confirmed": 60,
         "deceased": 3,
-        "recovered": 31,
+        "recovered": 33,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Yangon (West)": {
-        "active": 23,
+        "active": 22,
         "confirmed": 59,
         "deceased": 2,
-        "recovered": 34,
+        "recovered": 35,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Yangon (South)": {
@@ -143,12 +154,12 @@
         }
       },
       "Taunggyi": {
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -165,12 +176,12 @@
         }
       },
       "Muse": {
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -272,14 +283,14 @@
   "Tanintharyi": {
     "districtData": {
       "Myeik": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
@@ -288,14 +299,14 @@
   "Kayin": {
     "districtData": {
       "Kawkareik": {
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
