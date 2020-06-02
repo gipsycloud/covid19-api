@@ -3859,7 +3859,7 @@
 			"statecode": "MM-17",
 			"status": "recovered",
 			"townshipcode": "MMR015009",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -3913,7 +3913,7 @@
 			"statecode": "MM-01",
 			"status": "recovered",
 			"townshipcode": "MMR005001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -4912,7 +4912,7 @@
 			"statecode": "MM-14",
 			"status": "inpatient",
 			"townshipcode": "MMR004003",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "57",
@@ -4993,7 +4993,7 @@
 			"statecode": "MM-05",
 			"status": "inpatient",
 			"townshipcode": "MMR006008",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -5020,7 +5020,7 @@
 			"statecode": "MM-13",
 			"status": "inpatient",
 			"townshipcode": "MMR003006",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -5047,7 +5047,7 @@
 			"statecode": "MM-13",
 			"status": "inpatient",
 			"townshipcode": "MMR003006",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -5074,7 +5074,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012015",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "50",
@@ -5101,7 +5101,7 @@
 			"statecode": "MM-03",
 			"status": "inpatient",
 			"townshipcode": "MMR009001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
@@ -5128,7 +5128,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012016",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
@@ -5155,7 +5155,7 @@
 			"statecode": "MM-07",
 			"status": "inpatient",
 			"townshipcode": "MMR017001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "34",
@@ -5182,7 +5182,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -5209,7 +5209,7 @@
 			"statecode": "MM-06",
 			"status": "recovered",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "36",
@@ -5236,7 +5236,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -5263,7 +5263,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
@@ -5290,7 +5290,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -5317,7 +5317,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -5344,7 +5344,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "30",
@@ -5371,7 +5371,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
@@ -5398,7 +5398,7 @@
 			"statecode": "MM-14",
 			"status": "inpatient",
 			"townshipcode": "MMR004004",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -5425,7 +5425,7 @@
 			"statecode": "MM-14",
 			"status": "inpatient",
 			"townshipcode": "MMR004004",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
@@ -5452,7 +5452,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "41",
@@ -5479,7 +5479,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013019",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "39",
@@ -5506,7 +5506,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013019",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "63",
@@ -5533,7 +5533,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013019",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "66",
@@ -5560,7 +5560,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013019",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
@@ -5587,7 +5587,7 @@
 			"statecode": "MM-07",
 			"status": "inpatient",
 			"townshipcode": "MMR017001",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -5614,7 +5614,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013044",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
@@ -5641,7 +5641,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013044",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
@@ -5668,7 +5668,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013044",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "29",
@@ -5695,7 +5695,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013044",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "49",
@@ -5722,7 +5722,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013044",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "46",
@@ -5749,7 +5749,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013044",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "52",
@@ -5776,7 +5776,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013044",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "45",
@@ -5803,7 +5803,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -5830,7 +5830,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "47",
@@ -5857,7 +5857,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "4",
@@ -5884,7 +5884,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "61",
@@ -5911,7 +5911,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "9",
@@ -5938,7 +5938,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "19",
@@ -5965,7 +5965,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "47",
@@ -5992,7 +5992,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
@@ -6019,7 +6019,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -6046,7 +6046,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013018",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -6073,7 +6073,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "36",
@@ -6100,7 +6100,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -6127,7 +6127,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
@@ -6154,7 +6154,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		}
 	]
 }
