@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Bago\n",
-    "timestamp": 1587401024
-  },
-  {
     "update": "1 new case in Shan\n1 new case in Yangon\n",
     "timestamp": 1587476565
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Nyaunglebin, Bago",
     "timestamp": 1591145003
+  },
+  {
+    "update": "1 recover in Magway, Magway\n1 recover in Pathein, Ayeyarwady",
+    "timestamp": 1591195950
   }
 ]
