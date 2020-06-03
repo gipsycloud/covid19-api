@@ -6226,7 +6226,7 @@
 			"hospitalname": "Muse General Hospital",
 			"labresult": "positive",
 			"nationality": "",
-			"notes": "",
+			"notes": "healthcare person",
 			"patientnumber": "231",
 			"recovereddate": "",
 			"region": "MM-17",
@@ -6263,6 +6263,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR004006",
 			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "26",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "03/06/2020",
+			"detectedcity": "Nyaunglebin",
+			"detectedcitymm": "ညောင်လေးပင်",
+			"detecteddistrict": "Bago",
+			"detectedstate": "Bago",
+			"detectedsubstate": "Bago",
+			"detectedtownship": "Nyaunglebin",
+			"dischargeddeceaseddate": "",
+			"gender": "M",
+			"hospitalname": "Bago General Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "233",
+			"recovereddate": "",
+			"region": "MM-02",
+			"source1": "https://m.facebook.com/story.php?story_fbid=3460018247360789&id=199295433433103",
+			"source2": "",
+			"statecode": "MM-02",
+			"status": "inpatient",
+			"townshipcode": "MMR007005",
+			"typeoftransmission": "Local"
 		}
 	]
 }

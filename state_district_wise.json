@@ -201,6 +201,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Bago": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MM-02"

@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Chin\n1 new case in Shan\n4 new cases in Sagaing\n1 recovery in Yangon\n",
-    "timestamp": 1587389622
-  },
-  {
     "update": "2 new cases in Bago\n",
     "timestamp": 1587401024
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Mingaladon, Yangon\n1 new case in Ywangan, Shan\n1 new case in Muse, Shan\n1 new case in Mindat, Chin\n1 recover in Botahtaung, Yangon\n1 recover in South Okkalapa, Yangon\n1 recover in Ahlone, Yangon\n1 recover in Tanintharyi, Tanintharyi\n1 recover in Kawkareik, Kayin",
     "timestamp": 1591107790
+  },
+  {
+    "update": "1 new case in Nyaunglebin, Bago",
+    "timestamp": 1591145003
   }
 ]
