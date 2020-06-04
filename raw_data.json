@@ -6290,6 +6290,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR007005",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "38",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "04/06/2020",
+			"detectedcity": "Maungdaw",
+			"detectedcitymm": "မောင်တော",
+			"detecteddistrict": "Maungdaw",
+			"detectedstate": "Rakhine",
+			"detectedsubstate": "Rakhine",
+			"detectedtownship": "Maungdaw",
+			"dischargeddeceaseddate": "",
+			"gender": "M",
+			"hospitalname": "Maungdaw Hospital",
+			"labresult": "positive",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "234",
+			"recovereddate": "",
+			"region": "MM-16",
+			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3463861906976423?",
+			"source2": "",
+			"statecode": "MM-16",
+			"status": "inpatient",
+			"townshipcode": "MMR012009",
+			"typeoftransmission": "Local"
 		}
 	]
 }
