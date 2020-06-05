@@ -40,14 +40,14 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 18,
+        "active": 15,
         "confirmed": 63,
         "deceased": 0,
-        "recovered": 45,
+        "recovered": 48,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Yangon (East)": {

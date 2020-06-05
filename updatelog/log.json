@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Yangon\n",
-    "timestamp": 1587563621
-  },
-  {
     "update": "4 new cases in Yangon\n",
     "timestamp": 1587604449
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Sagaing, Sagaing\n3 recoveries in Insein, Yangon",
     "timestamp": 1591288976
+  },
+  {
+    "update": "3 recoveries in Insein, Yangon",
+    "timestamp": 1591369935
   }
 ]
