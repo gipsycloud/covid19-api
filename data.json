@@ -759,6 +759,16 @@
 			"totalconfirmed": 236,
 			"totaldeceased": 6,
 			"totalrecovered": 145
+		},
+		{
+			"active": 82,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "06/06/2020",
+			"totalconfirmed": 236,
+			"totaldeceased": 6,
+			"totalrecovered": 148
 		}
 	],
 	"statewise": [
@@ -768,8 +778,8 @@
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 3,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"deltarecovered": 0,
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 151,
 			"state": "Total",
 			"statecode": "TT"
@@ -781,7 +791,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 7,
 			"state": "Sagaing",
 			"statecode": "MM-01"
@@ -793,7 +803,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 6,
 			"state": "Bago",
 			"statecode": "MM-02"
@@ -805,7 +815,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 2,
 			"state": "Magway",
 			"statecode": "MM-03"
@@ -817,7 +827,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 3,
 			"state": "Mandalay",
 			"statecode": "MM-04"
@@ -829,7 +839,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 1,
 			"state": "Tanintharyi",
 			"statecode": "MM-05"
@@ -840,8 +850,8 @@
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 3,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"deltarecovered": 0,
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 116,
 			"state": "Yangon",
 			"statecode": "MM-06"
@@ -853,7 +863,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 1,
 			"state": "Ayeyarwady",
 			"statecode": "MM-07"
@@ -865,7 +875,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 1,
 			"state": "Kachin",
 			"statecode": "MM-11"
@@ -877,7 +887,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 0,
 			"state": "Kayah",
 			"statecode": "MM-12"
@@ -889,7 +899,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 1,
 			"state": "Kayin",
 			"statecode": "MM-13"
@@ -901,7 +911,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 3,
 			"state": "Chin",
 			"statecode": "MM-14"
@@ -913,7 +923,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 1,
 			"state": "Mon",
 			"statecode": "MM-15"
@@ -925,7 +935,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 0,
 			"state": "Rakhine",
 			"statecode": "MM-16"
@@ -937,7 +947,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 7,
 			"state": "Shan",
 			"statecode": "MM-17"
@@ -949,7 +959,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "05/06/2020 21:39:52",
+			"lastupdatedtime": "06/06/2020 13:38:57",
 			"recovered": 2,
 			"state": "Nay Pyi Taw",
 			"statecode": "MM-18"
