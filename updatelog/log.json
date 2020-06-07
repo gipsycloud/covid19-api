@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Mandalay\n4 new cases in Yangon\n",
-    "timestamp": 1587651739
-  },
-  {
     "update": "7 new cases in Yangon\n",
     "timestamp": 1587702753
   },
@@ -198,5 +194,9 @@
   {
     "update": "4 new cases in Dagon Myothit (North), Yangon",
     "timestamp": 1591451575
+  },
+  {
+    "update": "1 new case in Tamwe, Yangon\n1 new case in Thayet, Magway",
+    "timestamp": 1591537362
   }
 ]

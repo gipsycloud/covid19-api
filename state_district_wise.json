@@ -51,12 +51,12 @@
         }
       },
       "Yangon (East)": {
-        "active": 28,
-        "confirmed": 64,
+        "active": 29,
+        "confirmed": 65,
         "deceased": 3,
         "recovered": 33,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -241,6 +241,17 @@
         "recovered": 2,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Thayet": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
