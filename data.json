@@ -782,7 +782,7 @@
 		},
 		{
 			"active": 88,
-			"dailyconfirmed": 0,
+			"dailyconfirmed": 1,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "08/06/2020",
@@ -793,10 +793,10 @@
 	],
 	"statewise": [
 		{
-			"active": 85,
-			"confirmed": 242,
+			"active": 86,
+			"confirmed": 243,
 			"deaths": 6,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 1,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "08/06/2020 09:47:21",
@@ -865,10 +865,10 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 67,
-			"confirmed": 188,
+			"active": 68,
+			"confirmed": 189,
 			"deaths": 5,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 1,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "08/06/2020 09:47:21",
