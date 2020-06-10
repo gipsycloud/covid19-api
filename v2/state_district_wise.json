@@ -5,14 +5,14 @@
     "districtData": [
       {
         "district": "Falam",
-        "active": 5,
+        "active": 3,
         "confirmed": 7,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -47,14 +47,14 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "active": 14,
+        "active": 12,
         "confirmed": 63,
         "deceased": 0,
-        "recovered": 49,
+        "recovered": 51,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -71,14 +71,14 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 23,
+        "active": 22,
         "confirmed": 61,
         "deceased": 2,
-        "recovered": 36,
+        "recovered": 37,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
