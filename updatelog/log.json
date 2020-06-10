@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Tamwe, Yangon\n2 new cases in South Okkalapa, Yangon",
-    "timestamp": 1588086211
-  },
-  {
     "update": "1 new case in Hakha, Chin",
     "timestamp": 1588133266
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Tedim, Chin\n2 recoveries in Insein, Yangon\n1 recover in Kamaryut, Yangon",
     "timestamp": 1591796555
+  },
+  {
+    "update": "1 recover in Insein, Yangon",
+    "timestamp": 1591797168
   }
 ]
