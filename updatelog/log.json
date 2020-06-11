@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Botahtaung, Yangon",
-    "timestamp": 1588144137
-  },
-  {
     "update": "1 new case in Insein, Yangon",
     "timestamp": 1588299749
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Maungdaw, Rakhine",
     "timestamp": 1591804370
+  },
+  {
+    "update": "1 new case in Momauk, Kachin",
+    "timestamp": 1591841545
   }
 ]
