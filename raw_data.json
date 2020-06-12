@@ -7019,6 +7019,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR013017",
 			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "60",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "12/06/2020",
+			"detectedcity": "Dagon Myothit (South)",
+			"detectedcitymm": "ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
+			"detecteddistrict": "Yangon (East)",
+			"detectedstate": "Yangon",
+			"detectedsubstate": "Yangon",
+			"detectedtownship": "Dagon Myothit (South)",
+			"dischargeddeceaseddate": "",
+			"gender": "F",
+			"hospitalname": "South Okalar Women and Children hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "သန်လျင် မြို့တွင်နေထိုင်သူ",
+			"patientnumber": "261",
+			"recovereddate": "",
+			"region": "MM-06",
+			"source1": "https://www.mohs.gov.mm/page/10540",
+			"source2": "",
+			"statecode": "MM-06",
+			"status": "inpatient",
+			"townshipcode": "MMR013018",
+			"typeoftransmission": "Imported"
 		}
 	]
 }
