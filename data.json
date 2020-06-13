@@ -834,33 +834,33 @@
 			"active": 98,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 2,
 			"date": "13/06/2020",
 			"totalconfirmed": 261,
 			"totaldeceased": 6,
 			"totalrecovered": 157
 		},
 		{
-			"active": 98,
+			"active": 96,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "14/06/2020",
 			"totalconfirmed": 261,
 			"totaldeceased": 6,
-			"totalrecovered": 157
+			"totalrecovered": 159
 		}
 	],
 	"statewise": [
 		{
-			"active": 95,
+			"active": 93,
 			"confirmed": 261,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "13/06/2020 21:23:48",
-			"recovered": 160,
+			"recovered": 162,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -925,26 +925,26 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 73,
+			"active": 72,
 			"confirmed": 201,
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "13/06/2020 21:23:48",
-			"recovered": 123,
+			"recovered": 124,
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},
 		{
-			"active": 1,
+			"active": 0,
 			"confirmed": 2,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "13/06/2020 21:23:48",
-			"recovered": 1,
+			"recovered": 2,
 			"state": "Ayeyarwady",
 			"statecode": "MM-07"
 		},
