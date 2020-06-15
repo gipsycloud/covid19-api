@@ -6586,7 +6586,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "30",
@@ -6667,7 +6667,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "32",
@@ -6694,7 +6694,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -7062,7 +7062,7 @@
 			"gender": "M",
 			"hospitalname": "Buthidaung Hospital",
 			"labresult": "positive",
-			"nationality": "myanmar",
+			"nationality": "",
 			"notes": "",
 			"patientnumber": "262",
 			"recovereddate": "",
@@ -7072,7 +7072,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012010",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		}
 	]
 }
