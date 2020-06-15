@@ -51,25 +51,25 @@
         }
       },
       "Yangon (East)": {
-        "active": 39,
+        "active": 35,
         "confirmed": 76,
         "deceased": 3,
-        "recovered": 34,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Yangon (West)": {
-        "active": 21,
-        "confirmed": 61,
-        "deceased": 2,
         "recovered": 38,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
+        }
+      },
+      "Yangon (West)": {
+        "active": 17,
+        "confirmed": 61,
+        "deceased": 2,
+        "recovered": 42,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 4
         }
       },
       "Yangon (South)": {

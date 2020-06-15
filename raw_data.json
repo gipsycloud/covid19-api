@@ -3459,7 +3459,7 @@
 		{
 			"agebracket": "31",
 			"contractedfromwhichpatientsuspected": "84,122",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Thaketa",
 			"detectedcitymm": "သာကေတ",
@@ -3474,12 +3474,12 @@
 			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "129",
-			"recovereddate": "",
+			"recovereddate": "15/06/2020",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3350821468280468?",
-			"source2": "",
+			"source2": "https://www.mohs.gov.mm/page/10611",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013013",
 			"typeoftransmission": "Local"
 		},
@@ -3621,7 +3621,7 @@
 		{
 			"agebracket": "35",
 			"contractedfromwhichpatientsuspected": "79,93",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Kyauktada",
 			"detectedcitymm": "ကျောက်တံတား",
@@ -3636,19 +3636,19 @@
 			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "135",
-			"recovereddate": "",
+			"recovereddate": "15/06/2020",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3352569948105620?",
-			"source2": "",
+			"source2": "https://www.mohs.gov.mm/page/10611",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013033",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
 			"contractedfromwhichpatientsuspected": "92",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Kyauktada",
 			"detectedcitymm": "ကျောက်တံတား",
@@ -3663,12 +3663,12 @@
 			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "136",
-			"recovereddate": "",
+			"recovereddate": "15/06/2020",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3352569948105620?",
-			"source2": "",
+			"source2": "https://www.mohs.gov.mm/page/10611",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013033",
 			"typeoftransmission": "Local"
 		},
@@ -4242,7 +4242,7 @@
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "101,107",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "04/05/2020",
 			"detectedcity": "Dagon Myothit (North)",
 			"detectedcitymm": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
@@ -4257,19 +4257,19 @@
 			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "158",
-			"recovereddate": "",
+			"recovereddate": "15/06/2020",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3379521775410437",
-			"source2": "",
+			"source2": "https://www.mohs.gov.mm/page/10611",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013019",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
 			"contractedfromwhichpatientsuspected": "101,107",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "04/05/2020",
 			"detectedcity": "Dagon Myothit (North)",
 			"detectedcitymm": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
@@ -4284,19 +4284,19 @@
 			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "159",
-			"recovereddate": "",
+			"recovereddate": "15/06/2020",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3379521775410437",
-			"source2": "",
+			"source2": "https://www.mohs.gov.mm/page/10611",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013019",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
 			"contractedfromwhichpatientsuspected": "94",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "04/05/2020",
 			"detectedcity": "Mayangone",
 			"detectedcitymm": "မရမ်းကုန်း",
@@ -4311,12 +4311,12 @@
 			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "160",
-			"recovereddate": "",
+			"recovereddate": "15/06/2020",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3379521775410437",
-			"source2": "",
+			"source2": "https://www.mohs.gov.mm/page/10611",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
 		},
@@ -5430,7 +5430,7 @@
 		{
 			"agebracket": "39",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "25/05/2020",
 			"detectedcity": "Hlaing",
 			"detectedcitymm": "လှိုင်",
@@ -5445,12 +5445,12 @@
 			"nationality": "myanmar",
 			"notes": "အလုံမြို့နယ် ၊ ရန်ကုန်တိုင်းဒေသကြီးတွင် နေထိုင်သူ",
 			"patientnumber": "202",
-			"recovereddate": "",
+			"recovereddate": "15/06/2020",
 			"region": "MM-06",
 			"source1": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3437570736272207?",
-			"source2": "",
+			"source2": "https://www.mohs.gov.mm/page/10611",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013040",
 			"typeoftransmission": "Imported"
 		},
@@ -5862,7 +5862,7 @@
 		{
 			"agebracket": "4",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "30/05/2020",
 			"detectedcity": "Dagon Myothit (South)",
 			"detectedcitymm": "ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
@@ -5877,12 +5877,12 @@
 			"nationality": "myanmar",
 			"notes": "မင်္ဂလာ‌တောင်ညွန့်",
 			"patientnumber": "218",
-			"recovereddate": "",
+			"recovereddate": "15/06/2020",
 			"region": "MM-06",
 			"source1": "https://mohs.gov.mm/page/10274",
-			"source2": "",
+			"source2": "https://www.mohs.gov.mm/page/10611",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013018",
 			"typeoftransmission": "Imported"
 		},
@@ -6586,7 +6586,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "30",
@@ -6667,7 +6667,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "32",
@@ -6694,7 +6694,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "24",
@@ -7062,7 +7062,7 @@
 			"gender": "M",
 			"hospitalname": "Buthidaung Hospital",
 			"labresult": "positive",
-			"nationality": "",
+			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "262",
 			"recovereddate": "",
@@ -7072,7 +7072,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012010",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		}
 	]
 }

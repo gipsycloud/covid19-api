@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Tamwe, Yangon\n12 new cases in Insein, Yangon",
-    "timestamp": 1588858965
-  },
-  {
     "update": "1 new case in Insein, Yangon",
     "timestamp": 1588957714
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Buthidaung, Rakhine",
     "timestamp": 1592194345
+  },
+  {
+    "update": "1 recover in Thaketa, Yangon\n2 recoveries in Kyauktada, Yangon\n2 recoveries in Dagon Myothit (North), Yangon\n1 recover in Mayangone, Yangon\n1 recover in Hlaing, Yangon\n1 recover in Dagon Myothit (South), Yangon",
+    "timestamp": 1592237555
   }
 ]
