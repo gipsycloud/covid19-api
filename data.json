@@ -869,6 +869,16 @@
 			"totalconfirmed": 262,
 			"totaldeceased": 6,
 			"totalrecovered": 167
+		},
+		{
+			"active": 85,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "17/06/2020",
+			"totalconfirmed": 262,
+			"totaldeceased": 6,
+			"totalrecovered": 171
 		}
 	],
 	"statewise": [
@@ -878,7 +888,7 @@
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 4,
+			"deltarecovered": 0,
 			"lastupdatedtime": "16/06/2020 20:10:19",
 			"recovered": 174,
 			"state": "Total",
@@ -950,7 +960,7 @@
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 2,
+			"deltarecovered": 0,
 			"lastupdatedtime": "16/06/2020 20:10:19",
 			"recovered": 134,
 			"state": "Yangon",
@@ -1010,7 +1020,7 @@
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "16/06/2020 20:10:19",
 			"recovered": 6,
 			"state": "Chin",
@@ -1034,7 +1044,7 @@
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "16/06/2020 20:10:19",
 			"recovered": 1,
 			"state": "Rakhine",
