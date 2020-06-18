@@ -7073,6 +7073,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR012010",
 			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "17",
+			"contractedfromwhichpatientsuspected": "262",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "18/06/2020",
+			"detectedcity": "Buthidaung",
+			"detectedcitymm": "ဘူးသီးတောင်",
+			"detecteddistrict": "Maungdaw",
+			"detectedstate": "Rakhine",
+			"detectedsubstate": "Rakhine",
+			"detectedtownship": "Buthidaung",
+			"dischargeddeceaseddate": "",
+			"gender": "F",
+			"hospitalname": "Buthidaung Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "263",
+			"recovereddate": "",
+			"region": "MM-16",
+			"source1": "https://mohs.gov.mm/page/10658",
+			"source2": "",
+			"statecode": "MM-16",
+			"status": "inpatient",
+			"townshipcode": "MMR012010",
+			"typeoftransmission": "Imported"
 		}
 	]
 }
