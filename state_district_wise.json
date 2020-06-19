@@ -341,6 +341,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Hpa-An": {
+        "active": 23,
+        "confirmed": 23,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 23,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MM-13"

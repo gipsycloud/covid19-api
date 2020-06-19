@@ -380,6 +380,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Hpa-An",
+        "active": 23,
+        "confirmed": 23,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 23,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
