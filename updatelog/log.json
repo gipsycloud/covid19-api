@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Pabedan, Yangon\n3 recoveries in Kale, Sagaing",
-    "timestamp": 1589550746
-  },
-  {
     "update": "1 new case in Thantlang, Chin",
     "timestamp": 1589597569
   },
@@ -198,5 +194,9 @@
   {
     "update": "23 new cases in , ",
     "timestamp": 1592532765
+  },
+  {
+    "update": "1 recover in Dagon Myothit (North), Yangon\n1 recover in Toungup, Rakhine\n2 recoveries in Bahan, Yangon\n1 recover in Dagon Myothit (South), Yangon",
+    "timestamp": 1592623946
   }
 ]
