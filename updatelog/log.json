@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Thantlang, Chin",
-    "timestamp": 1589597569
-  },
-  {
     "update": "1 recover in Bahan, Yangon\n1 recover in South Okkalapa, Yangon\n3 recoveries in Insein, Yangon\n1 recover in Sanchaung, Yangon\n1 recover in Taunggyi, Shan",
     "timestamp": 1589651243
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in Dagon Myothit (North), Yangon\n1 recover in Toungup, Rakhine\n2 recoveries in Bahan, Yangon\n1 recover in Dagon Myothit (South), Yangon",
     "timestamp": 1592623946
+  },
+  {
+    "update": "1 new case in Mawlamyine, Mon\n1 recover in South Okkalapa, Yangon\n3 recoveries in Hlaing, Yangon",
+    "timestamp": 1592669534
   }
 ]
