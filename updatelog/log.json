@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Tanintharyi, Tanintharyi\n2 new cases in Kawkareik, Kayin",
-    "timestamp": 1589768574
-  },
-  {
     "update": "1 new case in Thandwe, Rakhine\n1 recover in Insein, Yangon\n1 recover in South Okkalapa, Yangon\n2 recoveries in Kale, Sagaing",
     "timestamp": 1589810731
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Maungdaw, Rakhine",
     "timestamp": 1592892760
+  },
+  {
+    "update": "1 new case in Sittwe, Rakhine\n1 recover in Insein, Yangon\n1 recover in Kawkareik, Kayin\n1 recover in Ywangan, Shan\n1 recover in Maungdaw, Rakhine",
+    "timestamp": 1592919758
   }
 ]

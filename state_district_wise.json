@@ -40,14 +40,14 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 2,
+        "active": 1,
         "confirmed": 63,
         "deceased": 0,
-        "recovered": 61,
+        "recovered": 62,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Yangon (East)": {
@@ -154,14 +154,14 @@
         }
       },
       "Taunggyi": {
-        "active": 2,
+        "active": 1,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Tachileik": {
@@ -332,14 +332,14 @@
   "Kayin": {
     "districtData": {
       "Kawkareik": {
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Hpa-An": {
@@ -370,8 +370,19 @@
         }
       },
       "Maungdaw": {
-        "active": 8,
+        "active": 7,
         "confirmed": 8,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 1
+        }
+      },
+      "Sittwe": {
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
