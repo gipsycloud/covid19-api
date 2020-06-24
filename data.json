@@ -942,7 +942,7 @@
 		},
 		{
 			"active": 85,
-			"dailyconfirmed": 0,
+			"dailyconfirmed": 1,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "24/06/2020",
@@ -953,10 +953,10 @@
 	],
 	"statewise": [
 		{
-			"active": 82,
-			"confirmed": 292,
+			"active": 83,
+			"confirmed": 293,
 			"deaths": 6,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 1,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "24/06/2020 20:15:50",
@@ -1109,10 +1109,10 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 8,
-			"confirmed": 11,
+			"active": 9,
+			"confirmed": 12,
 			"deaths": 0,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 1,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "24/06/2020 20:15:50",

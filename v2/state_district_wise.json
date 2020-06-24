@@ -413,12 +413,12 @@
       },
       {
         "district": "Maungdaw",
-        "active": 7,
-        "confirmed": 8,
+        "active": 8,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
