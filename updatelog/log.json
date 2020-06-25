@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Taunggyi, Shan\n1 new case in South Okkalapa, Yangon\n2 recoveries in Insein, Yangon\n1 recover in Thaketa, Yangon",
-    "timestamp": 1589897080
-  },
-  {
     "update": "1 new case in North Okkalapa, Yangon\n1 new case in Pabedan, Yangon\n1 new case in Thaketa, Yangon\n1 new case, 1 recover in Tamwe, Yangon\n1 new case in Mingalartaungnyunt, Yangon\n1 new case in Insein, Yangon\n1 recover in Bahan, Yangon\n1 recover in Mayangone, Yangon\n1 recover in Botahtaung, Yangon",
     "timestamp": 1589982758
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in South Okkalapa, Yangon\n1 recover in Insein, Yangon\n2 recoveries in Botahtaung, Yangon",
     "timestamp": 1593022342
+  },
+  {
+    "update": "1 recover in Dagon Myothit (South), Yangon\n1 recover in Sagaing, Sagaing\n1 recover in Thayet, Magway",
+    "timestamp": 1593093135
   }
 ]
