@@ -954,7 +954,7 @@
 			"active": 82,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 3,
 			"date": "25/06/2020",
 			"totalconfirmed": 293,
 			"totaldeceased": 6,
@@ -963,26 +963,26 @@
 	],
 	"statewise": [
 		{
-			"active": 79,
+			"active": 76,
 			"confirmed": 293,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 3,
 			"lastupdatedtime": "25/06/2020 20:23:00",
-			"recovered": 208,
+			"recovered": 211,
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": 2,
+			"active": 1,
 			"confirmed": 9,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 1,
 			"lastupdatedtime": "25/06/2020 20:23:00",
-			"recovered": 7,
+			"recovered": 8,
 			"state": "Sagaing",
 			"statecode": "MM-01"
 		},
@@ -999,14 +999,14 @@
 			"statecode": "MM-02"
 		},
 		{
-			"active": 1,
+			"active": 0,
 			"confirmed": 3,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 1,
 			"lastupdatedtime": "25/06/2020 20:23:00",
-			"recovered": 2,
+			"recovered": 3,
 			"state": "Magway",
 			"statecode": "MM-03"
 		},
@@ -1035,14 +1035,14 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 37,
+			"active": 36,
 			"confirmed": 204,
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 1,
 			"lastupdatedtime": "25/06/2020 20:23:00",
-			"recovered": 162,
+			"recovered": 163,
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},
