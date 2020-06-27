@@ -1,10 +1,6 @@
 [
   {
     "update": "1 recover in Tachileik, Shan\n1 recover in Tamwe, Yangon\n5 recoveries in Insein, Yangon",
-    "timestamp": 1590156763
-  },
-  {
-    "update": "1 recover in Tachileik, Shan\n1 recover in Tamwe, Yangon\n5 recoveries in Insein, Yangon",
     "timestamp": 1590157977
   },
   {
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in Dagon Myothit (South), Yangon\n1 recover in Sagaing, Sagaing\n1 recover in Thayet, Magway",
     "timestamp": 1593094977
+  },
+  {
+    "update": "1 recover in Kyauktan, Yangon\n2 recoveries in Hlaing, Yangon\n1 recover in Sagaing, Sagaing",
+    "timestamp": 1593237997
   }
 ]
