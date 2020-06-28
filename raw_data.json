@@ -7099,7 +7099,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012010",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -7774,7 +7774,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "25",
@@ -7801,7 +7801,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "23",
@@ -7828,7 +7828,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013042",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "30",
@@ -7855,7 +7855,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "38",
@@ -7882,7 +7882,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012001",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "22",
@@ -7909,7 +7909,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "15",
@@ -7936,7 +7936,7 @@
 			"statecode": "MM-13",
 			"status": "inpatient",
 			"townshipcode": "MMR003001",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "22",
@@ -7963,7 +7963,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "23",
@@ -7990,7 +7990,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		}
 	]
 }
