@@ -62,12 +62,12 @@
         }
       },
       "Yangon (West)": {
-        "active": 8,
-        "confirmed": 64,
+        "active": 10,
+        "confirmed": 66,
         "deceased": 2,
         "recovered": 54,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -343,12 +343,12 @@
         }
       },
       "Hpa-An": {
-        "active": 23,
-        "confirmed": 23,
+        "active": 24,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

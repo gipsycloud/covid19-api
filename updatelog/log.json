@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Tedim, Chin",
-    "timestamp": 1590211962
-  },
-  {
     "update": "2 recoveries in Insein, Yangon\n1 recover in Pyay, Bago\n1 recover in Mayangone, Yangon",
     "timestamp": 1590257642
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in Dagon Myothit (South), Yangon",
     "timestamp": 1593267157
+  },
+  {
+    "update": "1 new case in Hpa-An, Kayin\n2 new cases in Hlaing, Yangon",
+    "timestamp": 1593315162
   }
 ]
