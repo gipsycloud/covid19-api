@@ -1,10 +1,6 @@
 [
   {
     "update": "2 recoveries in Insein, Yangon\n1 recover in Pyay, Bago\n1 recover in Mayangone, Yangon",
-    "timestamp": 1590257642
-  },
-  {
-    "update": "2 recoveries in Insein, Yangon\n1 recover in Pyay, Bago\n1 recover in Mayangone, Yangon",
     "timestamp": 1590267447
   },
   {
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Hpa-An, Kayin\n2 new cases in Hlaing, Yangon",
     "timestamp": 1593315162
+  },
+  {
+    "update": "3 new cases in Hlaing, Yangon\n1 recover in Hsihseng, Shan\n1 recover in Maungdaw, Rakhine",
+    "timestamp": 1593353570
   }
 ]

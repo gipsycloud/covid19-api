@@ -62,12 +62,12 @@
         }
       },
       "Yangon (West)": {
-        "active": 10,
-        "confirmed": 66,
+        "active": 13,
+        "confirmed": 69,
         "deceased": 2,
         "recovered": 54,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -154,14 +154,14 @@
         }
       },
       "Taunggyi": {
-        "active": 1,
+        "active": 0,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Tachileik": {
@@ -370,14 +370,14 @@
         }
       },
       "Maungdaw": {
-        "active": 8,
+        "active": 7,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Sittwe": {

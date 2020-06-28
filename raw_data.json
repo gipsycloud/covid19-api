@@ -6591,7 +6591,7 @@
 		{
 			"agebracket": "30",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "09/06/2020",
 			"detectedcity": "Hsihseng",
 			"detectedcitymm": "ဆီဆိုင်",
@@ -6606,12 +6606,12 @@
 			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "245",
-			"recovereddate": "",
+			"recovereddate": "28/06/2020",
 			"region": "MM-17",
 			"source1": "https://mohs.gov.mm/page/10484",
-			"source2": "",
+			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3534871569875456?__xts__%5B0%5D=68.ARDnlvvRWkV3zU3EjcOrQJWv31c0nvKUWCksJlfT4KxLUFONYyyGKJJGHvbUY0TTBBS3DTLrAKFpPk6oL0jSdx6X_cyy_SD1H6xNFORjby0yBsU9Xztct3NaIQtNW-pTzh9oSEAOlbyQVqNoSF6vxjuCXOlJJ5pWAJ4GhSe-OWptcBsxqwf04X2Gy3iW5DkPm_Ff0OpUJ2lPqrc3h-s9lhIASLsU0PA_jB7BUDM6WpLNMMemhWZF2lWbHs6NTRZ2hantSnOTpXH1XGv4oggOLPXQ_DmeNfuouWnq5uybH8itoCm55mfcWSh2_ExjIVfjZYFDGEakZHz1XK-s8sDJUjIUkg&__tn__=-R",
 			"statecode": "MM-17",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR014004",
 			"typeoftransmission": "Local"
 		},
@@ -6645,7 +6645,7 @@
 		{
 			"agebracket": "46",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "10/06/2020",
 			"detectedcity": "Maungdaw",
 			"detectedcitymm": "မောင်တော",
@@ -6660,12 +6660,12 @@
 			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "247",
-			"recovereddate": "",
+			"recovereddate": "28/06/2020",
 			"region": "MM-16",
 			"source1": "https://m.facebook.com/story.php?story_fbid=3482311878464759&id=199295433433103",
-			"source2": "",
+			"source2": "https://www.facebook.com/MinistryOfHealthAndSportsMyanmar/posts/3534871569875456?__xts__%5B0%5D=68.ARDnlvvRWkV3zU3EjcOrQJWv31c0nvKUWCksJlfT4KxLUFONYyyGKJJGHvbUY0TTBBS3DTLrAKFpPk6oL0jSdx6X_cyy_SD1H6xNFORjby0yBsU9Xztct3NaIQtNW-pTzh9oSEAOlbyQVqNoSF6vxjuCXOlJJ5pWAJ4GhSe-OWptcBsxqwf04X2Gy3iW5DkPm_Ff0OpUJ2lPqrc3h-s9lhIASLsU0PA_jB7BUDM6WpLNMMemhWZF2lWbHs6NTRZ2hantSnOTpXH1XGv4oggOLPXQ_DmeNfuouWnq5uybH8itoCm55mfcWSh2_ExjIVfjZYFDGEakZHz1XK-s8sDJUjIUkg&__tn__=-R",
 			"statecode": "MM-16",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR012009",
 			"typeoftransmission": "Imported"
 		},
@@ -7099,7 +7099,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012010",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -7774,7 +7774,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "25",
@@ -7801,7 +7801,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "23",
@@ -7828,7 +7828,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013042",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "30",
@@ -7855,7 +7855,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "38",
@@ -7882,7 +7882,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012001",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "22",
@@ -7909,7 +7909,7 @@
 			"statecode": "MM-16",
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "15",
@@ -7936,7 +7936,7 @@
 			"statecode": "MM-13",
 			"status": "inpatient",
 			"townshipcode": "MMR003001",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "22",
@@ -7963,7 +7963,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "23",
@@ -7990,7 +7990,88 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "24",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "28/06/2020",
+			"detectedcity": "Hlaing",
+			"detectedcitymm": "လှိုင်",
+			"detecteddistrict": "Yangon (West)",
+			"detectedstate": "Yangon",
+			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaing",
+			"dischargeddeceaseddate": "",
+			"gender": "M",
+			"hospitalname": "Military Liver Specialst Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "297",
+			"recovereddate": "",
+			"region": "MM-06",
+			"source1": "",
+			"source2": "",
+			"statecode": "MM-06",
+			"status": "inpatient",
+			"townshipcode": "MMR013040",
+			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "24",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "28/06/2020",
+			"detectedcity": "Hlaing",
+			"detectedcitymm": "လှိုင်",
+			"detecteddistrict": "Yangon (West)",
+			"detectedstate": "Yangon",
+			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaing",
+			"dischargeddeceaseddate": "",
+			"gender": "M",
+			"hospitalname": "Military Liver Specialst Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "298",
+			"recovereddate": "",
+			"region": "MM-06",
+			"source1": "",
+			"source2": "",
+			"statecode": "MM-06",
+			"status": "inpatient",
+			"townshipcode": "MMR013040",
+			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "23",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "28/06/2020",
+			"detectedcity": "Hlaing",
+			"detectedcitymm": "လှိုင်",
+			"detecteddistrict": "Yangon (West)",
+			"detectedstate": "Yangon",
+			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaing",
+			"dischargeddeceaseddate": "",
+			"gender": "M",
+			"hospitalname": "Military Liver Specialst Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "299",
+			"recovereddate": "",
+			"region": "MM-06",
+			"source1": "",
+			"source2": "",
+			"statecode": "MM-06",
+			"status": "inpatient",
+			"townshipcode": "MMR013040",
+			"typeoftransmission": "Imported"
 		}
 	]
 }
