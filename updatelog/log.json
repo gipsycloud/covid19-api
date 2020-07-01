@@ -1,10 +1,6 @@
 [
   {
     "update": "2 recoveries in Insein, Yangon\n1 recover in Pyay, Bago\n1 recover in Mayangone, Yangon",
-    "timestamp": 1590288155
-  },
-  {
-    "update": "2 recoveries in Insein, Yangon\n1 recover in Pyay, Bago\n1 recover in Mayangone, Yangon",
     "timestamp": 1590295365
   },
   {
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in Thantlang, Chin\n2 recoveries in Tedim, Chin",
     "timestamp": 1593489154
+  },
+  {
+    "update": "1 recover in Momauk, Kachin",
+    "timestamp": 1593573739
   }
 ]
