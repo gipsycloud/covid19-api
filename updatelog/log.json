@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Hlaing, Yangon\n1 new case in Dagon Myothit (North), Yangon\n1 recover in Tamwe, Yangon",
-    "timestamp": 1590422771
-  },
-  {
     "update": "3 new cases in Dagon Myothit (North), Yangon\n1 recover in South Okkalapa, Yangon",
     "timestamp": 1590505998
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Bago, Bago",
     "timestamp": 1593660747
+  },
+  {
+    "update": "1 recover in Dagon Myothit (North), Yangon",
+    "timestamp": 1593698805
   }
 ]
