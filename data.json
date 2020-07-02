@@ -1029,6 +1029,16 @@
 			"totalconfirmed": 304,
 			"totaldeceased": 6,
 			"totalrecovered": 219
+		},
+		{
+			"active": 78,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "03/07/2020",
+			"totalconfirmed": 304,
+			"totaldeceased": 6,
+			"totalrecovered": 220
 		}
 	],
 	"statewise": [
@@ -1038,7 +1048,7 @@
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "02/07/2020 22:27:22",
 			"recovered": 223,
 			"state": "Total",
@@ -1110,7 +1120,7 @@
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "02/07/2020 22:27:22",
 			"recovered": 168,
 			"state": "Yangon",
