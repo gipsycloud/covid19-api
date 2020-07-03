@@ -1032,9 +1032,9 @@
 		},
 		{
 			"active": 78,
-			"dailyconfirmed": 0,
+			"dailyconfirmed": 2,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 14,
 			"date": "03/07/2020",
 			"totalconfirmed": 304,
 			"totaldeceased": 6,
@@ -1043,14 +1043,14 @@
 	],
 	"statewise": [
 		{
-			"active": 75,
-			"confirmed": 304,
+			"active": 63,
+			"confirmed": 306,
 			"deaths": 6,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 2,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 14,
 			"lastupdatedtime": "03/07/2020 20:37:54",
-			"recovered": 223,
+			"recovered": 237,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1115,14 +1115,14 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 40,
-			"confirmed": 213,
+			"active": 41,
+			"confirmed": 215,
 			"deaths": 5,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 2,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 1,
 			"lastupdatedtime": "03/07/2020 20:37:54",
-			"recovered": 168,
+			"recovered": 169,
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},
@@ -1163,14 +1163,14 @@
 			"statecode": "MM-12"
 		},
 		{
-			"active": 24,
+			"active": 13,
 			"confirmed": 26,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 11,
 			"lastupdatedtime": "03/07/2020 20:37:54",
-			"recovered": 2,
+			"recovered": 13,
 			"state": "Kayin",
 			"statecode": "MM-13"
 		},
@@ -1187,26 +1187,26 @@
 			"statecode": "MM-14"
 		},
 		{
-			"active": 1,
+			"active": 0,
 			"confirmed": 2,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 1,
 			"lastupdatedtime": "03/07/2020 20:37:54",
-			"recovered": 1,
+			"recovered": 2,
 			"state": "Mon",
 			"statecode": "MM-15"
 		},
 		{
-			"active": 8,
+			"active": 7,
 			"confirmed": 12,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 1,
 			"lastupdatedtime": "03/07/2020 20:37:54",
-			"recovered": 4,
+			"recovered": 5,
 			"state": "Rakhine",
 			"statecode": "MM-16"
 		},

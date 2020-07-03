@@ -59,24 +59,24 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 25,
+        "active": 24,
         "confirmed": 78,
         "deceased": 3,
-        "recovered": 50,
+        "recovered": 51,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Yangon (West)",
-        "active": 13,
-        "confirmed": 69,
+        "active": 15,
+        "confirmed": 71,
         "deceased": 2,
         "recovered": 54,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -245,14 +245,14 @@
     "districtData": [
       {
         "district": "Mawlamyine",
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
@@ -383,14 +383,14 @@
       },
       {
         "district": "Hpa-An",
-        "active": 24,
+        "active": 13,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       }
     ]
@@ -413,14 +413,14 @@
       },
       {
         "district": "Maungdaw",
-        "active": 7,
+        "active": 6,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
