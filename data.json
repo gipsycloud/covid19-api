@@ -1054,33 +1054,33 @@
 			"active": 70,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 1,
 			"date": "05/07/2020",
 			"totalconfirmed": 313,
 			"totaldeceased": 6,
 			"totalrecovered": 237
 		},
 		{
-			"active": 70,
+			"active": 69,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "06/07/2020",
 			"totalconfirmed": 313,
 			"totaldeceased": 6,
-			"totalrecovered": 237
+			"totalrecovered": 238
 		}
 	],
 	"statewise": [
 		{
-			"active": 67,
+			"active": 66,
 			"confirmed": 313,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "05/07/2020 23:33:26",
-			"recovered": 240,
+			"recovered": 241,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1205,14 +1205,14 @@
 			"statecode": "MM-13"
 		},
 		{
-			"active": 1,
+			"active": 0,
 			"confirmed": 10,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "05/07/2020 23:33:26",
-			"recovered": 9,
+			"recovered": 10,
 			"state": "Chin",
 			"statecode": "MM-14"
 		},

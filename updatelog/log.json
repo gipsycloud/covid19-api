@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Pathein, Ayeyarwady\n1 recover in Tedim, Chin\n1 recover in Dagon, Yangon\n1 recover in Sagaing, Sagaing\n1 recover in Insein, Yangon",
-    "timestamp": 1590762766
-  },
-  {
     "update": "1 new case in Botahtaung, Yangon\n8 new cases in Mingalartaungnyunt, Yangon\n3 new cases in Tamwe, Yangon\n2 new cases in Pabedan, Yangon\n1 new case in Ahlone, Yangon\n2 new cases in Taungtha, Mandalay",
     "timestamp": 1590802959
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case, 1 recover in Hlaing, Yangon\n5 new cases in Kamaryut, Yangon\n1 new case, 1 recover in Mayangone, Yangon\n1 recover in Dagon Myothit (South), Yangon",
     "timestamp": 1593872096
+  },
+  {
+    "update": "1 recover in Mindat, Chin",
+    "timestamp": 1593976435
   }
 ]
