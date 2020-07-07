@@ -8206,7 +8206,7 @@
 			"statecode": "MM-02",
 			"status": "inpatient",
 			"townshipcode": "MMR007001",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "24",
@@ -8305,7 +8305,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "သင်္ယန်းကျွန်းတွင် နေထိုင်သူ",
 			"patientnumber": "308",
 			"recovereddate": "",
 			"region": "MM-06",
@@ -8332,7 +8332,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "သင်္ယန်းကျွန်းတွင် နေထိုင်သူ",
 			"patientnumber": "309",
 			"recovereddate": "",
 			"region": "MM-06",
@@ -8359,7 +8359,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "အင်းစိန်တွင်နေထိုင်သူ",
 			"patientnumber": "310",
 			"recovereddate": "",
 			"region": "MM-06",
@@ -8386,7 +8386,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "တိုက်ကြီးမြို့တွင် နေထိုင်သူ",
 			"patientnumber": "311",
 			"recovereddate": "",
 			"region": "MM-06",
@@ -8413,7 +8413,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "တိုက်ကြီးမြို့တွင် နေထိုင်သူ",
 			"patientnumber": "312",
 			"recovereddate": "",
 			"region": "MM-06",
@@ -8440,7 +8440,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "တောင်ဥက္ကလာတွင်နေထိုင်သူ",
 			"patientnumber": "313",
 			"recovereddate": "",
 			"region": "MM-06",
@@ -8467,7 +8467,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "တာမွေတွင်နေထိုင်သူ",
 			"patientnumber": "314",
 			"recovereddate": "",
 			"region": "MM-06",
@@ -8476,7 +8476,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "39",
@@ -8494,7 +8494,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "တောင်ဒဂုံတွင်နေထိုင်သူ",
 			"patientnumber": "315",
 			"recovereddate": "",
 			"region": "MM-06",
@@ -8503,7 +8503,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "29",
@@ -8521,7 +8521,7 @@
 			"hospitalname": "South Okalar Women and Children hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "",
+			"notes": "စမ်းချောင်းတွင်နေထိုင်သူ",
 			"patientnumber": "316",
 			"recovereddate": "",
 			"region": "MM-06",
@@ -8530,7 +8530,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		}
 	]
 }
