@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 new cases, 1 recover in Hlaing, Yangon\n1 recover in Shwepyithar, Yangon\n1 recover in Monghpyak, Shan\n1 recover in South Okkalapa, Yangon\n1 recover in Insein, Yangon\n2 recoveries in Mayangone, Yangon\n1 recover in Pazundaung, Yangon",
-    "timestamp": 1590981144
-  },
-  {
     "update": "1 new case in Mingaladon, Yangon\n1 new case in Ywangan, Shan\n1 new case in Muse, Shan\n1 new case in Mindat, Chin\n1 recover in Botahtaung, Yangon\n1 recover in South Okkalapa, Yangon\n1 recover in Ahlone, Yangon\n1 recover in Tanintharyi, Tanintharyi\n1 recover in Kawkareik, Kayin",
     "timestamp": 1591107790
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases in Kamaryut, Yangon\n2 recoveries in Botahtaung, Yangon\n1 recover in Buthidaung, Rakhine\n1 recover in Sittwe, Rakhine",
     "timestamp": 1594046559
+  },
+  {
+    "update": "1 new case in Mayangone, Yangon\n1 recover in Dagon Myothit (South), Yangon\n1 recover in Botahtaung, Yangon\n3 recoveries in Hpa-An, Kayin",
+    "timestamp": 1594222947
   }
 ]

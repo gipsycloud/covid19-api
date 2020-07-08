@@ -51,23 +51,23 @@
         }
       },
       "Yangon (East)": {
-        "active": 21,
+        "active": 19,
         "confirmed": 78,
         "deceased": 3,
-        "recovered": 54,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Yangon (West)": {
-        "active": 23,
-        "confirmed": 81,
-        "deceased": 2,
         "recovered": 56,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 2
+        }
+      },
+      "Yangon (West)": {
+        "active": 24,
+        "confirmed": 82,
+        "deceased": 2,
+        "recovered": 56,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -343,14 +343,14 @@
         }
       },
       "Hpa-An": {
-        "active": 13,
+        "active": 10,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       }
     },
