@@ -8558,6 +8558,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR013042",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "6",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "09/07/2020",
+			"detectedcity": "Tonzang",
+			"detectedcitymm": "တွန်းဇန်",
+			"detecteddistrict": "Falam",
+			"detectedstate": "Chin",
+			"detectedsubstate": "Chin",
+			"detectedtownship": "Tonzang",
+			"dischargeddeceaseddate": "",
+			"gender": "M",
+			"hospitalname": "Tedim Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "318",
+			"recovereddate": "",
+			"region": "MM-14",
+			"source1": "https://www.facebook.com/199295433433103/posts/3565466840149262/",
+			"source2": "",
+			"statecode": "MM-14",
+			"status": "inpatient",
+			"townshipcode": "MMR004005",
+			"typeoftransmission": "Imported"
 		}
 	]
 }

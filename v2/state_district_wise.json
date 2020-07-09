@@ -5,12 +5,12 @@
     "districtData": [
       {
         "district": "Falam",
-        "active": 0,
-        "confirmed": 7,
+        "active": 1,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
