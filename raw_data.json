@@ -8611,7 +8611,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013002",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		}
 	]
 }
