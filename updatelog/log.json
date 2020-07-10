@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Magway, Magway\n1 recover in Pathein, Ayeyarwady",
-    "timestamp": 1591195950
-  },
-  {
     "update": "1 new case in Maungdaw, Rakhine",
     "timestamp": 1591265189
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Mingaladon, Yangon\n1 recover in Bahan, Yangon\n1 recover in Dagon Myothit (South), Yangon\n2 recoveries in Hpa-An, Kayin",
     "timestamp": 1594302148
+  },
+  {
+    "update": "2 new cases in Mingaladon, Yangon",
+    "timestamp": 1594347381
   }
 ]
