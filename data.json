@@ -1129,6 +1129,16 @@
 			"totalconfirmed": 330,
 			"totaldeceased": 6,
 			"totalrecovered": 257
+		},
+		{
+			"active": 67,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "13/07/2020",
+			"totalconfirmed": 331,
+			"totaldeceased": 6,
+			"totalrecovered": 258
 		}
 	],
 	"statewise": [
@@ -1136,9 +1146,9 @@
 			"active": 64,
 			"confirmed": 331,
 			"deaths": 6,
-			"deltaconfirmed": 1,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "12/07/2020 22:23:29",
 			"recovered": 261,
 			"state": "Total",
@@ -1208,7 +1218,7 @@
 			"active": 52,
 			"confirmed": 237,
 			"deaths": 5,
-			"deltaconfirmed": 1,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "12/07/2020 22:23:29",
@@ -1294,7 +1304,7 @@
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "12/07/2020 22:23:29",
 			"recovered": 9,
 			"state": "Rakhine",
