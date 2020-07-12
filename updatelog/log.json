@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 recoveries in Insein, Yangon",
-    "timestamp": 1591369935
-  },
-  {
     "update": "4 new cases in Dagon Myothit (North), Yangon",
     "timestamp": 1591451575
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Hlegu, Yangon\n3 new cases, 2 recoveries in Hlaing, Yangon\n1 recover in Hpa-An, Kayin\n1 recover in Maungdaw, Rakhine",
     "timestamp": 1594505665
+  },
+  {
+    "update": "1 new case in Mingaladon, Yangon\n1 recover in Maungdaw, Rakhine",
+    "timestamp": 1594568553
   }
 ]

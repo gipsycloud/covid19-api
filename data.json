@@ -1122,9 +1122,9 @@
 		},
 		{
 			"active": 67,
-			"dailyconfirmed": 0,
+			"dailyconfirmed": 1,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 1,
 			"date": "12/07/2020",
 			"totalconfirmed": 330,
 			"totaldeceased": 6,
@@ -1134,13 +1134,13 @@
 	"statewise": [
 		{
 			"active": 64,
-			"confirmed": 330,
+			"confirmed": 331,
 			"deaths": 6,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 1,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 1,
 			"lastupdatedtime": "12/07/2020 20:15:50",
-			"recovered": 260,
+			"recovered": 261,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1205,10 +1205,10 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 51,
-			"confirmed": 236,
+			"active": 52,
+			"confirmed": 237,
 			"deaths": 5,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 1,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "12/07/2020 20:15:50",
@@ -1289,14 +1289,14 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 6,
+			"active": 5,
 			"confirmed": 14,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 0,
+			"deltarecovered": 1,
 			"lastupdatedtime": "12/07/2020 20:15:50",
-			"recovered": 8,
+			"recovered": 9,
 			"state": "Rakhine",
 			"statecode": "MM-16"
 		},
