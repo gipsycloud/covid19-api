@@ -9071,6 +9071,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "37",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "14/07/2020",
+			"detectedcity": "Hlaing",
+			"detectedcitymm": "လှိုင်",
+			"detecteddistrict": "Yangon (West)",
+			"detectedstate": "Yangon",
+			"detectedsubstate": "Yangon",
+			"detectedtownship": "Hlaing",
+			"dischargeddeceaseddate": "",
+			"gender": "F",
+			"hospitalname": "Wai Bar Gi Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "ရန်ကုန်တိုင်း ၊ ဆိပ်ကြီးခနောင်တိုမြို့နယ်တွင်နေသူ",
+			"patientnumber": "337",
+			"recovereddate": "",
+			"region": "MM-06",
+			"source1": "https://www.mohs.gov.mm/page/11295",
+			"source2": "",
+			"statecode": "MM-06",
+			"status": "inpatient",
+			"townshipcode": "MMR013040",
+			"typeoftransmission": "Local"
 		}
 	]
 }

@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Tamwe, Yangon\n1 new case in Thayet, Magway",
-    "timestamp": 1591537362
-  },
-  {
     "update": "1 new case in Hlaing, Yangon",
     "timestamp": 1591593155
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 new cases in Kamaryut, Yangon",
     "timestamp": 1594652771
+  },
+  {
+    "update": "1 new case in Hlaing, Yangon",
+    "timestamp": 1594741950
   }
 ]
