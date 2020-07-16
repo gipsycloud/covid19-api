@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Hsihseng, Shan\n1 new case in Hlaing, Yangon",
-    "timestamp": 1591710139
-  },
-  {
     "update": "2 recoveries in Tedim, Chin\n2 recoveries in Insein, Yangon\n1 recover in Kamaryut, Yangon",
     "timestamp": 1591796555
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Hpa-An, Kayin\n1 recover in Dagon Myothit (South), Yangon\n1 recover in Hlegu, Yangon\n1 recover in Bago, Bago",
     "timestamp": 1594878753
+  },
+  {
+    "update": "1 new case in Amarapura, Mandalay\n1 new case in Kyauktaw, Rakhine\n4 recoveries in Hlaing, Yangon",
+    "timestamp": 1594908993
   }
 ]

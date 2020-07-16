@@ -71,14 +71,14 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 33,
+        "active": 29,
         "confirmed": 94,
         "deceased": 2,
-        "recovered": 59,
+        "recovered": 63,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -101,12 +101,12 @@
     "districtData": [
       {
         "district": "Mandalay",
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -431,6 +431,18 @@
         "recovered": 1,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Mrauk-U",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
