@@ -7131,7 +7131,7 @@
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "19/06/2020",
 			"detectedcity": "Hpa-An",
 			"detectedcitymm": "ဘားအံ",
@@ -7146,12 +7146,12 @@
 			"nationality": "myanmar",
 			"notes": "ကော့ကရိတ်",
 			"patientnumber": "265",
-			"recovereddate": "",
+			"recovereddate": "15/07/2020",
 			"region": "MM-13",
 			"source1": "https://mohs.gov.mm/page/10683",
-			"source2": "",
+			"source2": "https://mohs.gov.mm/page/11319",
 			"statecode": "MM-13",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR003001",
 			"typeoftransmission": "Imported"
 		},
@@ -7914,7 +7914,7 @@
 		{
 			"agebracket": "15",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "28/06/2020",
 			"detectedcity": "Hpa-An",
 			"detectedcitymm": "ဘားအံ",
@@ -7929,12 +7929,12 @@
 			"nationality": "myanmar",
 			"notes": "တနင်္သာရီ တိုင်းဒေသကြီး သရက်ချောင်းတွင် နေထိုင်သူ",
 			"patientnumber": "294",
-			"recovereddate": "",
+			"recovereddate": "15/07/2020",
 			"region": "MM-13",
 			"source1": "https://www.mohs.gov.mm/page/10873",
-			"source2": "",
+			"source2": "https://mohs.gov.mm/page/11319",
 			"statecode": "MM-13",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR003001",
 			"typeoftransmission": "Imported"
 		},
@@ -8103,7 +8103,7 @@
 		{
 			"agebracket": "24",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "01/07/2020",
 			"detectedcity": "Dagon Myothit (South)",
 			"detectedcitymm": "ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
@@ -8118,19 +8118,19 @@
 			"nationality": "myanmar",
 			"notes": "ခရမ်းမြို့တွင်နေထိုင်သူ",
 			"patientnumber": "301",
-			"recovereddate": "",
+			"recovereddate": "15/07/2020",
 			"region": "MM-06",
 			"source1": "https://www.mohs.gov.mm/page/10969",
-			"source2": "",
+			"source2": "https://mohs.gov.mm/page/11319",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013018",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "28",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "01/07/2020",
 			"detectedcity": "Hlegu",
 			"detectedcitymm": "လှည်းကူး",
@@ -8145,12 +8145,12 @@
 			"nationality": "myanmar",
 			"notes": "သာကေတမြို့တွင်နေထိုင်သူ",
 			"patientnumber": "302",
-			"recovereddate": "",
+			"recovereddate": "15/07/2020",
 			"region": "MM-06",
 			"source1": "https://www.mohs.gov.mm/page/10969",
-			"source2": "",
+			"source2": "https://mohs.gov.mm/page/11319",
 			"statecode": "MM-06",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR013004",
 			"typeoftransmission": "Imported"
 		},
@@ -8184,7 +8184,7 @@
 		{
 			"agebracket": "18",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "01/07/2020",
 			"detectedcity": "Bago",
 			"detectedcitymm": "ပဲခူး",
@@ -8199,12 +8199,12 @@
 			"nationality": "myanmar",
 			"notes": "",
 			"patientnumber": "304",
-			"recovereddate": "",
+			"recovereddate": "15/07/2020",
 			"region": "MM-02",
 			"source1": "https://www.mohs.gov.mm/page/10979",
-			"source2": "",
+			"source2": "https://mohs.gov.mm/page/11319",
 			"statecode": "MM-02",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR007001",
 			"typeoftransmission": "Imported"
 		},
@@ -8827,7 +8827,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013004",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "23",
@@ -8854,7 +8854,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "23",
@@ -8881,7 +8881,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "22",
@@ -8908,7 +8908,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "40",
@@ -8935,7 +8935,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013002",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "36",
@@ -8962,7 +8962,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "20",
@@ -8989,7 +8989,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "26",
@@ -9016,7 +9016,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "26",
@@ -9043,7 +9043,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "37",
@@ -9070,7 +9070,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "37",
@@ -9097,7 +9097,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		}
 	]
 }
