@@ -40,10 +40,10 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 6,
+        "active": 7,
         "confirmed": 70,
         "deceased": 0,
-        "recovered": 64,
+        "recovered": 63,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -51,10 +51,10 @@
         }
       },
       "Yangon (East)": {
-        "active": 17,
+        "active": 18,
         "confirmed": 78,
         "deceased": 3,
-        "recovered": 58,
+        "recovered": 57,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -203,10 +203,10 @@
         }
       },
       "Bago": {
-        "active": 0,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -343,10 +343,10 @@
         }
       },
       "Hpa-An": {
-        "active": 3,
+        "active": 5,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 21,
+        "recovered": 19,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
