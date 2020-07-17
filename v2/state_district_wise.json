@@ -383,10 +383,10 @@
       },
       {
         "district": "Hpa-An",
-        "active": 3,
+        "active": 2,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 21,
+        "recovered": 22,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

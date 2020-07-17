@@ -1174,23 +1174,33 @@
 			"active": 66,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 1,
 			"date": "17/07/2020",
 			"totalconfirmed": 339,
 			"totaldeceased": 6,
 			"totalrecovered": 267
+		},
+		{
+			"active": 65,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "18/07/2020",
+			"totalconfirmed": 339,
+			"totaldeceased": 6,
+			"totalrecovered": 268
 		}
 	],
 	"statewise": [
 		{
-			"active": 63,
+			"active": 62,
 			"confirmed": 339,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "17/07/2020 21:37:18",
-			"recovered": 270,
+			"recovered": 271,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1303,14 +1313,14 @@
 			"statecode": "MM-12"
 		},
 		{
-			"active": 3,
+			"active": 2,
 			"confirmed": 26,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "17/07/2020 21:37:18",
-			"recovered": 23,
+			"recovered": 24,
 			"state": "Kayin",
 			"statecode": "MM-13"
 		},

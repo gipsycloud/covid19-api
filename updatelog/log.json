@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Tedim, Chin\n2 recoveries in Insein, Yangon\n1 recover in Kamaryut, Yangon",
-    "timestamp": 1591796555
-  },
-  {
     "update": "1 recover in Insein, Yangon",
     "timestamp": 1591797168
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Amarapura, Mandalay\n1 new case in Kyauktaw, Rakhine\n4 recoveries in Hlaing, Yangon",
     "timestamp": 1594908993
+  },
+  {
+    "update": "1 recover in Hpa-An, Kayin",
+    "timestamp": 1595007133
   }
 ]
