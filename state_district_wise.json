@@ -2,12 +2,12 @@
   "Chin": {
     "districtData": {
       "Falam": {
-        "active": 1,
-        "confirmed": 8,
+        "active": 2,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

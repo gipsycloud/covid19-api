@@ -9179,6 +9179,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR013042",
 			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "54",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "19/07/2020",
+			"detectedcity": "Tedim",
+			"detectedcitymm": "တီးတိန်",
+			"detecteddistrict": "Falam",
+			"detectedstate": "Chin",
+			"detectedsubstate": "Chin",
+			"detectedtownship": "Tedim",
+			"dischargeddeceaseddate": "",
+			"gender": "F",
+			"hospitalname": "Tedim Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "ချင်းပြည်နယ် ၊ တွန်းဇံတွင် နေထိုင်သူ",
+			"patientnumber": "341",
+			"recovereddate": "",
+			"region": "MM-14",
+			"source1": "https://www.mohs.gov.mm/page/11391",
+			"source2": "",
+			"statecode": "MM-14",
+			"status": "inpatient",
+			"townshipcode": "MMR004004",
+			"typeoftransmission": "Imported"
 		}
 	]
 }

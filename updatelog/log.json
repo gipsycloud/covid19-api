@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Maungdaw, Rakhine",
-    "timestamp": 1591804370
-  },
-  {
     "update": "1 new case in Momauk, Kachin",
     "timestamp": 1591841545
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case, 1 recover in Mayangone, Yangon\n1 recover in Kamaryut, Yangon",
     "timestamp": 1595085294
+  },
+  {
+    "update": "1 new case in Tedim, Chin",
+    "timestamp": 1595147002
   }
 ]
