@@ -1204,33 +1204,33 @@
 			"active": 62,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 2,
 			"date": "20/07/2020",
 			"totalconfirmed": 341,
 			"totaldeceased": 6,
 			"totalrecovered": 273
 		},
 		{
-			"active": 62,
+			"active": 60,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "21/07/2020",
 			"totalconfirmed": 341,
 			"totaldeceased": 6,
-			"totalrecovered": 273
+			"totalrecovered": 275
 		}
 	],
 	"statewise": [
 		{
-			"active": 59,
+			"active": 57,
 			"confirmed": 341,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "21/07/2020 15:31:08",
-			"recovered": 276,
+			"recovered": 278,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1295,14 +1295,14 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 49,
+			"active": 48,
 			"confirmed": 244,
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "21/07/2020 15:31:08",
-			"recovered": 190,
+			"recovered": 191,
 			"state": "Yangon",
 			"statecode": "MM-06"
 		},
@@ -1379,14 +1379,14 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 5,
+			"active": 4,
 			"confirmed": 15,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "21/07/2020 15:31:08",
-			"recovered": 10,
+			"recovered": 11,
 			"state": "Rakhine",
 			"statecode": "MM-16"
 		},

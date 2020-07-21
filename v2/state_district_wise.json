@@ -71,10 +71,10 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 28,
+        "active": 27,
         "confirmed": 95,
         "deceased": 2,
-        "recovered": 65,
+        "recovered": 66,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -413,10 +413,10 @@
       },
       {
         "district": "Maungdaw",
-        "active": 4,
+        "active": 3,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

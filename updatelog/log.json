@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Buthidaung, Rakhine\n1 new case in Dagon Myothit (South), Yangon\n9 new cases in Botahtaung, Yangon",
-    "timestamp": 1591892550
-  },
-  {
     "update": "1 new case in Dagon Myothit (South), Yangon",
     "timestamp": 1591938293
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in Dagon Myothit (North), Yangon\n1 recover in Dagon Myothit (South), Yangon\n1 recover in Maungdaw, Rakhine",
     "timestamp": 1595172141
+  },
+  {
+    "update": "1 recover in Buthidaung, Rakhine\n1 recover in Kamaryut, Yangon",
+    "timestamp": 1595325144
   }
 ]
