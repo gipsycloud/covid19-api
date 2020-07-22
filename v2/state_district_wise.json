@@ -52,7 +52,7 @@
         "deceased": 0,
         "recovered": 64,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }

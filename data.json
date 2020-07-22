@@ -1229,6 +1229,16 @@
 			"totalconfirmed": 341,
 			"totaldeceased": 6,
 			"totalrecovered": 275
+		},
+		{
+			"active": 62,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "23/07/2020",
+			"totalconfirmed": 343,
+			"totaldeceased": 6,
+			"totalrecovered": 275
 		}
 	],
 	"statewise": [
@@ -1236,7 +1246,7 @@
 			"active": 59,
 			"confirmed": 343,
 			"deaths": 6,
-			"deltaconfirmed": 2,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "22/07/2020 21:22:29",
@@ -1308,7 +1318,7 @@
 			"active": 50,
 			"confirmed": 246,
 			"deaths": 5,
-			"deltaconfirmed": 2,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "22/07/2020 21:22:29",
