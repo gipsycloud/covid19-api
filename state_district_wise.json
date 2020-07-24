@@ -62,14 +62,14 @@
         }
       },
       "Yangon (West)": {
-        "active": 27,
+        "active": 22,
         "confirmed": 95,
         "deceased": 2,
-        "recovered": 66,
+        "recovered": 71,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Yangon (South)": {
@@ -370,14 +370,14 @@
         }
       },
       "Maungdaw": {
-        "active": 3,
+        "active": 2,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Sittwe": {

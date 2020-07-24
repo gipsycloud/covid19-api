@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Hlaing, Yangon\n1 recover in Pathein, Ayeyarwady",
-    "timestamp": 1592086464
-  },
-  {
     "update": "1 new case in Buthidaung, Rakhine",
     "timestamp": 1592194345
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Insein, Yangon\n1 new case in Insein, ",
     "timestamp": 1595429610
+  },
+  {
+    "update": "2 new cases in Tonzang, \n1 new case in Myawaddy, \n1 recover in Maungdaw, Rakhine\n3 recoveries in Hlaing, Yangon",
+    "timestamp": 1595600615
   }
 ]
