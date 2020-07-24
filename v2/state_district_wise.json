@@ -5,12 +5,12 @@
     "districtData": [
       {
         "district": "Falam",
-        "active": 2,
-        "confirmed": 9,
+        "active": 4,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -389,6 +389,18 @@
         "recovered": 22,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Myawaddy",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
