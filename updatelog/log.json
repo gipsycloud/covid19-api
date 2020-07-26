@@ -1,10 +1,6 @@
 [
   {
     "update": "1 recover in Mayangone, Yangon\n4 recoveries in Insein, Yangon\n1 recover in Nyaunglebin, Bago",
-    "timestamp": 1592409154
-  },
-  {
-    "update": "1 recover in Mayangone, Yangon\n4 recoveries in Insein, Yangon\n1 recover in Nyaunglebin, Bago",
     "timestamp": 1592424799
   },
   {
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Myawaddy, Kayin",
     "timestamp": 1595730300
+  },
+  {
+    "update": "1 new case in Mingaladon, Yangon\n1 recover in Mayangone, Yangon\n1 recover in Maungdaw, Rakhine",
+    "timestamp": 1595772989
   }
 ]
