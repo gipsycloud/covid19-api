@@ -9395,6 +9395,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR012009",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "24",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "25/07/2020",
+			"detectedcity": "Myawaddy",
+			"detectedcitymm": "မြဝတီ",
+			"detecteddistrict": "Myawaddy",
+			"detectedstate": "Kayin",
+			"detectedsubstate": "Kayin",
+			"detectedtownship": "Myawaddy",
+			"dischargeddeceaseddate": "",
+			"gender": "F",
+			"hospitalname": "Hpa-An General Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "ကရင်ပြည်နယ် ကောာ့ကရိတ်တွင်နေထိုင်သူ",
+			"patientnumber": "349",
+			"recovereddate": "",
+			"region": "MM-13",
+			"source1": "https://www.mohs.gov.mm/page/11539",
+			"source2": "",
+			"statecode": "MM-13",
+			"status": "inpatient",
+			"townshipcode": "MMR003005",
+			"typeoftransmission": "Local"
 		}
 	]
 }

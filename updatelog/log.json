@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Tedim, Chin\n1 recover in Tamwe, Yangon\n1 recover in Thandwe, Rakhine\n1 recover in Mingaladon, Yangon",
-    "timestamp": 1592314972
-  },
-  {
     "update": "1 recover in Mayangone, Yangon\n4 recoveries in Insein, Yangon\n1 recover in Nyaunglebin, Bago",
     "timestamp": 1592409154
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case, 1 recover in Bahan, Yangon\n1 new case in Maungdaw, Rakhine\n1 recover in Tonzang, Chin",
     "timestamp": 1595691765
+  },
+  {
+    "update": "1 new case in Myawaddy, Kayin",
+    "timestamp": 1595730300
   }
 ]
