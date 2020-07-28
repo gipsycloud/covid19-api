@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Buthidaung, Rakhine",
-    "timestamp": 1592448156
-  },
-  {
     "update": "1 recover in Pabedan, Yangon\n1 recover in Muse, Shan",
     "timestamp": 1592487772
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in Kamaryut, Yangon\n1 recover in Amarapura, Mandalay",
     "timestamp": 1595910790
+  },
+  {
+    "update": "1 recover in Mingaladon, Yangon",
+    "timestamp": 1595964150
   }
 ]
