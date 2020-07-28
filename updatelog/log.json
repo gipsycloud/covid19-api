@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Mayangone, Yangon\n4 recoveries in Insein, Yangon\n1 recover in Nyaunglebin, Bago",
-    "timestamp": 1592428942
-  },
-  {
     "update": "1 new case in Buthidaung, Rakhine",
     "timestamp": 1592448156
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in Kamaryut, Yangon\n1 recover in Amarapura, Mandalay",
     "timestamp": 1595907147
+  },
+  {
+    "update": "1 recover in Kamaryut, Yangon\n1 recover in Amarapura, Mandalay",
+    "timestamp": 1595910790
   }
 ]
