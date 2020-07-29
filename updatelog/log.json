@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Pabedan, Yangon\n1 recover in Muse, Shan",
-    "timestamp": 1592487772
-  },
-  {
     "update": "23 new cases in , ",
     "timestamp": 1592532765
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in Mingaladon, Yangon",
     "timestamp": 1595964150
+  },
+  {
+    "update": "1 new case in Kyainseikgyi, Kayin",
+    "timestamp": 1596000181
   }
 ]

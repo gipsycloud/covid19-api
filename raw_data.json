@@ -9449,6 +9449,33 @@
 			"status": "inpatient",
 			"townshipcode": "MMR013002",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "31",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "29/07/2020",
+			"detectedcity": "Kyainseikgyi",
+			"detectedcitymm": "ကြာအင်းဆိပ်ကြီး",
+			"detecteddistrict": "Kawkareik",
+			"detectedstate": "Kayin",
+			"detectedsubstate": "Kayin",
+			"detectedtownship": "Kyainseikgyi",
+			"dischargeddeceaseddate": "",
+			"gender": "M",
+			"hospitalname": "Mawlamyine Hospital",
+			"labresult": "positive",
+			"nationality": "myanmar",
+			"notes": "",
+			"patientnumber": "351",
+			"recovereddate": "",
+			"region": "MM-13",
+			"source1": "https://mohs.gov.mm/page/11600",
+			"source2": "",
+			"statecode": "MM-13",
+			"status": "inpatient",
+			"townshipcode": "MMR003007",
+			"typeoftransmission": "Local"
 		}
 	]
 }
