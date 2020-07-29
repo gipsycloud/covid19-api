@@ -1303,14 +1303,14 @@
 	],
 	"statewise": [
 		{
-			"active": 51,
+			"active": 52,
 			"confirmed": 351,
 			"deaths": 6,
 			"deltaconfirmed": 1,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "29/07/2020 21:16:05",
-			"recovered": 294,
+			"recovered": 293,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1459,14 +1459,14 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 2,
+			"active": 3,
 			"confirmed": 16,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "29/07/2020 21:16:05",
-			"recovered": 14,
+			"recovered": 13,
 			"state": "Rakhine",
 			"statecode": "MM-16"
 		},
