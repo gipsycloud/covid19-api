@@ -1,9 +1,5 @@
 [
   {
-    "update": "23 new cases in , ",
-    "timestamp": 1592532765
-  },
-  {
     "update": "1 recover in Dagon Myothit (North), Yangon\n1 recover in Toungup, Rakhine\n2 recoveries in Bahan, Yangon\n1 recover in Dagon Myothit (South), Yangon",
     "timestamp": 1592623946
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Kyainseikgyi, Kayin",
     "timestamp": 1596000181
+  },
+  {
+    "update": "1 new case in Twantay, Yangon\n1 new case in Kawthoung, Tanintharyi",
+    "timestamp": 1596089961
   }
 ]
