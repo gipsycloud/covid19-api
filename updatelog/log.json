@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Mawlamyine, Mon\n1 recover in South Okkalapa, Yangon\n3 recoveries in Hlaing, Yangon",
-    "timestamp": 1592669534
-  },
-  {
     "update": "2 new cases, 1 recover in Hlaing, Yangon\n1 new case in Mayangone, Yangon\n1 recover in Dawbon, Yangon\n2 recoveries in Insein, Yangon",
     "timestamp": 1592749949
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recover in Dagon Myothit (South), Yangon\n1 recover in Kamaryut, Yangon\n1 recover in Mayangone, Yangon",
     "timestamp": 1596346933
+  },
+  {
+    "update": "1 recover in Mingaladon, Yangon",
+    "timestamp": 1596425077
   }
 ]
