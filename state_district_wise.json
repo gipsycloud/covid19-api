@@ -51,10 +51,10 @@
         }
       },
       "Yangon (East)": {
-        "active": 13,
+        "active": 12,
         "confirmed": 78,
         "deceased": 3,
-        "recovered": 62,
+        "recovered": 63,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -354,10 +354,10 @@
         }
       },
       "Hpa-An": {
-        "active": 2,
+        "active": 1,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 22,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -392,10 +392,10 @@
         }
       },
       "Maungdaw": {
-        "active": 2,
+        "active": 0,
         "confirmed": 12,
         "deceased": 0,
-        "recovered": 10,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
