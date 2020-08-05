@@ -2,12 +2,12 @@
   "Chin": {
     "districtData": {
       "Falam": {
-        "active": 3,
-        "confirmed": 11,
+        "active": 4,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -40,25 +40,25 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 9,
+        "active": 8,
         "confirmed": 76,
         "deceased": 0,
-        "recovered": 67,
+        "recovered": 68,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Yangon (East)": {
-        "active": 12,
+        "active": 10,
         "confirmed": 78,
         "deceased": 3,
-        "recovered": 63,
+        "recovered": 65,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Yangon (West)": {
