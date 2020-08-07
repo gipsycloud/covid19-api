@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Maungdaw, Rakhine",
-    "timestamp": 1593008174
-  },
-  {
     "update": "1 recover in South Okkalapa, Yangon\n1 recover in Insein, Yangon\n2 recoveries in Botahtaung, Yangon",
     "timestamp": 1593022342
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Tonzang, Chin\n2 recoveries in Dagon Myothit (North), Yangon\n1 recover in Hlegu, Yangon",
     "timestamp": 1596648242
+  },
+  {
+    "update": "2 new cases in Tonzang, Chin\n1 recover in Hpa-An, Kayin\n2 recoveries in Insein, Yangon",
+    "timestamp": 1596770700
   }
 ]
