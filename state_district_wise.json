@@ -62,12 +62,12 @@
         }
       },
       "Yangon (West)": {
-        "active": 16,
-        "confirmed": 96,
+        "active": 24,
+        "confirmed": 105,
         "deceased": 2,
-        "recovered": 78,
+        "recovered": 79,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -365,10 +365,10 @@
         }
       },
       "Myawaddy": {
-        "active": 2,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
