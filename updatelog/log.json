@@ -1,10 +1,6 @@
 [
   {
     "update": "1 recover in Dagon Myothit (South), Yangon\n1 recover in Sagaing, Sagaing\n1 recover in Thayet, Magway",
-    "timestamp": 1593093135
-  },
-  {
-    "update": "1 recover in Dagon Myothit (South), Yangon\n1 recover in Sagaing, Sagaing\n1 recover in Thayet, Magway",
     "timestamp": 1593094977
   },
   {
@@ -198,5 +194,9 @@
   {
     "update": "1 new case, 1 recover in Mingaladon, Yangon\n2 recoveries in Bahan, Yangon\n1 recover in Botahtaung, Yangon",
     "timestamp": 1597026021
+  },
+  {
+    "update": "1 new case in Dagon, \n1 recover in Botahtaung, Yangon\n1 recover in Dagon Myothit (South), Yangon\n1 recover in Tedim, Chin\n1 recover in Tonzang, Chin\n1 recover in Kyainseikgyi, Kayin\n1 recover in Twantay, Yangon",
+    "timestamp": 1597289180
   }
 ]
