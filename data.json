@@ -1452,35 +1452,35 @@
 		},
 		{
 			"active": 49,
-			"dailyconfirmed": 0,
+			"dailyconfirmed": 5,
 			"dailydeceased": 0,
-			"dailyrecovered": 0,
+			"dailyrecovered": 1,
 			"date": "14/08/2020",
 			"totalconfirmed": 369,
 			"totaldeceased": 6,
 			"totalrecovered": 314
 		},
 		{
-			"active": 49,
+			"active": 53,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "15/08/2020",
-			"totalconfirmed": 369,
+			"totalconfirmed": 374,
 			"totaldeceased": 6,
-			"totalrecovered": 314
+			"totalrecovered": 315
 		}
 	],
 	"statewise": [
 		{
-			"active": 42,
-			"confirmed": 369,
+			"active": 46,
+			"confirmed": 374,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "14/08/2020 22:48:52",
-			"recovered": 321,
+			"recovered": 322,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1533,20 +1533,20 @@
 			"statecode": "MM-04"
 		},
 		{
-			"active": 1,
+			"active": 0,
 			"confirmed": 2,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "14/08/2020 22:48:52",
-			"recovered": 1,
+			"recovered": 2,
 			"state": "Tanintharyi",
 			"statecode": "MM-05"
 		},
 		{
-			"active": 37,
-			"confirmed": 262,
+			"active": 42,
+			"confirmed": 267,
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,

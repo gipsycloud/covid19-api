@@ -62,8 +62,8 @@
         }
       },
       "Yangon (West)": {
-        "active": 24,
-        "confirmed": 105,
+        "active": 29,
+        "confirmed": 110,
         "deceased": 2,
         "recovered": 79,
         "delta": {
@@ -327,10 +327,10 @@
         }
       },
       "Kawthoung": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
