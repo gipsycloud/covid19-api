@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Dagon Myothit (South), Yangon",
-    "timestamp": 1593267157
-  },
-  {
     "update": "1 new case in Hpa-An, Kayin\n2 new cases in Hlaing, Yangon",
     "timestamp": 1593315162
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Kamaryut, Yangon\n4 new cases in Hlaing, Yangon\n1 recover in Kawthoung, Tanintharyi",
     "timestamp": 1597443506
+  },
+  {
+    "update": "2 recoveries in Kamaryut, Yangon",
+    "timestamp": 1597547959
   }
 ]
