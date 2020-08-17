@@ -403,8 +403,8 @@
         }
       },
       "Sittwe": {
-        "active": 1,
-        "confirmed": 2,
+        "active": 0,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 1,
         "delta": {

@@ -1493,8 +1493,8 @@
 	],
 	"statewise": [
 		{
-			"active": 40,
-			"confirmed": 375,
+			"active": 39,
+			"confirmed": 374,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1649,8 +1649,8 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 1,
-			"confirmed": 17,
+			"active": 0,
+			"confirmed": 16,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
