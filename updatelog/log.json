@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Thantlang, Chin\n2 recoveries in Tedim, Chin",
-    "timestamp": 1593489154
-  },
-  {
     "update": "1 recover in Momauk, Kachin",
     "timestamp": 1593573739
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Mingaladon, Yangon",
     "timestamp": 1597674011
+  },
+  {
+    "update": "1 recover in Hlaing, Yangon\n1 recover in Mingaladon, Yangon",
+    "timestamp": 1597740746
   }
 ]
