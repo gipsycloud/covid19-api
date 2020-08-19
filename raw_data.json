@@ -9367,7 +9367,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013044",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "36",
@@ -9394,7 +9394,7 @@
 			"statecode": "MM-16",
 			"status": "recovered",
 			"townshipcode": "MMR012009",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -9421,7 +9421,7 @@
 			"statecode": "MM-13",
 			"status": "recovered",
 			"townshipcode": "MMR003005",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "50",
@@ -9448,7 +9448,7 @@
 			"statecode": "MM-06",
 			"status": "recovered",
 			"townshipcode": "MMR013002",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
@@ -9475,7 +9475,7 @@
 			"statecode": "MM-13",
 			"status": "recovered",
 			"townshipcode": "MMR003007",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
@@ -9502,7 +9502,7 @@
 			"statecode": "MM-06",
 			"status": "recovered",
 			"townshipcode": "MMR013027",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -9529,7 +9529,7 @@
 			"statecode": "MM-05",
 			"status": "recovered",
 			"townshipcode": "MMR006009",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "21",
@@ -9556,7 +9556,7 @@
 			"statecode": "MM-06",
 			"status": "recovered",
 			"townshipcode": "MMR013004",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "30",
@@ -9583,7 +9583,7 @@
 			"statecode": "MM-06",
 			"status": "recovered",
 			"townshipcode": "MMR013004",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "15",
@@ -9610,7 +9610,7 @@
 			"statecode": "MM-06",
 			"status": "recovered",
 			"townshipcode": "MMR013002",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "19",
@@ -9637,7 +9637,7 @@
 			"statecode": "MM-14",
 			"status": "inpatient",
 			"townshipcode": "MMR004005",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
@@ -9664,7 +9664,7 @@
 			"statecode": "MM-14",
 			"status": "inpatient",
 			"townshipcode": "MMR004005",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -9691,7 +9691,7 @@
 			"statecode": "MM-14",
 			"status": "inpatient",
 			"townshipcode": "MMR004005",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "53",
@@ -9718,7 +9718,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013002",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -9745,7 +9745,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013043",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -9772,7 +9772,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -9799,7 +9799,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "21",
@@ -9826,7 +9826,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -9853,7 +9853,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "21",
@@ -9880,7 +9880,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -9907,7 +9907,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "33",
@@ -9934,7 +9934,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "29",
@@ -9961,7 +9961,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "72",
@@ -9988,7 +9988,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013041",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
@@ -10015,7 +10015,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
@@ -10042,7 +10042,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "41",
@@ -10069,7 +10069,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "36",
@@ -10096,7 +10096,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013040",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -10114,7 +10114,7 @@
 			"hospitalname": "Sittwe General Hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "CB Bank staff",
+			"notes": "",
 			"patientnumber": "375",
 			"recovereddate": "",
 			"region": "MM-16",
@@ -10150,7 +10150,7 @@
 			"statecode": "MM-06",
 			"status": "inpatient",
 			"townshipcode": "MMR013002",
-			"typeoftransmission": "Imported"
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
@@ -10168,7 +10168,7 @@
 			"hospitalname": "Sittwe General Hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "NGO staff",
+			"notes": "",
 			"patientnumber": "377",
 			"recovereddate": "",
 			"region": "MM-16",
@@ -10195,7 +10195,7 @@
 			"hospitalname": "Sittwe General Hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "Parents of a bank staff",
+			"notes": "",
 			"patientnumber": "378",
 			"recovereddate": "",
 			"region": "MM-16",
@@ -10222,7 +10222,7 @@
 			"hospitalname": "Sittwe General Hospital",
 			"labresult": "positive",
 			"nationality": "myanmar",
-			"notes": "Parents of a bank staff",
+			"notes": "",
 			"patientnumber": "379",
 			"recovereddate": "",
 			"region": "MM-16",
