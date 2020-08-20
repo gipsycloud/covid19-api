@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Bago, Bago",
-    "timestamp": 1593660747
-  },
-  {
     "update": "1 recover in Dagon Myothit (North), Yangon",
     "timestamp": 1593698805
   },
@@ -198,5 +194,9 @@
   {
     "update": "14 new cases, 1 recover in Kamaryut, Yangon\n1 new case, 1 recover in Mingaladon, Yangon",
     "timestamp": 1597850397
+  },
+  {
+    "update": "2 new cases in Sittwe, ",
+    "timestamp": 1597891962
   }
 ]
