@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Dagon Myothit (North), Yangon",
-    "timestamp": 1593698805
-  },
-  {
     "update": "2 new cases in Hlaing, Yangon\n1 recover in Dagon Myothit (North), Yangon\n1 recover in Buthidaung, Rakhine\n11 recoveries in Hpa-An, Kayin\n1 recover in Mawlamyine, Mon",
     "timestamp": 1593792959
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Sittwe, ",
     "timestamp": 1597891962
+  },
+  {
+    "update": "3 new cases in Sittwe, Rakhine",
+    "timestamp": 1597931542
   }
 ]
