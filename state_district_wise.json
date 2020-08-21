@@ -403,23 +403,23 @@
         }
       },
       "Sittwe": {
-        "active": 18,
-        "confirmed": 19,
+        "active": 19,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 9,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Mrauk-U": {
-        "active": 1,
-        "confirmed": 2,
+        "active": 0,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
