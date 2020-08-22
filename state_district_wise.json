@@ -40,14 +40,14 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 4,
+        "active": 3,
         "confirmed": 79,
         "deceased": 0,
-        "recovered": 75,
+        "recovered": 76,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Yangon (East)": {
@@ -403,23 +403,23 @@
         }
       },
       "Sittwe": {
-        "active": 44,
-        "confirmed": 45,
+        "active": 48,
+        "confirmed": 49,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 16,
+          "confirmed": 20,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Mrauk-U": {
-        "active": 1,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
