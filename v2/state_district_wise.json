@@ -449,12 +449,12 @@
       },
       {
         "district": "Sittwe",
-        "active": 28,
-        "confirmed": 29,
+        "active": 44,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }

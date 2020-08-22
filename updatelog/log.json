@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Mindat, Chin",
-    "timestamp": 1593976435
-  },
-  {
     "update": "3 new cases in Kamaryut, Yangon\n2 recoveries in Botahtaung, Yangon\n1 recover in Buthidaung, Rakhine\n1 recover in Sittwe, Rakhine",
     "timestamp": 1594046559
   },
@@ -198,5 +194,9 @@
   {
     "update": "10 new cases in Sittwe, Rakhine\n1 recover in Tamwe, Yangon\n1 recover in Botahtaung, Yangon\n1 recover in Hlaing, Yangon\n1 recover in Kamaryut, Yangon",
     "timestamp": 1598017338
+  },
+  {
+    "update": "16 new cases in Sittwe, Rakhine",
+    "timestamp": 1598061146
   }
 ]
