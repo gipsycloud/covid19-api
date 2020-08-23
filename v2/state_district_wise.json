@@ -5,12 +5,12 @@
     "districtData": [
       {
         "district": "Falam",
-        "active": 4,
-        "confirmed": 14,
+        "active": 5,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -425,12 +425,12 @@
     "districtData": [
       {
         "district": "Thandwe",
-        "active": 0,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
