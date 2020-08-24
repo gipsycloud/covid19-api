@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Mingaladon, Yangon",
-    "timestamp": 1594347381
-  },
-  {
     "update": "3 new cases in Kyauktada, Yangon\n2 new cases in Maungdaw, Rakhine\n2 recoveries in Hpa-An, Kayin",
     "timestamp": 1594391556
   },
@@ -198,5 +194,9 @@
   {
     "update": "13 new cases in Sittwe, ",
     "timestamp": 1598236957
+  },
+  {
+    "update": "2 new cases in Hlaing, Yangon\n1 new case in Kamaryut, Yangon\n4 new cases in Buthidaung, Rakhine\n4 new cases in Sittwe, Rakhine",
+    "timestamp": 1598281692
   }
 ]
