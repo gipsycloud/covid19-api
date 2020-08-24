@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Mingaladon, Yangon\n1 recover in Bahan, Yangon\n1 recover in Dagon Myothit (South), Yangon\n2 recoveries in Hpa-An, Kayin",
-    "timestamp": 1594302148
-  },
-  {
     "update": "2 new cases in Mingaladon, Yangon",
     "timestamp": 1594347381
   },
@@ -198,5 +194,9 @@
   {
     "update": "6 new cases in Sittwe, Rakhine\n1 recover in Dagon Myothit (South), Yangon\n1 recover in Botahtaung, Yangon\n1 recover in Kyauktada, Yangon",
     "timestamp": 1598190749
+  },
+  {
+    "update": "13 new cases in Sittwe, ",
+    "timestamp": 1598236957
   }
 ]
