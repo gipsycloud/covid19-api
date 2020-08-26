@@ -59,8 +59,8 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 5,
-        "confirmed": 80,
+        "active": 4,
+        "confirmed": 79,
         "deceased": 3,
         "recovered": 72,
         "delta": {
@@ -173,8 +173,8 @@
       },
       {
         "district": "Taunggyi",
-        "active": 0,
-        "confirmed": 4,
+        "active": 1,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 4,
         "delta": {
