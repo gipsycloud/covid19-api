@@ -403,23 +403,23 @@
         }
       },
       "Sittwe": {
-        "active": 124,
-        "confirmed": 125,
+        "active": 125,
+        "confirmed": 126,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 31,
+          "confirmed": 32,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Mrauk-U": {
-        "active": 24,
-        "confirmed": 25,
+        "active": 26,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 21,
+          "confirmed": 23,
           "deceased": 0,
           "recovered": 0
         }
@@ -453,21 +453,5 @@
       }
     },
     "statecode": "MM-07"
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "active": 3,
-        "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 3,
-          "deceased": 0,
-          "recovered": 0
-        }
-      }
-    },
-    "statecode": "Unknown"
   }
 }

@@ -449,24 +449,24 @@
       },
       {
         "district": "Sittwe",
-        "active": 124,
-        "confirmed": 125,
+        "active": 125,
+        "confirmed": 126,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 31,
+          "confirmed": 32,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Mrauk-U",
-        "active": 24,
-        "confirmed": 25,
+        "active": 26,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 21,
+          "confirmed": 23,
           "deceased": 0,
           "recovered": 0
         }
@@ -497,24 +497,6 @@
         "recovered": 2,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "statecode": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "active": 3,
-        "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
