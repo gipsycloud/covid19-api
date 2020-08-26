@@ -453,5 +453,21 @@
       }
     },
     "statecode": "MM-07"
+  },
+  "#N/A": {
+    "districtData": {
+      "Unknown": {
+        "active": 70,
+        "confirmed": 70,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 70,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "statecode": "#N/A"
   }
 }

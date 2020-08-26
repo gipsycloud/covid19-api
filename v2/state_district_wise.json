@@ -502,5 +502,23 @@
         }
       }
     ]
+  },
+  {
+    "state": "#N/A",
+    "statecode": "#N/A",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "active": 70,
+        "confirmed": 70,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 70,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    ]
   }
 ]

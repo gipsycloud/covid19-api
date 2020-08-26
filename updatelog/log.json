@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Hlegu, Yangon\n3 new cases, 2 recoveries in Hlaing, Yangon\n1 recover in Hpa-An, Kayin\n1 recover in Maungdaw, Rakhine",
-    "timestamp": 1594505665
-  },
-  {
     "update": "1 new case in Mingaladon, Yangon\n1 recover in Maungdaw, Rakhine",
     "timestamp": 1594568553
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Hlaing, Yangon\n1 new case in Taunggyi, Shan\n1 new case in Insein, Yangon\n3 new cases in Kyaukpyu, Rakhine\n1 new case in Mawlamyine, Mon\n12 new cases in Pauktaw, Rakhine\n10 new cases in Sittwe, Rakhine",
     "timestamp": 1598371721
+  },
+  {
+    "update": "70 new cases in , #N/A",
+    "timestamp": 1598414919
   }
 ]
