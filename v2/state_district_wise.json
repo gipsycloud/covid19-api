@@ -59,12 +59,12 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 3,
-        "confirmed": 78,
+        "active": 4,
+        "confirmed": 79,
         "deceased": 3,
         "recovered": 72,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -437,48 +437,48 @@
       },
       {
         "district": "Maungdaw",
-        "active": 4,
-        "confirmed": 16,
+        "active": 17,
+        "confirmed": 29,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Sittwe",
-        "active": 100,
-        "confirmed": 101,
+        "active": 124,
+        "confirmed": 125,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 31,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Mrauk-U",
-        "active": 9,
-        "confirmed": 10,
+        "active": 24,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Kyaukpyu",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -509,12 +509,12 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 57,
-        "confirmed": 57,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 57,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
