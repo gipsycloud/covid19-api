@@ -454,7 +454,7 @@
     },
     "statecode": "MM-07"
   },
-  "#N/A": {
+  "Unknown": {
     "districtData": {
       "Unknown": {
         "active": 70,
@@ -468,6 +468,6 @@
         }
       }
     },
-    "statecode": "#N/A"
+    "statecode": "Unknown"
   }
 }

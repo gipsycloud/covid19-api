@@ -504,8 +504,8 @@
     ]
   },
   {
-    "state": "#N/A",
-    "statecode": "#N/A",
+    "state": "Unknown",
+    "statecode": "Unknown",
     "districtData": [
       {
         "district": "Unknown",
