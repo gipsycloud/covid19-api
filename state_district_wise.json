@@ -51,25 +51,25 @@
         }
       },
       "Yangon (East)": {
-        "active": 6,
-        "confirmed": 81,
+        "active": 11,
+        "confirmed": 86,
         "deceased": 3,
         "recovered": 72,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (West)": {
-        "active": 35,
-        "confirmed": 130,
+        "active": 34,
+        "confirmed": 133,
         "deceased": 2,
-        "recovered": 93,
+        "recovered": 97,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Yangon (South)": {
@@ -89,12 +89,12 @@
   "Mandalay": {
     "districtData": {
       "Mandalay": {
-        "active": 0,
-        "confirmed": 3,
+        "active": 1,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -403,12 +403,12 @@
         }
       },
       "Sittwe": {
-        "active": 128,
-        "confirmed": 129,
+        "active": 135,
+        "confirmed": 136,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
