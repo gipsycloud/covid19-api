@@ -13,7 +13,7 @@ const beginning = moment("2020-03-22T00:00:00+0630");
 function forEachDate(callback) {
   const todayDate = moment();
   for (i = 0; i <= todayDate.diff(beginning, 'days'); i++) {
-    const currentDate = moment(beginning).add(i, 'day').utcOffset("+0630");
+    const currentDate = moment(beginning).add(i, 'day').utcOffset(390);
     const stringDate = currentDate.format("DD/MM/YYYY");
     callback(stringDate, currentDate);
   }
