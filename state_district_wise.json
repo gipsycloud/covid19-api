@@ -212,6 +212,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Taungoo": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MM-02"
@@ -392,23 +403,23 @@
         }
       },
       "Maungdaw": {
-        "active": 19,
-        "confirmed": 31,
+        "active": 25,
+        "confirmed": 37,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Sittwe": {
-        "active": 135,
-        "confirmed": 136,
+        "active": 151,
+        "confirmed": 152,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }
@@ -425,12 +436,12 @@
         }
       },
       "Kyaukpyu": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
