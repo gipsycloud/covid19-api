@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Amarapura, Mandalay\n1 new case in Kyauktaw, Rakhine\n4 recoveries in Hlaing, Yangon",
-    "timestamp": 1594908993
-  },
-  {
     "update": "1 recover in Hpa-An, Kayin",
     "timestamp": 1595007133
   },
@@ -198,5 +194,9 @@
   {
     "update": "15 new cases in , ",
     "timestamp": 1598628141
+  },
+  {
+    "update": "1 new case in Myebon, \n4 new cases in Sittwe, \n1 new case in Kyauktaw, \n2 new cases in Kyaukpyu, \n1 new case in Taunggyi, \n1 new case in Mrauk-U, ",
+    "timestamp": 1598667269
   }
 ]

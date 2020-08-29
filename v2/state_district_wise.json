@@ -59,8 +59,8 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 11,
-        "confirmed": 86,
+        "active": 12,
+        "confirmed": 87,
         "deceased": 3,
         "recovered": 72,
         "delta": {
@@ -71,8 +71,8 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 34,
-        "confirmed": 133,
+        "active": 38,
+        "confirmed": 137,
         "deceased": 2,
         "recovered": 97,
         "delta": {
@@ -437,8 +437,8 @@
     "districtData": [
       {
         "district": "Thandwe",
-        "active": 2,
-        "confirmed": 4,
+        "active": 11,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -485,8 +485,8 @@
       },
       {
         "district": "Kyaukpyu",
-        "active": 7,
-        "confirmed": 7,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
