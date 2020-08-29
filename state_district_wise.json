@@ -51,8 +51,8 @@
         }
       },
       "Yangon (East)": {
-        "active": 12,
-        "confirmed": 87,
+        "active": 13,
+        "confirmed": 88,
         "deceased": 3,
         "recovered": 72,
         "delta": {
@@ -62,10 +62,10 @@
         }
       },
       "Yangon (West)": {
-        "active": 38,
+        "active": 36,
         "confirmed": 137,
         "deceased": 2,
-        "recovered": 97,
+        "recovered": 99,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -73,8 +73,8 @@
         }
       },
       "Yangon (South)": {
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -89,8 +89,8 @@
   "Mandalay": {
     "districtData": {
       "Mandalay": {
-        "active": 1,
-        "confirmed": 4,
+        "active": 2,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 3,
         "delta": {
@@ -159,7 +159,7 @@
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -414,12 +414,12 @@
         }
       },
       "Sittwe": {
-        "active": 155,
-        "confirmed": 156,
+        "active": 187,
+        "confirmed": 188,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -430,18 +430,18 @@
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kyaukpyu": {
-        "active": 10,
-        "confirmed": 10,
+        "active": 52,
+        "confirmed": 52,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
