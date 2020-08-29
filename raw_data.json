@@ -17717,297 +17717,297 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Chanmyathazi",
+			"detectedcitymm": "ချမ်းမြသာစည်",
+			"detecteddistrict": "Mandalay",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Chanmyathazi",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "657",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR010004",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "50",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Ann",
+			"detectedcitymm": "အမ်း",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Ann",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "658",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012014",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "21",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Ann",
+			"detectedcitymm": "အမ်း",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Ann",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "659",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012014",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Kyaukpyu",
+			"detectedcitymm": "ကျောက်ဖြူ",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Kyaukpyu",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "660",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012011",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "50",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Kyaukpyu",
+			"detectedcitymm": "ကျောက်ဖြူ",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Kyaukpyu",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "661",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012011",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "40",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Kyaukpyu",
+			"detectedcitymm": "ကျောက်ဖြူ",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Kyaukpyu",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "662",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012011",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Kyaukpyu",
+			"detectedcitymm": "ကျောက်ဖြူ",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Kyaukpyu",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "663",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012011",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Kyaukpyu",
+			"detectedcitymm": "ကျောက်ဖြူ",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Kyaukpyu",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "664",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012011",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Kyaukpyu",
+			"detectedcitymm": "ကျောက်ဖြူ",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Kyaukpyu",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "665",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012011",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "18",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Kyaukpyu",
+			"detectedcitymm": "ကျောက်ဖြူ",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Kyaukpyu",
 			"dischargeddeceaseddate": "",
 			"gender": "M",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "666",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012011",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "30",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/08/2020",
-			"detectedcity": "",
-			"detectedcitymm": "",
-			"detecteddistrict": "",
+			"detectedcity": "Kyaukpyu",
+			"detectedcitymm": "ကျောက်ဖြူ",
+			"detecteddistrict": "Kyaukpyu",
 			"detectedstate": "",
 			"detectedsubstate": "",
-			"detectedtownship": "",
+			"detectedtownship": "Kyaukpyu",
 			"dischargeddeceaseddate": "",
 			"gender": "F",
 			"hospitalname": "",
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "667",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
 			"source2": "",
 			"statecode": "",
 			"status": "inpatient",
-			"townshipcode": "",
-			"typeoftransmission": ""
+			"townshipcode": "MMR012011",
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "86",
@@ -18026,7 +18026,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "668",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18034,7 +18034,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "1",
@@ -18053,7 +18053,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "669",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18061,7 +18061,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
@@ -18080,7 +18080,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "670",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18088,7 +18088,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "44",
@@ -18107,7 +18107,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "671",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18115,7 +18115,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "55",
@@ -18134,7 +18134,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "672",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18142,7 +18142,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -18161,7 +18161,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "673",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18169,7 +18169,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
@@ -18188,7 +18188,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "674",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18196,7 +18196,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "35",
@@ -18215,7 +18215,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "675",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18223,7 +18223,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "3",
@@ -18242,7 +18242,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "676",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18250,7 +18250,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "50",
@@ -18269,7 +18269,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "677",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18277,7 +18277,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "48",
@@ -18296,7 +18296,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "678",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18304,7 +18304,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "19",
@@ -18323,7 +18323,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "679",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18331,7 +18331,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "20",
@@ -18350,7 +18350,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "680",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18358,7 +18358,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "37",
@@ -18377,7 +18377,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "681",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18385,7 +18385,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "45",
@@ -18404,7 +18404,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "682",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18412,7 +18412,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "43",
@@ -18431,7 +18431,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "683",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18439,7 +18439,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
@@ -18458,7 +18458,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "684",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18466,7 +18466,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
@@ -18485,7 +18485,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "685",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18493,7 +18493,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "34",
@@ -18512,7 +18512,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "686",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18520,7 +18520,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "29",
@@ -18539,7 +18539,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "687",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18547,7 +18547,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "30",
@@ -18566,7 +18566,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "688",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18574,7 +18574,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
@@ -18593,7 +18593,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "689",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18601,7 +18601,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "41",
@@ -18620,7 +18620,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "690",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18628,7 +18628,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "36",
@@ -18647,7 +18647,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "691",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18655,7 +18655,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "27",
@@ -18674,7 +18674,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "692",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18682,7 +18682,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "28",
@@ -18701,7 +18701,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "693",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18709,7 +18709,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "38",
@@ -18728,7 +18728,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "694",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18736,7 +18736,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "42",
@@ -18755,7 +18755,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "695",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18763,7 +18763,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "29",
@@ -18782,7 +18782,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "696",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18790,7 +18790,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -18809,7 +18809,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "697",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18817,7 +18817,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "33",
@@ -18836,7 +18836,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "698",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18844,7 +18844,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "50",
@@ -18863,7 +18863,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "699",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18871,7 +18871,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "13",
@@ -18890,7 +18890,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "700",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18898,7 +18898,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -18917,7 +18917,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "701",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18925,7 +18925,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "15",
@@ -18944,7 +18944,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "702",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18952,7 +18952,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "29",
@@ -18971,7 +18971,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "703",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -18979,7 +18979,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "16",
@@ -18998,7 +18998,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "704",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19006,7 +19006,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "16",
@@ -19025,7 +19025,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "705",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19033,7 +19033,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "16",
@@ -19052,7 +19052,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "706",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19060,7 +19060,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "36",
@@ -19079,7 +19079,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "707",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19087,7 +19087,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "62",
@@ -19106,7 +19106,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "708",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19114,7 +19114,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "16",
@@ -19133,7 +19133,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "709",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19141,7 +19141,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "15",
@@ -19160,7 +19160,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "710",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19168,7 +19168,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "31",
@@ -19187,7 +19187,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "711",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19195,7 +19195,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "55",
@@ -19214,7 +19214,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "712",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19222,7 +19222,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "14",
@@ -19241,7 +19241,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "713",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19249,7 +19249,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "15",
@@ -19268,7 +19268,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "714",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19276,7 +19276,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "54",
@@ -19295,7 +19295,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "715",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19303,7 +19303,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "53",
@@ -19322,7 +19322,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "716",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19330,7 +19330,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "61",
@@ -19349,7 +19349,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "717",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19357,7 +19357,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "73",
@@ -19376,7 +19376,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "718",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19384,7 +19384,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -19403,7 +19403,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "719",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19411,7 +19411,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "52",
@@ -19430,7 +19430,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "720",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19438,7 +19438,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "70",
@@ -19457,7 +19457,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "721",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19465,7 +19465,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -19484,7 +19484,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "722",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19492,7 +19492,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -19511,7 +19511,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "723",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19519,7 +19519,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "25",
@@ -19538,7 +19538,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "724",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19546,7 +19546,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -19565,7 +19565,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "725",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19573,7 +19573,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "26",
@@ -19592,7 +19592,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "726",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19600,7 +19600,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "55",
@@ -19619,7 +19619,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "727",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19627,7 +19627,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
@@ -19646,7 +19646,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "728",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19654,7 +19654,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "24",
@@ -19673,7 +19673,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "729",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19681,7 +19681,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -19700,7 +19700,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "730",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19708,7 +19708,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -19727,7 +19727,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "731",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19735,7 +19735,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "22",
@@ -19754,7 +19754,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "732",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19762,7 +19762,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "23",
@@ -19781,7 +19781,7 @@
 			"labresult": "positive",
 			"nationality": "myanmar",
 			"notes": "",
-			"patientnumber": "",
+			"patientnumber": "733",
 			"recovereddate": "",
 			"region": "",
 			"source1": "",
@@ -19789,7 +19789,7 @@
 			"statecode": "",
 			"status": "inpatient",
 			"townshipcode": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		}
 	]
 }
