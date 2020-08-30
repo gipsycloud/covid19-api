@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Buthidaung, Rakhine\n1 recover in Kamaryut, Yangon",
-    "timestamp": 1595325144
-  },
-  {
     "update": "1 new case in Insein, Yangon\n1 new case in Insein, ",
     "timestamp": 1595429610
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases in North Okkalapa, Yangon\n1 new case in Kamaryut, Yangon\n1 new case in Tamwe, Yangon\n1 new case in Dagon Myothit (South), Yangon\n1 new case in Kyaukpyu, Rakhine\n3 new cases in Insein, Yangon\n2 new cases in Bhamo, Kachin\n1 new case in Shwepyithar, Yangon\n3 new cases in Kawthoung, Tanintharyi",
     "timestamp": 1598762603
+  },
+  {
+    "update": "1 new case in Kyauktaw, Rakhine\n4 new cases in Minbya, Rakhine\n8 new cases in Sittwe, Rakhine\n2 new cases in Ponnagyun, Rakhine\n6 new cases in Pauktaw, Rakhine\n1 new case in Pazundaung, Yangon\n1 new case in Hlaing, Yangon\n2 new cases in Shwepyithar, Yangon\n1 new case in Mingaladon, Yangon\n1 recover in Dagon, Yangon",
+    "timestamp": 1598800526
   }
 ]
