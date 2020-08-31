@@ -1622,7 +1622,7 @@
 		},
 		{
 			"active": 420,
-			"dailyconfirmed": 12,
+			"dailyconfirmed": 107,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "31/08/2020",
@@ -1631,12 +1631,12 @@
 			"totalrecovered": 349
 		},
 		{
-			"active": 432,
+			"active": 527,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "01/09/2020",
-			"totalconfirmed": 787,
+			"totalconfirmed": 882,
 			"totaldeceased": 6,
 			"totalrecovered": 349
 		}
