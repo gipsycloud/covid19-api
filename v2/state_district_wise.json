@@ -47,12 +47,12 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "active": 11,
-        "confirmed": 87,
+        "active": 12,
+        "confirmed": 88,
         "deceased": 0,
         "recovered": 76,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -461,36 +461,36 @@
       },
       {
         "district": "Sittwe",
-        "active": 203,
-        "confirmed": 204,
+        "active": 210,
+        "confirmed": 211,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Mrauk-U",
-        "active": 42,
-        "confirmed": 43,
+        "active": 43,
+        "confirmed": 44,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Kyaukpyu",
-        "active": 53,
-        "confirmed": 53,
+        "active": 56,
+        "confirmed": 56,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
