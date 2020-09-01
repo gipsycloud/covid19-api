@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Dagon Myothit (South), Yangon\n1 recover in Hlegu, Yangon",
-    "timestamp": 1595601158
-  },
-  {
     "update": "1 new case, 1 recover in Bahan, Yangon\n1 new case in Maungdaw, Rakhine\n1 recover in Tonzang, Chin",
     "timestamp": 1595691765
   },
@@ -198,5 +194,9 @@
   {
     "update": "95 new cases in , ",
     "timestamp": 1598895784
+  },
+  {
+    "update": "5 new cases in , ",
+    "timestamp": 1598941977
   }
 ]
