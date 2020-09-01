@@ -107,6 +107,8 @@ async function taskDataFile() {
     'MM-06': 'Yangon',
     'MM-18': 'Nay Pyi Taw'
   };
+
+  // For each state
   statecodes.forEach((statecode) => {
     const confirmed = raw_data.filter((value) => value.statecode === statecode).length;
     const deaths    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased').length;
@@ -130,18 +132,28 @@ async function taskDataFile() {
     });
   });
 
-  statewise.unshift(statewise.reduce((prev, current) => {
-    prev.statecode = 'TT';
-    prev.state = 'Total';
-    prev.confirmed = (prev.confirmed || 0) + current.confirmed
-    prev.deaths = (prev.deaths || 0) + current.deaths
-    prev.recovered = (prev.recovered || 0) + current.recovered
-    prev.active = (prev.active || 0) + current.active
-    prev.deltaconfirmed = (prev.deltaconfirmed || 0) + current.deltaconfirmed
-    prev.deltadeaths = (prev.deltadeaths || 0) + current.deltadeaths
-    prev.deltarecovered = (prev.deltarecovered || 0) + current.deltarecovered
-    return prev
-  }, {}));
+  // Total
+  const confirmed = raw_data.length;
+  const deaths    = raw_data.filter((value) => value.currentstatus === 'Deceased').length;
+  const recovered = raw_data.filter((value) => value.currentstatus === 'Recovered').length;
+  const active    = raw_data.filter((value) => value.currentstatus === 'Hospitalized').length;
+
+  const deltaConfirmed = raw_data.filter((value) => value.dateannounced === stringdatetoday).length;
+  const deltaDeaths    = raw_data.filter((value) => value.currentstatus === 'Deceased' && value.dischargeddeceaseddate === stringdatetoday).length;
+  const deltaRecovered = raw_data.filter((value) => value.currentstatus === 'Recovered' && value.recovereddate === stringdatetoday).length;
+  
+  // total entry has to be first entry
+  statewise.unshift({
+    state: 'Total',
+    statecode: 'TT',
+    confirmed: confirmed,
+    deaths: deaths,
+    recovered: recovered,
+    active: active,
+    deltaconfirmed: deltaConfirmed,
+    deltadeaths: deltaDeaths,
+    deltarecovered: deltaRecovered
+  });
 
   writeData({file: FILE_DATA, data: {
     cases_time_series: timeseries,
