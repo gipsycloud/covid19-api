@@ -1643,10 +1643,10 @@
 	],
 	"statewise": [
 		{
-			"active": 429,
-			"confirmed": 787,
+			"active": 529,
+			"confirmed": 887,
 			"deaths": 6,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 5,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "01/09/2020 12:06:42",
