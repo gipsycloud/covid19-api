@@ -71,14 +71,14 @@
       },
       {
         "district": "Yangon (West)",
-        "active": 56,
+        "active": 54,
         "confirmed": 161,
         "deceased": 2,
-        "recovered": 103,
+        "recovered": 105,
         "delta": {
           "confirmed": 8,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {

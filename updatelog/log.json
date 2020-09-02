@@ -1,10 +1,6 @@
 [
   {
     "update": "1 recover in Kamaryut, Yangon\n1 recover in Amarapura, Mandalay",
-    "timestamp": 1595907147
-  },
-  {
-    "update": "1 recover in Kamaryut, Yangon\n1 recover in Amarapura, Mandalay",
     "timestamp": 1595910790
   },
   {
@@ -198,5 +194,9 @@
   {
     "update": "19 new cases in , ",
     "timestamp": 1599023326
+  },
+  {
+    "update": "57 new cases in , \n2 recoveries in Kamaryut, Yangon",
+    "timestamp": 1599056637
   }
 ]
