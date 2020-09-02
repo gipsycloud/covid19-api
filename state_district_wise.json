@@ -40,45 +40,45 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 42,
-        "confirmed": 120,
+        "active": 46,
+        "confirmed": 124,
         "deceased": 0,
         "recovered": 78,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (East)": {
-        "active": 29,
-        "confirmed": 104,
+        "active": 40,
+        "confirmed": 115,
         "deceased": 3,
         "recovered": 72,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (West)": {
-        "active": 39,
-        "confirmed": 144,
+        "active": 56,
+        "confirmed": 161,
         "deceased": 2,
         "recovered": 103,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (South)": {
-        "active": 1,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -214,8 +214,8 @@
         }
       },
       "Bago": {
-        "active": 0,
-        "confirmed": 2,
+        "active": 5,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -241,8 +241,8 @@
   "Mon": {
     "districtData": {
       "Mawlamyine": {
-        "active": 1,
-        "confirmed": 3,
+        "active": 9,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -358,6 +358,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Dawei": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MM-05"
@@ -425,8 +436,8 @@
         }
       },
       "Sittwe": {
-        "active": 234,
-        "confirmed": 235,
+        "active": 237,
+        "confirmed": 238,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -447,8 +458,8 @@
         }
       },
       "Kyaukpyu": {
-        "active": 61,
-        "confirmed": 61,
+        "active": 62,
+        "confirmed": 62,
         "deceased": 0,
         "recovered": 0,
         "delta": {
