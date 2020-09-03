@@ -1652,7 +1652,7 @@
 		},
 		{
 			"active": 633,
-			"dailyconfirmed": 63,
+			"dailyconfirmed": 116,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "03/09/2020",
@@ -1661,20 +1661,20 @@
 			"totalrecovered": 356
 		},
 		{
-			"active": 696,
+			"active": 749,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "04/09/2020",
-			"totalconfirmed": 1058,
+			"totalconfirmed": 1111,
 			"totaldeceased": 6,
 			"totalrecovered": 356
 		}
 	],
 	"statewise": [
 		{
-			"active": 693,
-			"confirmed": 1058,
+			"active": 746,
+			"confirmed": 1111,
 			"deaths": 6,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1697,8 +1697,8 @@
 			"statecode": "MM-01"
 		},
 		{
-			"active": 7,
-			"confirmed": 16,
+			"active": 31,
+			"confirmed": 40,
 			"deaths": 1,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1721,8 +1721,8 @@
 			"statecode": "MM-03"
 		},
 		{
-			"active": 3,
-			"confirmed": 7,
+			"active": 6,
+			"confirmed": 10,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1745,8 +1745,8 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 142,
-			"confirmed": 404,
+			"active": 178,
+			"confirmed": 440,
 			"deaths": 5,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1817,8 +1817,8 @@
 			"statecode": "MM-14"
 		},
 		{
-			"active": 9,
-			"confirmed": 11,
+			"active": 12,
+			"confirmed": 14,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1829,8 +1829,8 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 397,
-			"confirmed": 413,
+			"active": 449,
+			"confirmed": 465,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1841,8 +1841,8 @@
 			"statecode": "MM-16"
 		},
 		{
-			"active": 1,
-			"confirmed": 11,
+			"active": 2,
+			"confirmed": 12,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1853,8 +1853,8 @@
 			"statecode": "MM-17"
 		},
 		{
-			"active": 1,
-			"confirmed": 3,
+			"active": 2,
+			"confirmed": 4,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,

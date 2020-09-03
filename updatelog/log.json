@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Mingaladon, Yangon",
-    "timestamp": 1595964150
-  },
-  {
     "update": "1 new case in Kyainseikgyi, Kayin",
     "timestamp": 1596000181
   },
@@ -198,5 +194,9 @@
   {
     "update": "63 new cases in , ",
     "timestamp": 1599104566
+  },
+  {
+    "update": "53 new cases in , ",
+    "timestamp": 1599162142
   }
 ]
