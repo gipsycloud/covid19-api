@@ -40,45 +40,45 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 46,
-        "confirmed": 124,
+        "active": 48,
+        "confirmed": 126,
         "deceased": 0,
         "recovered": 78,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (East)": {
-        "active": 40,
-        "confirmed": 115,
+        "active": 49,
+        "confirmed": 124,
         "deceased": 3,
         "recovered": 72,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (West)": {
-        "active": 54,
-        "confirmed": 161,
+        "active": 77,
+        "confirmed": 184,
         "deceased": 2,
         "recovered": 105,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 23,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (South)": {
-        "active": 2,
-        "confirmed": 4,
+        "active": 3,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -138,12 +138,12 @@
         }
       },
       "Oke Ta Ra": {
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -214,12 +214,12 @@
         }
       },
       "Bago": {
-        "active": 5,
-        "confirmed": 7,
+        "active": 29,
+        "confirmed": 31,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 24,
           "deceased": 0,
           "recovered": 0
         }
@@ -436,12 +436,12 @@
         }
       },
       "Sittwe": {
-        "active": 237,
-        "confirmed": 238,
+        "active": 238,
+        "confirmed": 239,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -497,5 +497,21 @@
       }
     },
     "statecode": "MM-07"
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "active": 59,
+        "confirmed": 59,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "statecode": "Unknown"
   }
 }
