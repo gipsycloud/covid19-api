@@ -40,8 +40,8 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 51,
-        "confirmed": 129,
+        "active": 48,
+        "confirmed": 126,
         "deceased": 0,
         "recovered": 78,
         "delta": {
@@ -51,23 +51,23 @@
         }
       },
       "Yangon (East)": {
-        "active": 69,
-        "confirmed": 144,
+        "active": 49,
+        "confirmed": 124,
         "deceased": 3,
         "recovered": 72,
         "delta": {
-          "confirmed": 9,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (West)": {
-        "active": 94,
-        "confirmed": 201,
+        "active": 78,
+        "confirmed": 185,
         "deceased": 2,
         "recovered": 105,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -89,8 +89,8 @@
   "Mandalay": {
     "districtData": {
       "Mandalay": {
-        "active": 5,
-        "confirmed": 8,
+        "active": 4,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 3,
         "delta": {
@@ -196,17 +196,6 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      "Loilen": {
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
       }
     },
     "statecode": "MM-17"
@@ -252,8 +241,8 @@
   "Mon": {
     "districtData": {
       "Mawlamyine": {
-        "active": 14,
-        "confirmed": 16,
+        "active": 12,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -279,12 +268,12 @@
         }
       },
       "Thayet": {
-        "active": 1,
-        "confirmed": 2,
+        "active": 0,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -447,8 +436,8 @@
         }
       },
       "Sittwe": {
-        "active": 301,
-        "confirmed": 302,
+        "active": 283,
+        "confirmed": 284,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -458,8 +447,8 @@
         }
       },
       "Mrauk-U": {
-        "active": 75,
-        "confirmed": 76,
+        "active": 63,
+        "confirmed": 64,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -469,12 +458,12 @@
         }
       },
       "Kyaukpyu": {
-        "active": 65,
-        "confirmed": 65,
+        "active": 64,
+        "confirmed": 64,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
