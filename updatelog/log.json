@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Twantay, Yangon\n1 new case in Kawthoung, Tanintharyi",
-    "timestamp": 1596089961
-  },
-  {
     "update": "1 recover in Dagon Myothit (South), Yangon\n1 recover in Kamaryut, Yangon\n1 recover in Mayangone, Yangon",
     "timestamp": 1596346933
   },
@@ -198,5 +194,9 @@
   {
     "update": "22 new cases in , ",
     "timestamp": 1599186765
+  },
+  {
+    "update": "1 death in Thanlyin, Yangon",
+    "timestamp": 1599191554
   }
 ]
