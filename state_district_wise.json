@@ -45,7 +45,7 @@
         "deceased": 0,
         "recovered": 78,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -56,9 +56,9 @@
         "deceased": 4,
         "recovered": 78,
         "delta": {
-          "confirmed": 20,
-          "deceased": 1,
-          "recovered": 6
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Yangon (West)": {
@@ -67,9 +67,9 @@
         "deceased": 2,
         "recovered": 109,
         "delta": {
-          "confirmed": 17,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       "Yangon (South)": {
@@ -116,7 +116,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 17,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -425,7 +425,7 @@
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -463,7 +463,7 @@
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -476,7 +476,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       "Sittwe": {
@@ -487,7 +487,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       "Mrauk-U": {
@@ -523,7 +523,7 @@
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -545,7 +545,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
