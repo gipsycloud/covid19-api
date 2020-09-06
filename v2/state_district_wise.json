@@ -47,36 +47,36 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "active": 58,
-        "confirmed": 136,
+        "active": 51,
+        "confirmed": 129,
         "deceased": 0,
         "recovered": 78,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Yangon (East)",
-        "active": 133,
-        "confirmed": 209,
-        "deceased": 4,
+        "active": 96,
+        "confirmed": 171,
+        "deceased": 3,
         "recovered": 72,
         "delta": {
-          "confirmed": 20,
-          "deceased": 1,
+          "confirmed": 0,
+          "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Yangon (West)",
-        "active": 126,
-        "confirmed": 233,
+        "active": 101,
+        "confirmed": 208,
         "deceased": 2,
         "recovered": 105,
         "delta": {
-          "confirmed": 17,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -125,12 +125,12 @@
       },
       {
         "district": "Myingyan",
-        "active": 28,
-        "confirmed": 28,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 17,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -143,8 +143,8 @@
     "districtData": [
       {
         "district": "Det Khi Na",
-        "active": 6,
-        "confirmed": 7,
+        "active": 5,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -235,18 +235,6 @@
         "district": "Kengtung",
         "active": 3,
         "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Lashio",
-        "active": 1,
-        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -467,12 +455,12 @@
     "districtData": [
       {
         "district": "Kawkareik",
-        "active": 1,
-        "confirmed": 4,
+        "active": 0,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -509,12 +497,12 @@
     "districtData": [
       {
         "district": "Thandwe",
-        "active": 17,
-        "confirmed": 19,
+        "active": 14,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -533,8 +521,8 @@
       },
       {
         "district": "Sittwe",
-        "active": 297,
-        "confirmed": 308,
+        "active": 296,
+        "confirmed": 307,
         "deceased": 0,
         "recovered": 11,
         "delta": {
@@ -557,8 +545,8 @@
       },
       {
         "district": "Kyaukpyu",
-        "active": 72,
-        "confirmed": 72,
+        "active": 67,
+        "confirmed": 67,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -575,12 +563,12 @@
     "districtData": [
       {
         "district": "Pathein",
-        "active": 2,
-        "confirmed": 4,
+        "active": 0,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -593,18 +581,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Pyapon",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
