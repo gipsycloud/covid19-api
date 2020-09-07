@@ -1737,8 +1737,8 @@
 			"statecode": "MM-01"
 		},
 		{
-			"active": 57,
-			"confirmed": 66,
+			"active": 49,
+			"confirmed": 58,
 			"deaths": 1,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1761,8 +1761,8 @@
 			"statecode": "MM-03"
 		},
 		{
-			"active": 35,
-			"confirmed": 39,
+			"active": 33,
+			"confirmed": 37,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1785,8 +1785,8 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 403,
-			"confirmed": 677,
+			"active": 311,
+			"confirmed": 585,
 			"deaths": 7,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1797,8 +1797,8 @@
 			"statecode": "MM-06"
 		},
 		{
-			"active": 6,
-			"confirmed": 8,
+			"active": 4,
+			"confirmed": 6,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1869,8 +1869,8 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 522,
-			"confirmed": 552,
+			"active": 484,
+			"confirmed": 514,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1893,8 +1893,8 @@
 			"statecode": "MM-17"
 		},
 		{
-			"active": 13,
-			"confirmed": 15,
+			"active": 10,
+			"confirmed": 12,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
