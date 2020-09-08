@@ -1737,10 +1737,10 @@
 			"statecode": "MM-01"
 		},
 		{
-			"active": 66,
-			"confirmed": 75,
+			"active": 57,
+			"confirmed": 66,
 			"deaths": 1,
-			"deltaconfirmed": 9,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "08/09/2020 15:51:43",
@@ -1761,8 +1761,8 @@
 			"statecode": "MM-03"
 		},
 		{
-			"active": 40,
-			"confirmed": 44,
+			"active": 35,
+			"confirmed": 39,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1785,10 +1785,10 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 504,
-			"confirmed": 781,
+			"active": 400,
+			"confirmed": 677,
 			"deaths": 7,
-			"deltaconfirmed": 66,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "08/09/2020 15:51:43",
@@ -1797,8 +1797,8 @@
 			"statecode": "MM-06"
 		},
 		{
-			"active": 7,
-			"confirmed": 9,
+			"active": 6,
+			"confirmed": 8,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1857,8 +1857,8 @@
 			"statecode": "MM-14"
 		},
 		{
-			"active": 16,
-			"confirmed": 18,
+			"active": 15,
+			"confirmed": 17,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1869,10 +1869,10 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 546,
-			"confirmed": 576,
+			"active": 522,
+			"confirmed": 552,
 			"deaths": 0,
-			"deltaconfirmed": 15,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "08/09/2020 15:51:43",
@@ -1881,10 +1881,10 @@
 			"statecode": "MM-16"
 		},
 		{
-			"active": 9,
-			"confirmed": 19,
+			"active": 8,
+			"confirmed": 18,
 			"deaths": 0,
-			"deltaconfirmed": 1,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "08/09/2020 15:51:43",
@@ -1893,10 +1893,10 @@
 			"statecode": "MM-17"
 		},
 		{
-			"active": 14,
-			"confirmed": 16,
+			"active": 13,
+			"confirmed": 15,
 			"deaths": 0,
-			"deltaconfirmed": 1,
+			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "08/09/2020 15:51:43",
