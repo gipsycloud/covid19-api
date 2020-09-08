@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Tonzang, Chin\n2 recoveries in Dagon Myothit (North), Yangon\n1 recover in Hlegu, Yangon",
-    "timestamp": 1596648242
-  },
-  {
     "update": "2 new cases in Tonzang, Chin\n1 recover in Hpa-An, Kayin\n2 recoveries in Insein, Yangon",
     "timestamp": 1596770700
   },
@@ -198,5 +194,9 @@
   {
     "update": "45 new cases in , ",
     "timestamp": 1599449582
+  },
+  {
+    "update": "55 new cases in , \n3 recoveries in Kamaryut, Yangon",
+    "timestamp": 1599543750
   }
 ]
