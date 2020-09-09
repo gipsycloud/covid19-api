@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Dagon, \n1 recover in Botahtaung, Yangon\n1 recover in Dagon Myothit (South), Yangon\n1 recover in Tedim, Chin\n1 recover in Tonzang, Chin\n1 recover in Kyainseikgyi, Kayin\n1 recover in Twantay, Yangon",
-    "timestamp": 1597289180
-  },
-  {
     "update": "8 new cases in Hlaing, Yangon",
     "timestamp": 1597328367
   },
@@ -198,5 +194,9 @@
   {
     "update": "197 new cases in , \n1 death in Pazundaung, Yangon\n1 death in Hlegu, Yangon",
     "timestamp": 1599619352
+  },
+  {
+    "update": "82 new cases in , ",
+    "timestamp": 1599670365
   }
 ]
