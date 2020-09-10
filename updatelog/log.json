@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Kamaryut, Yangon",
-    "timestamp": 1597547959
-  },
-  {
     "update": "1 new case in Sittwe, \n3 recoveries in Kamaryut, Yangon\n2 recoveries in Hlegu, Yangon",
     "timestamp": 1597621349
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases in Maungdaw, Rakhine\n2 new cases in Natmauk, Magway\n1 new case in Myaing, Magway\n5 new cases in Pyapon, Ayeyarwady\n3 new cases in Maubin, Ayeyarwady\n4 new cases in Dagon Myothit (South), Yangon\n1 new case in Bogale, Ayeyarwady\n7 new cases in Thingangyun, Yangon\n1 new case in Bahan, Yangon\n5 new cases in Tamwe, Yangon\n5 new cases in Minbya, Rakhine\n38 new cases in Sittwe, Rakhine\n2 new cases in Kyauktaw, Rakhine\n1 new case in Det Khi Na Thi Ri, Nay Pyi Taw\n2 new cases in South Okkalapa, Yangon\n1 new case in Dagon Myothit (East), Yangon\n2 new cases in Hlaing, Yangon\n1 new case in Kamaryut, Yangon\n3 new cases in Mayangone, Yangon\n1 new case in Insein, Yangon\n1 new case in Mudon, Mon\n1 new case in Mawlamyine, Mon\n1 new case in Kyaikto, Mon\n4 new cases in Meiktila, Mandalay\n1 new case in Patheingyi, Mandalay\n1 new case in Kale, Sagaing\n1 new case in Yamethin, Mandalay\n4 new cases in North Okkalapa, Yangon\n2 new cases in Dagon Myothit (North), Yangon\n1 new case in Dagon, Yangon\n1 new case in Mingalartaungnyunt, Yangon\n1 new case in Lanmadaw, Yangon\n2 new cases in Kawhmu, Yangon\n1 new case in Kyauktada, Yangon\n1 new case in Dawbon, Yangon\n2 new cases, 1 recover in Dala, Yangon\n1 new case in Yankin, Yangon\n1 new case in Latha, Yangon\n2 new cases in Kyeemyindaing, Yangon\n1 new case in Sanchaung, Yangon\n1 new case in Seikgyikanaungto, Yangon\n1 recover in Bhamo, Kachin\n1 recover in Shwepyithar, Yangon",
     "timestamp": 1599745965
+  },
+  {
+    "update": "142 new cases in , ",
+    "timestamp": 1599747866
   }
 ]
