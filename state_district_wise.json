@@ -40,45 +40,45 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 113,
-        "confirmed": 194,
+        "active": 138,
+        "confirmed": 219,
         "deceased": 1,
         "recovered": 80,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 17,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (East)": {
-        "active": 405,
-        "confirmed": 491,
+        "active": 521,
+        "confirmed": 607,
         "deceased": 7,
         "recovered": 79,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 66,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (West)": {
-        "active": 204,
-        "confirmed": 333,
+        "active": 272,
+        "confirmed": 401,
         "deceased": 3,
         "recovered": 126,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 29,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Yangon (South)": {
-        "active": 17,
-        "confirmed": 21,
+        "active": 24,
+        "confirmed": 28,
         "deceased": 1,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -89,8 +89,8 @@
   "Mandalay": {
     "districtData": {
       "Mandalay": {
-        "active": 8,
-        "confirmed": 12,
+        "active": 18,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 4,
         "delta": {
@@ -100,8 +100,8 @@
         }
       },
       "Pyinoolwin": {
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -111,8 +111,8 @@
         }
       },
       "Myingyan": {
-        "active": 46,
-        "confirmed": 46,
+        "active": 48,
+        "confirmed": 48,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -122,8 +122,8 @@
         }
       },
       "Meiktila": {
-        "active": 9,
-        "confirmed": 9,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -149,8 +149,8 @@
   "Nay Pyi Taw": {
     "districtData": {
       "Det Khi Na": {
-        "active": 13,
-        "confirmed": 14,
+        "active": 14,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -307,8 +307,8 @@
   "Mon": {
     "districtData": {
       "Mawlamyine": {
-        "active": 20,
-        "confirmed": 24,
+        "active": 22,
+        "confirmed": 26,
         "deceased": 1,
         "recovered": 3,
         "delta": {
@@ -318,8 +318,8 @@
         }
       },
       "Thaton": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -383,8 +383,8 @@
         }
       },
       "Sagaing": {
-        "active": 0,
-        "confirmed": 3,
+        "active": 1,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 3,
         "delta": {
@@ -486,8 +486,8 @@
         }
       },
       "Hpa-An": {
-        "active": 0,
-        "confirmed": 24,
+        "active": 2,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 24,
         "delta": {
@@ -535,8 +535,8 @@
         }
       },
       "Sittwe": {
-        "active": 283,
-        "confirmed": 407,
+        "active": 296,
+        "confirmed": 420,
         "deceased": 0,
         "recovered": 124,
         "delta": {
@@ -557,8 +557,8 @@
         }
       },
       "Kyaukpyu": {
-        "active": 91,
-        "confirmed": 94,
+        "active": 97,
+        "confirmed": 100,
         "deceased": 0,
         "recovered": 3,
         "delta": {
@@ -606,8 +606,8 @@
         }
       },
       "Myaungmya": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
