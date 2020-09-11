@@ -79,14 +79,32 @@ async function taskDataFile() {
   forEachDate((stringdate, momentdate) => {
     const currentDate = momentdate.unix()
 
-    const dailyConfirmed = allCases.filter((value) => value.dateannounced == stringdate).reduce(Counter, 0);
-    const totalConfirmed = allCases.filter((value) => moment(value.dateannounced, 'DD/MM/YYYY').unix() <= currentDate).reduce(Counter, 0);
+    const dailyConfirmed = allCases.filter((value) => value.dateannounced === stringdate).reduce(Counter, 0);
+    const totalConfirmed = allCases.filter((value) => {
+      const date = moment(value.dateannounced, 'DD/MM/YYYY')
+      if (!date.isValid()) {
+        return false
+      }
+      return date.unix() <= currentDate
+    }).reduce(Counter, 0);
 
-    const dailyRecovered = allRecoveries.filter((value) => value.dischargeddeceaseddate == stringdate).reduce(Counter, 0);
-    const totalRecovered = allRecoveries.filter((value) => moment(value.dischargeddeceaseddate, 'DD/MM/YYYY').unix() <= currentDate).reduce(Counter, 0);
+    const dailyRecovered = allRecoveries.filter((value) => value.dischargeddeceaseddate === stringdate).reduce(Counter, 0);
+    const totalRecovered = allRecoveries.filter((value) => {
+      const date = moment(value.dischargeddeceaseddate, 'DD/MM/YYYY')
+      if (!date.isValid()) {
+        return false
+      }
+      return date.unix() <= currentDate
+    }).reduce(Counter, 0);
 
-    const dailyDeceased = allDeaths.filter((value) => value.dischargeddeceaseddate == stringdate).reduce(Counter, 0);
-    const totalDeceased = allDeaths.filter((value) => moment(value.dischargeddeceaseddate, 'DD/MM/YYYY').unix() <= currentDate).reduce(Counter, 0);
+    const dailyDeceased = allDeaths.filter((value) => value.dischargeddeceaseddate === stringdate).reduce(Counter, 0);
+    const totalDeceased = allDeaths.filter((value) => {
+      const date = moment(value.dischargeddeceaseddate, 'DD/MM/YYYY')
+      if (!date.isValid()) {
+        return false
+      }
+      return date.unix() <= currentDate
+    }).reduce(Counter, 0);
 
     const active = totalConfirmed - totalRecovered - totalDeceased;
 
