@@ -10,6 +10,8 @@ try {
     const announcedToday = today === row.dateannounced;
     const dischargedDeceasedToday = today === row.dischargeddeceaseddate;
     const recoveredToday = today === row.recovereddate;
+    const quantity = Number(row.quantity, 1);
+
     let stateName = row.detectedstate;
       if(!stateName) {
         return acc;
@@ -40,21 +42,21 @@ try {
     }
     const currentDistrict = acc[stateName].districtData[districtName];
   
-    currentDistrict.confirmed++;
+    currentDistrict.confirmed += quantity;
     if (announcedToday) {
-      currentDistrict.delta.confirmed++;
+      currentDistrict.delta.confirmed += quantity;
     }
     if(row.currentstatus === 'Hospitalized') {
-      currentDistrict.active++;
+      currentDistrict.active += quantity;
     } else if(row.currentstatus === 'Deceased') {
-      currentDistrict.deceased++;
+      currentDistrict.deceased += quantity;
       if (dischargedDeceasedToday) {
-        currentDistrict.delta.deceased++;
+        currentDistrict.delta.deceased += quantity;
       }
     } else if(row.currentstatus === 'Recovered') {
-      currentDistrict.recovered++;
+      currentDistrict.recovered += quantity;
       if (recoveredToday) {
-        currentDistrict.delta.recovered++;
+        currentDistrict.delta.recovered += quantity;
       }
     }
 
