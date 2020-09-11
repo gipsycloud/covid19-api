@@ -1,3 +1,4 @@
+const assert = require('assert');
 const moment = require("moment-timezone");
 const rawData = require('../tmp/raw_data');
 const { writeData } = require("../lib");
@@ -39,7 +40,7 @@ async function taskDateWiseDeltaFile() {
           count = raw_data.filter((value) => value.dateannounced === currentDate && value.statecode === statecode).reduce(Counter, 0);
         } else if (status == 'recovered') {
           // count of filtered data by DATE, STATUS, STATECODE
-          count = raw_data.filter((value) => value.recovereddate === currentDate && value.status === status && value.statecode === statecode).reduce(Counter, 0);
+          count = raw_data.filter((value) => value.dischargeddeceaseddate === currentDate && value.status === status && value.statecode === statecode).reduce(Counter, 0);
         } else {
           // count of filtered data by DATE, STATUS, STATECODE
           count = raw_data.filter((value) => value.dischargeddeceaseddate === currentDate && value.status === status && value.statecode === statecode).reduce(Counter, 0);
@@ -70,9 +71,10 @@ async function taskDataFile() {
   
   let timeseries = [];
 
-  const allCases = raw_data
+  const allCases   = raw_data
   const allRecoveries = allCases.filter(value => value.currentstatus === 'Recovered')
-  const allDeaths = allCases.filter(value => value.currentstatus === 'Deceased')
+  const allDeaths  = allCases.filter(value => value.currentstatus === 'Deceased')
+  const allActives = allCases.filter(value => value.currentstatus === 'Hospitalized')
 
   forEachDate((stringdate, momentdate) => {
     const currentDate = momentdate.unix()
@@ -122,14 +124,14 @@ async function taskDataFile() {
 
   // For each state
   statecodes.forEach((statecode) => {
-    const confirmed = raw_data.filter((value) => value.statecode === statecode).reduce(Counter, 0);
-    const deaths    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased').reduce(Counter, 0);
-    const recovered = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Recovered').reduce(Counter, 0);
-    const active    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Hospitalized').reduce(Counter, 0);
+    const confirmed = allCases.filter((value) => value.statecode === statecode).reduce(Counter, 0);
+    const deaths    = allDeaths.filter((value) => value.statecode === statecode).reduce(Counter, 0);
+    const recovered = allRecoveries.filter((value) => value.statecode === statecode).reduce(Counter, 0);
+    const active    = allActives.filter((value) => value.statecode === statecode).reduce(Counter, 0);
 
-    const deltaConfirmed = raw_data.filter((value) => value.statecode === statecode && value.dateannounced === stringdatetoday).reduce(Counter, 0);
-    const deltaDeaths    = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Deceased' && value.dischargeddeceaseddate === stringdatetoday).reduce(Counter, 0);
-    const deltaRecovered = raw_data.filter((value) => value.statecode === statecode && value.currentstatus === 'Recovered' && value.recovereddate === stringdatetoday).reduce(Counter, 0);
+    const deltaConfirmed = allCases.filter((value) => value.statecode === statecode && value.dateannounced === stringdatetoday).reduce(Counter, 0);
+    const deltaDeaths    = allDeaths.filter((value) => value.statecode === statecode && value.dischargeddeceaseddate === stringdatetoday).reduce(Counter, 0);
+    const deltaRecovered = allRecoveries.filter((value) => value.statecode === statecode && value.dischargeddeceaseddate === stringdatetoday).reduce(Counter, 0);
 
     statewise.push({
       state: states[statecode],
@@ -145,14 +147,14 @@ async function taskDataFile() {
   });
 
   // Total
-  const confirmed = raw_data.reduce(Counter, 0);
-  const deaths    = raw_data.filter((value) => value.currentstatus === 'Deceased').reduce(Counter, 0);
-  const recovered = raw_data.filter((value) => value.currentstatus === 'Recovered').reduce(Counter, 0);
-  const active    = raw_data.filter((value) => value.currentstatus === 'Hospitalized').reduce(Counter, 0);
+  const confirmed = allCases.reduce(Counter, 0);
+  const deaths    = allDeaths.reduce(Counter, 0);
+  const recovered = allRecoveries.reduce(Counter, 0);
+  const active    = allActives.reduce(Counter, 0);
 
-  const deltaConfirmed = raw_data.filter((value) => value.dateannounced === stringdatetoday).reduce(Counter, 0);
-  const deltaDeaths    = raw_data.filter((value) => value.currentstatus === 'Deceased' && value.dischargeddeceaseddate === stringdatetoday).reduce(Counter, 0);
-  const deltaRecovered = raw_data.filter((value) => value.currentstatus === 'Recovered' && value.recovereddate === stringdatetoday).reduce(Counter, 0);
+  const deltaConfirmed = allCases.filter((value) => value.dateannounced === stringdatetoday).reduce(Counter, 0);
+  const deltaDeaths    = allDeaths.filter((value) => value.dischargeddeceaseddate === stringdatetoday).reduce(Counter, 0);
+  const deltaRecovered = allRecoveries.filter((value) => value.recovereddate === stringdatetoday).reduce(Counter, 0);
   
   // total entry has to be first entry
   statewise.unshift({
@@ -166,6 +168,9 @@ async function taskDataFile() {
     deltadeaths: deltaDeaths,
     deltarecovered: deltaRecovered
   });
+
+  const lastTimeseries = timeseries[timeseries.length - 1]
+  assert.equal(confirmed, lastTimeseries.totalconfirmed, "Unequal count of confirmed cases")
 
   writeData({file: FILE_DATA, data: {
     cases_time_series: timeseries,
