@@ -1,4 +1,4 @@
-const moment = require("moment");
+const moment = require("moment-timezone");
 const rawData = require('../tmp/raw_data');
 const { writeData } = require("../lib");
 const { FILE_DATA, FILE_DATE_WISE_DELTA } = require("../lib/constants");
@@ -7,13 +7,15 @@ String.prototype.toProperCase = function () {
   return this.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
 };
 
+moment.tz.setDefault('Asia/Rangoon')
+
 const statecodes = ['MM-01','MM-02','MM-03','MM-04','MM-05','MM-06','MM-07','MM-11','MM-12','MM-13','MM-14','MM-15','MM-16','MM-17','MM-18'];
-const beginning = moment("2020-03-22T00:00:00+0630");
+const beginning = moment("2020-03-22T00:00:00");
 
 function forEachDate(callback) {
   const todayDate = moment();
   for (i = 0; i <= todayDate.diff(beginning, 'days'); i++) {
-    const currentDate = moment(beginning).add(i, 'day').utcOffset(390);
+    const currentDate = moment(beginning).add(i, 'day');
     const stringDate = currentDate.format("DD/MM/YYYY");
     callback(stringDate, currentDate);
   }
@@ -70,13 +72,13 @@ async function taskDataFile() {
 
   forEachDate((stringdate, momentdate) => {
     const dailyConfirmed = raw_data.filter((value) => value.dateannounced == stringdate).reduce(Counter, 0);
-    const totalConfirmed = raw_data.filter((value) => moment(`${value.dateannounced}+0630`, 'DD/MM/YYYY').unix() <= momentdate.unix()).reduce(Counter, 0);
+    const totalConfirmed = raw_data.filter((value) => moment(`${value.dateannounced}`, 'DD/MM/YYYY').unix() <= momentdate.unix()).reduce(Counter, 0);
 
     const dailyRecovered = raw_data.filter((value) => value.recovereddate == stringdate && value.currentstatus == 'Recovered').reduce(Counter, 0);
-    const totalRecovered = raw_data.filter((value) => moment(`${value.recovereddate}+0630`, 'DD/MM/YYYY').unix() <= momentdate.unix() && value.currentstatus == 'Recovered').reduce(Counter, 0);
+    const totalRecovered = raw_data.filter((value) => moment(`${value.recovereddate}`, 'DD/MM/YYYY').unix() <= momentdate.unix() && value.currentstatus == 'Recovered').reduce(Counter, 0);
 
     const dailyDeceased = raw_data.filter((value) => value.dischargeddeceaseddate == stringdate && value.currentstatus == 'Deceased').reduce(Counter, 0);
-    const totalDeceased = raw_data.filter((value) => moment(`${value.dischargeddeceaseddate}+0630`, 'DD/MM/YYYY').unix() <= momentdate.unix() && value.currentstatus == 'Deceased').reduce(Counter, 0);
+    const totalDeceased = raw_data.filter((value) => moment(`${value.dischargeddeceaseddate}`, 'DD/MM/YYYY').unix() <= momentdate.unix() && value.currentstatus == 'Deceased').reduce(Counter, 0);
 
     const active = totalConfirmed - totalRecovered - totalDeceased;
 
@@ -93,7 +95,7 @@ async function taskDataFile() {
   });
 
   let statewise = [];
-  const stringdatetoday = moment().utcOffset('+0630').format('DD/MM/YYYY');
+  const stringdatetoday = moment().format('DD/MM/YYYY');
   const states = {
     'MM-07': 'Ayeyarwady',
     'MM-02': 'Bago',
