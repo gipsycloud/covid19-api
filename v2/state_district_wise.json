@@ -569,10 +569,10 @@
     "districtData": [
       {
         "district": "Thandwe",
-        "active": 15,
+        "active": 17,
         "confirmed": 19,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -581,10 +581,10 @@
       },
       {
         "district": "Maungdaw",
-        "active": 27,
+        "active": 30,
         "confirmed": 43,
         "deceased": 0,
-        "recovered": 16,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -593,10 +593,10 @@
       },
       {
         "district": "Sittwe",
-        "active": 329,
+        "active": 393,
         "confirmed": 407,
         "deceased": 0,
-        "recovered": 78,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -605,10 +605,10 @@
       },
       {
         "district": "Mrauk-U",
-        "active": 90,
+        "active": 95,
         "confirmed": 96,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -617,10 +617,10 @@
       },
       {
         "district": "Kyaukpyu",
-        "active": 91,
+        "active": 94,
         "confirmed": 94,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
