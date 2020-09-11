@@ -70,13 +70,13 @@ async function taskDataFile() {
 
   forEachDate((stringdate, momentdate) => {
     const dailyConfirmed = raw_data.filter((value) => value.dateannounced === stringdate).reduce(Counter, 0);
-    const totalConfirmed = raw_data.filter((value) => moment(`${value.dateannounced}+0630`, 'DD/MM/YYYY').isSameOrBefore(momentdate)).reduce(Counter, 0);
+    const totalConfirmed = raw_data.filter((value) => moment(`${value.dateannounced}+0630`, 'DD/MM/YYYY').isSameOrBefore(momentdate, 'day')).reduce(Counter, 0);
 
     const dailyRecovered = raw_data.filter((value) => value.recovereddate === stringdate && value.currentstatus === 'Recovered').reduce(Counter, 0);
-    const totalRecovered = raw_data.filter((value) => moment(`${value.recovereddate}+0630`, 'DD/MM/YYYY').isSameOrBefore(momentdate) && value.currentstatus === 'Recovered').reduce(Counter, 0);
+    const totalRecovered = raw_data.filter((value) => moment(`${value.recovereddate}+0630`, 'DD/MM/YYYY').isSameOrBefore(momentdate, 'day') && value.currentstatus === 'Recovered').reduce(Counter, 0);
 
     const dailyDeceased = raw_data.filter((value) => value.dischargeddeceaseddate === stringdate && value.currentstatus === 'Deceased').reduce(Counter, 0);
-    const totalDeceased = raw_data.filter((value) => moment(`${value.dischargeddeceaseddate}+0630`, 'DD/MM/YYYY').isSameOrBefore(momentdate) && value.currentstatus === 'Deceased').reduce(Counter, 0);
+    const totalDeceased = raw_data.filter((value) => moment(`${value.dischargeddeceaseddate}+0630`, 'DD/MM/YYYY').isSameOrBefore(momentdate, 'day') && value.currentstatus === 'Deceased').reduce(Counter, 0);
 
     const active = totalConfirmed - totalRecovered - totalDeceased;
 
