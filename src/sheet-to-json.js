@@ -28,15 +28,16 @@ async function taskDateWiseDeltaFile() {
     ['inpatient', 'recovered', 'deceased'].forEach((status) => {
       const countByStates = statecodes.reduce((value, statecode) => {
         let count = 0;
+        const counter = (accumulator, currentValue) => accumulator + Number(currentValue.quantity);
         if (status == 'inpatient') {
           // count of filtered data by DATE, STATECODE
-          count = raw_data.filter((value) => value.dateannounced === currentDate && value.statecode === statecode).length;
+          count = raw_data.filter((value) => value.dateannounced === currentDate && value.statecode === statecode).reduce(counter, 0);
         } else if (status == 'recovered') {
           // count of filtered data by DATE, STATUS, STATECODE
-          count = raw_data.filter((value) => value.recovereddate === currentDate && value.status === status && value.statecode === statecode).length;
+          count = raw_data.filter((value) => value.recovereddate === currentDate && value.status === status && value.statecode === statecode).reduce(counter, 0);
         } else {
           // count of filtered data by DATE, STATUS, STATECODE
-          count = raw_data.filter((value) => value.dischargeddeceaseddate === currentDate && value.status === status && value.statecode === statecode).length;
+          count = raw_data.filter((value) => value.dischargeddeceaseddate === currentDate && value.status === status && value.statecode === statecode).reduce(counter, 0);
         }
         value[statecode.toLowerCase()] = String(count);
         return value;
