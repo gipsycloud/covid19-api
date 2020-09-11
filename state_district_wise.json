@@ -513,10 +513,10 @@
   "Rakhine": {
     "districtData": {
       "Thandwe": {
-        "active": 17,
+        "active": 15,
         "confirmed": 19,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -524,10 +524,10 @@
         }
       },
       "Maungdaw": {
-        "active": 30,
+        "active": 27,
         "confirmed": 43,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 16,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -535,10 +535,10 @@
         }
       },
       "Sittwe": {
-        "active": 393,
+        "active": 329,
         "confirmed": 407,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 78,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -546,10 +546,10 @@
         }
       },
       "Mrauk-U": {
-        "active": 95,
+        "active": 90,
         "confirmed": 96,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -557,10 +557,10 @@
         }
       },
       "Kyaukpyu": {
-        "active": 94,
+        "active": 91,
         "confirmed": 94,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
