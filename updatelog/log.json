@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 new cases in Sittwe, Rakhine",
-    "timestamp": 1597807194
-  },
-  {
     "update": "14 new cases, 1 recover in Kamaryut, Yangon\n1 new case, 1 recover in Mingaladon, Yangon",
     "timestamp": 1597850397
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Kyauktada, Yangon\n2 recoveries in Tonzang, Chin\n7 recoveries in Kamaryut, Yangon\n5 recoveries in Hlaing, Yangon\n1 recover in Tedim, Chin\n1 recover in Insein, Yangon\n1 recover in Mawlamyine, Mon\n13 recoveries in Pauktaw, Rakhine\n1 recover in South Okkalapa, Yangon\n5 recoveries in Minbya, Rakhine\n33 recoveries in Sittwe, Rakhine\n6 recoveries in Kyauktaw, Rakhine\n2 recoveries in Buthidaung, Rakhine\n1 recover in Chanayethazan, Mandalay",
     "timestamp": 1599818959
+  },
+  {
+    "update": "157 new cases in , ",
+    "timestamp": 1599832383
   }
 ]
