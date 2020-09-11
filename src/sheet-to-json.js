@@ -70,15 +70,21 @@ async function taskDataFile() {
   
   let timeseries = [];
 
+  const allCases = raw_data
+  const allRecoveries = allCases.filter(value => value.currentstatus === 'Recovered')
+  const allDeaths = allCases.filter(value => value.currentstatus === 'Deceased')
+
   forEachDate((stringdate, momentdate) => {
-    const dailyConfirmed = raw_data.filter((value) => value.dateannounced == stringdate).reduce(Counter, 0);
-    const totalConfirmed = raw_data.filter((value) => moment(`${value.dateannounced}`, 'DD/MM/YYYY').unix() <= momentdate.unix()).reduce(Counter, 0);
+    const currentDate = momentdate.unix()
 
-    const dailyRecovered = raw_data.filter((value) => value.recovereddate == stringdate && value.currentstatus == 'Recovered').reduce(Counter, 0);
-    const totalRecovered = raw_data.filter((value) => moment(`${value.recovereddate}`, 'DD/MM/YYYY').unix() <= momentdate.unix() && value.currentstatus == 'Recovered').reduce(Counter, 0);
+    const dailyConfirmed = allCases.filter((value) => value.dateannounced == stringdate).reduce(Counter, 0);
+    const totalConfirmed = allCases.filter((value) => moment(value.dateannounced, 'DD/MM/YYYY').unix() <= currentDate).reduce(Counter, 0);
 
-    const dailyDeceased = raw_data.filter((value) => value.dischargeddeceaseddate == stringdate && value.currentstatus == 'Deceased').reduce(Counter, 0);
-    const totalDeceased = raw_data.filter((value) => moment(`${value.dischargeddeceaseddate}`, 'DD/MM/YYYY').unix() <= momentdate.unix() && value.currentstatus == 'Deceased').reduce(Counter, 0);
+    const dailyRecovered = allRecoveries.filter((value) => value.dischargeddeceaseddate == stringdate).reduce(Counter, 0);
+    const totalRecovered = allRecoveries.filter((value) => moment(value.dischargeddeceaseddate, 'DD/MM/YYYY').unix() <= currentDate).reduce(Counter, 0);
+
+    const dailyDeceased = allDeaths.filter((value) => value.dischargeddeceaseddate == stringdate).reduce(Counter, 0);
+    const totalDeceased = allDeaths.filter((value) => moment(value.dischargeddeceaseddate, 'DD/MM/YYYY').unix() <= currentDate).reduce(Counter, 0);
 
     const active = totalConfirmed - totalRecovered - totalDeceased;
 
