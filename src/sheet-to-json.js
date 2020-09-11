@@ -40,7 +40,7 @@ async function taskDateWiseDeltaFile() {
           count = raw_data.filter((value) => value.dateannounced === currentDate && value.statecode === statecode).reduce(Counter, 0);
         } else if (status == 'recovered') {
           // count of filtered data by DATE, STATUS, STATECODE
-          count = raw_data.filter((value) => value.dischargeddeceaseddate === currentDate && value.status === status && value.statecode === statecode).reduce(Counter, 0);
+          count = raw_data.filter((value) => (value.recovereddate || value.dischargeddeceaseddate) === currentDate && value.status === status && value.statecode === statecode).reduce(Counter, 0);
         } else {
           // count of filtered data by DATE, STATUS, STATECODE
           count = raw_data.filter((value) => value.dischargeddeceaseddate === currentDate && value.status === status && value.statecode === statecode).reduce(Counter, 0);
@@ -90,7 +90,7 @@ async function taskDataFile() {
 
     const dailyRecovered = allRecoveries.filter((value) => value.dischargeddeceaseddate === stringdate).reduce(Counter, 0);
     const totalRecovered = allRecoveries.filter((value) => {
-      const date = moment(value.dischargeddeceaseddate, 'DD/MM/YYYY')
+      const date = moment(value.recovereddate || value.dischargeddeceaseddate, 'DD/MM/YYYY')
       if (!date.isValid()) {
         return false
       }
@@ -149,7 +149,7 @@ async function taskDataFile() {
 
     const deltaConfirmed = allCases.filter((value) => value.statecode === statecode && value.dateannounced === stringdatetoday).reduce(Counter, 0);
     const deltaDeaths    = allDeaths.filter((value) => value.statecode === statecode && value.dischargeddeceaseddate === stringdatetoday).reduce(Counter, 0);
-    const deltaRecovered = allRecoveries.filter((value) => value.statecode === statecode && value.dischargeddeceaseddate === stringdatetoday).reduce(Counter, 0);
+    const deltaRecovered = allRecoveries.filter((value) => value.statecode === statecode && (value.recovereddate || value.dischargeddeceaseddate) === stringdatetoday).reduce(Counter, 0);
 
     statewise.push({
       state: states[statecode],
@@ -172,7 +172,7 @@ async function taskDataFile() {
 
   const deltaConfirmed = allCases.filter((value) => value.dateannounced === stringdatetoday).reduce(Counter, 0);
   const deltaDeaths    = allDeaths.filter((value) => value.dischargeddeceaseddate === stringdatetoday).reduce(Counter, 0);
-  const deltaRecovered = allRecoveries.filter((value) => value.recovereddate === stringdatetoday).reduce(Counter, 0);
+  const deltaRecovered = allRecoveries.filter((value) => (value.recovereddate || value.dischargeddeceaseddate) === stringdatetoday).reduce(Counter, 0);
   
   // total entry has to be first entry
   statewise.unshift({
