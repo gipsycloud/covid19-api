@@ -18903,7 +18903,7 @@
 		{
 			"agebracket": "3",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "29/08/2020",
 			"detectedcity": "Kyaukpyu",
 			"detectedcitymm": "ကျောက်ဖြူ",
@@ -18911,7 +18911,7 @@
 			"detectedstate": "Rakhine",
 			"detectedsubstate": "Rakhine",
 			"detectedtownship": "Kyaukpyu",
-			"dischargeddeceaseddate": "",
+			"dischargeddeceaseddate": "12/09/2020",
 			"gender": "F",
 			"hospitalname": "Kyaukphyu General Hospital",
 			"labresult": "positive",
@@ -18924,7 +18924,7 @@
 			"source1": "https://mohs.gov.mm/page/12164",
 			"source2": "",
 			"statecode": "MM-16",
-			"status": "inpatient",
+			"status": "recovered",
 			"townshipcode": "MMR012011",
 			"typeoftransmission": "Local"
 		},

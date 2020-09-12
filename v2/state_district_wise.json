@@ -617,10 +617,10 @@
       },
       {
         "district": "Kyaukpyu",
-        "active": 99,
+        "active": 98,
         "confirmed": 102,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

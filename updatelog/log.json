@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Sittwe, ",
-    "timestamp": 1597891962
-  },
-  {
     "update": "3 new cases in Sittwe, Rakhine",
     "timestamp": 1597931542
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Mingaladon, Yangon",
     "timestamp": 1599888929
+  },
+  {
+    "update": "1 recover in Kyaukpyu, Rakhine",
+    "timestamp": 1599919789
   }
 ]
