@@ -1749,6 +1749,16 @@
 			"totalconfirmed": 2445,
 			"totaldeceased": 15,
 			"totalrecovered": 469
+		},
+		{
+			"active": 1961,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "13/09/2020",
+			"totalconfirmed": 2445,
+			"totaldeceased": 15,
+			"totalrecovered": 469
 		}
 	],
 	"statewise": [
@@ -1758,7 +1768,7 @@
 			"deaths": 15,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "12/09/2020 20:40:19",
 			"recovered": 549,
 			"state": "Total",
@@ -1914,7 +1924,7 @@
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
-			"deltarecovered": 1,
+			"deltarecovered": 0,
 			"lastupdatedtime": "12/09/2020 20:40:19",
 			"recovered": 167,
 			"state": "Rakhine",
