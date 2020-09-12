@@ -1,9 +1,5 @@
 [
   {
-    "update": "14 new cases, 1 recover in Kamaryut, Yangon\n1 new case, 1 recover in Mingaladon, Yangon",
-    "timestamp": 1597850397
-  },
-  {
     "update": "2 new cases in Sittwe, ",
     "timestamp": 1597891962
   },
@@ -198,5 +194,9 @@
   {
     "update": "157 new cases in , ",
     "timestamp": 1599832383
+  },
+  {
+    "update": "1 death in Mingaladon, Yangon",
+    "timestamp": 1599888929
   }
 ]
