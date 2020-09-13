@@ -62,13 +62,13 @@
         }
       },
       "Yangon (West)": {
-        "active": 358,
+        "active": 357,
         "confirmed": 490,
-        "deceased": 3,
+        "deceased": 4,
         "recovered": 129,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
