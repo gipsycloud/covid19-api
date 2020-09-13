@@ -1759,6 +1759,16 @@
 			"totalconfirmed": 2796,
 			"totaldeceased": 17,
 			"totalrecovered": 643
+		},
+		{
+			"active": 2136,
+			"dailyconfirmed": 0,
+			"dailydeceased": 0,
+			"dailyrecovered": 0,
+			"date": "14/09/2020",
+			"totalconfirmed": 2796,
+			"totaldeceased": 17,
+			"totalrecovered": 643
 		}
 	],
 	"statewise": [
@@ -1767,7 +1777,7 @@
 			"confirmed": 2796,
 			"deaths": 17,
 			"deltaconfirmed": 0,
-			"deltadeaths": 2,
+			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "13/09/2020 21:58:32",
 			"recovered": 643,
@@ -1839,7 +1849,7 @@
 			"confirmed": 1652,
 			"deaths": 15,
 			"deltaconfirmed": 0,
-			"deltadeaths": 2,
+			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "13/09/2020 21:58:32",
 			"recovered": 291,
