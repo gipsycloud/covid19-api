@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 new cases in Sittwe, Rakhine\n2 new cases in Mrauk-U, Rakhine\n1 recover in Mingaladon, Yangon",
-    "timestamp": 1598103760
-  },
-  {
     "update": "1 new case in Tedim, Chin\n2 new cases in Thandwe, Rakhine",
     "timestamp": 1598153211
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Dagon Myothit (North), Yangon\n1 death in Thingangyun, Yangon",
     "timestamp": 1600064892
+  },
+  {
+    "update": "1 new case in Mahaaungmyay, Mandalay\n1 new case in Chanayethazan, Mandalay\n1 new case in Amarapura, Mandalay\n1 new case in Chanmyathazi, Mandalay\n1 new case in Pyinoolwin, Mandalay\n1 new case in Oke Ta Ra Thi Ri, Nay Pyi Taw\n1 new case in Za Bu Thi Ri, Nay Pyi Taw\n1 new case in Myaung, Sagaing\n1 new case in Indaw, Sagaing\n1 new case in Taze, Sagaing\n1 new case in Nansang, Shan\n1 new case in Mrauk-U, Rakhine\n1 new case in Sittwe, Rakhine\n1 new case in Myawaddy, Kayin\n1 new case in Pathein, Ayeyarwady\n1 new case in Bogale, Ayeyarwady\n1 new case in Pyapon, Ayeyarwady\n1 new case in Maubin, Ayeyarwady\n1 new case in Monyo, Bago\n1 new case in Bago, Bago\n1 new case in Tamwe, Yangon\n1 new case, 1 death in Thingangyun, Yangon\n1 new case in Mingaladon, Yangon\n1 new case, 1 death in Dagon Myothit (North), Yangon\n1 new case in Hlaing, Yangon\n1 new case in Ahlone, Yangon\n1 new case in South Okkalapa, Yangon\n1 new case in North Okkalapa, Yangon\n1 new case in Thaketa, Yangon\n1 new case in Kyeemyindaing, Yangon\n1 new case in Sanchaung, Yangon\n1 new case in Dagon Myothit (East), Yangon\n1 new case in Dagon Myothit (South), Yangon\n1 new case in Dagon Myothit (Seikkan), Yangon\n1 new case in Mingalartaungnyunt, Yangon\n1 new case in Botahtaung, Yangon\n1 new case in Hlaingtharya, Yangon\n1 new case in Latha, Yangon\n1 new case in Dagon, Yangon\n1 new case in Dawbon, Yangon",
+    "timestamp": 1600075441
   }
 ]
