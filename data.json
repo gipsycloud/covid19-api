@@ -1761,23 +1761,23 @@
 			"totalrecovered": 643
 		},
 		{
-			"active": 2291,
+			"active": 2290,
 			"dailyconfirmed": 158,
-			"dailydeceased": 1,
+			"dailydeceased": 2,
 			"dailyrecovered": 0,
 			"date": "14/09/2020",
 			"totalconfirmed": 2954,
-			"totaldeceased": 20,
+			"totaldeceased": 21,
 			"totalrecovered": 643
 		}
 	],
 	"statewise": [
 		{
-			"active": 2291,
+			"active": 2290,
 			"confirmed": 2954,
-			"deaths": 20,
+			"deaths": 21,
 			"deltaconfirmed": 158,
-			"deltadeaths": 1,
+			"deltadeaths": 2,
 			"deltarecovered": 0,
 			"lastupdatedtime": "14/09/2020 22:38:55",
 			"recovered": 643,
@@ -1845,11 +1845,11 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 1463,
+			"active": 1462,
 			"confirmed": 1772,
-			"deaths": 18,
+			"deaths": 19,
 			"deltaconfirmed": 120,
-			"deltadeaths": 1,
+			"deltadeaths": 2,
 			"deltarecovered": 0,
 			"lastupdatedtime": "14/09/2020 22:38:55",
 			"recovered": 291,
