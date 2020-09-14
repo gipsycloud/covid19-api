@@ -1,9 +1,5 @@
 [
   {
-    "update": "16 new cases in Sittwe, Rakhine",
-    "timestamp": 1598061146
-  },
-  {
     "update": "4 new cases in Sittwe, Rakhine\n2 new cases in Mrauk-U, Rakhine\n1 recover in Mingaladon, Yangon",
     "timestamp": 1598103760
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Dagon Myothit (North), Yangon\n1 death in Thingangyun, Yangon",
     "timestamp": 1600050375
+  },
+  {
+    "update": "1 death in Dagon Myothit (North), Yangon\n1 death in Thingangyun, Yangon",
+    "timestamp": 1600064892
   }
 ]
