@@ -1,9 +1,5 @@
 [
   {
-    "update": "13 new cases in Sittwe, ",
-    "timestamp": 1598236957
-  },
-  {
     "update": "2 new cases in Hlaing, Yangon\n1 new case in Kamaryut, Yangon\n4 new cases in Buthidaung, Rakhine\n4 new cases in Sittwe, Rakhine",
     "timestamp": 1598281692
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Tamwe, Yangon",
     "timestamp": 1600101209
+  },
+  {
+    "update": "1 death in Tamwe, Yangon",
+    "timestamp": 1600104810
   }
 ]
