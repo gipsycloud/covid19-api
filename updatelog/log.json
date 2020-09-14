@@ -1,9 +1,5 @@
 [
   {
-    "update": "10 new cases in Sittwe, Rakhine\n1 recover in Tamwe, Yangon\n1 recover in Botahtaung, Yangon\n1 recover in Hlaing, Yangon\n1 recover in Kamaryut, Yangon",
-    "timestamp": 1598017338
-  },
-  {
     "update": "16 new cases in Sittwe, Rakhine",
     "timestamp": 1598061146
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Mayangone, Yangon",
     "timestamp": 1600006995
+  },
+  {
+    "update": "1 death in Dagon Myothit (North), Yangon\n1 death in Thingangyun, Yangon",
+    "timestamp": 1600050375
   }
 ]
