@@ -89,10 +89,10 @@
   "Mandalay": {
     "districtData": {
       "Mandalay": {
-        "active": 36,
+        "active": 37,
         "confirmed": 41,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -568,10 +568,10 @@
   "Rakhine": {
     "districtData": {
       "Thandwe": {
-        "active": 7,
+        "active": 10,
         "confirmed": 20,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -579,10 +579,10 @@
         }
       },
       "Maungdaw": {
-        "active": 25,
+        "active": 31,
         "confirmed": 49,
         "deceased": 0,
-        "recovered": 24,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -590,10 +590,10 @@
         }
       },
       "Sittwe": {
-        "active": 285,
+        "active": 293,
         "confirmed": 453,
         "deceased": 0,
-        "recovered": 168,
+        "recovered": 160,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -601,10 +601,10 @@
         }
       },
       "Mrauk-U": {
-        "active": 71,
+        "active": 73,
         "confirmed": 99,
         "deceased": 0,
-        "recovered": 28,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -612,10 +612,10 @@
         }
       },
       "Kyaukpyu": {
-        "active": 62,
+        "active": 65,
         "confirmed": 103,
         "deceased": 0,
-        "recovered": 41,
+        "recovered": 38,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
