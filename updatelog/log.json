@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Hlaing, Yangon\n1 new case in Taunggyi, Shan\n1 new case in Insein, Yangon\n3 new cases in Kyaukpyu, Rakhine\n1 new case in Mawlamyine, Mon\n12 new cases in Pauktaw, Rakhine\n10 new cases in Sittwe, Rakhine",
-    "timestamp": 1598371721
-  },
-  {
     "update": "70 new cases in , #N/A",
     "timestamp": 1598414919
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Mrauk-U, Rakhine\n6 recoveries in Maungdaw, Rakhine\n1 recover in Gwa, Rakhine\n2 recoveries in Toungup, Rakhine\n1 recover in Chanmyathazi, Mandalay\n2 recoveries in Ann, Rakhine\n1 recover in Kyaukpyu, Rakhine\n8 recoveries in Sittwe, Rakhine",
     "timestamp": 1600140222
+  },
+  {
+    "update": "2 recoveries in Mrauk-U, Rakhine\n6 recoveries in Maungdaw, Rakhine\n1 recover in Gwa, Rakhine\n2 recoveries in Toungup, Rakhine\n1 recover in Chanmyathazi, Mandalay\n2 recoveries in Ann, Rakhine\n1 recover in Kyaukpyu, Rakhine\n8 recoveries in Sittwe, Rakhine",
+    "timestamp": 1600143875
   }
 ]

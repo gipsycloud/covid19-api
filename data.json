@@ -1751,46 +1751,46 @@
 			"totalrecovered": 643
 		},
 		{
-			"active": 2134,
+			"active": 2111,
 			"dailyconfirmed": 351,
 			"dailydeceased": 3,
-			"dailyrecovered": 0,
+			"dailyrecovered": 23,
 			"date": "13/09/2020",
 			"totalconfirmed": 2796,
 			"totaldeceased": 19,
-			"totalrecovered": 643
+			"totalrecovered": 666
 		},
 		{
-			"active": 2290,
+			"active": 2267,
 			"dailyconfirmed": 158,
 			"dailydeceased": 2,
 			"dailyrecovered": 0,
 			"date": "14/09/2020",
 			"totalconfirmed": 2954,
 			"totaldeceased": 21,
-			"totalrecovered": 643
+			"totalrecovered": 666
 		},
 		{
-			"active": 2290,
+			"active": 2267,
 			"dailyconfirmed": 0,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "15/09/2020",
 			"totalconfirmed": 2954,
 			"totaldeceased": 21,
-			"totalrecovered": 643
+			"totalrecovered": 666
 		}
 	],
 	"statewise": [
 		{
-			"active": 2290,
+			"active": 2267,
 			"confirmed": 2954,
 			"deaths": 21,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "15/09/2020 09:52:38",
-			"recovered": 643,
+			"recovered": 666,
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1831,14 +1831,14 @@
 			"statecode": "MM-03"
 		},
 		{
-			"active": 101,
+			"active": 100,
 			"confirmed": 106,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "15/09/2020 09:52:38",
-			"recovered": 5,
+			"recovered": 6,
 			"state": "Mandalay",
 			"statecode": "MM-04"
 		},
@@ -1939,14 +1939,14 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 472,
+			"active": 450,
 			"confirmed": 724,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "15/09/2020 09:52:38",
-			"recovered": 252,
+			"recovered": 274,
 			"state": "Rakhine",
 			"statecode": "MM-16"
 		},
